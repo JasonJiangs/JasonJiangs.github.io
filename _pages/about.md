@@ -26,7 +26,7 @@ I'm also a research assistant at [Prof.Yanjun Li's Lab](https://yanjun-li.com/in
 Previously I received my Bachelor's degree in Computer Science from Wenzhou-Kean University. 
 During my undergrad, I was fortunate to work with [Prof.Aloysius Wong](https://wku.edu.cn/faculty/aloysius-wong/).
 
-My research interests lie in bioinformatics, computational biology, simulation, machine learning, and AI4Science.
+My research interests lie in bioinformatics, computational biology, deep learning, and AI for science.
 I also have experiences in software engineering with Java, Python, Go, and React.js.
 
 # 📖 Educations
@@ -34,9 +34,13 @@ I also have experiences in software engineering with Java, Python, Go, and React
 - *2018.08 - 2022.05*, Bachelor of Science, Computer Science. College of Science and Technology, Wenzhou-Kean University. *Wenzhou, China*
 
 # 💻 Experiences
-- *2023.06 - Present*, Research Assistant, [Li Lab at University of Florida College of Pharmacy](https://yanjun-li.com/index.html), Gainesville, FL.
+
+[//]: # (- *2023.08 - Present*, Research Assistant &#40;Remote&#41;, [Qiu Lab at Stanford University School of Medicine]&#40;https://www.devo-evo.com/&#41;.)
+
+[//]: # (  - Single-cell pretraining model.)
+- *2023.06 - Present*, Research Assistant (Remote), [Li Lab at University of Florida College of Pharmacy](https://yanjun-li.com/index.html).
   - AI drug discovery.
-- *2023.01 - Present*, Research Assistant, [Chongzhi Zang Lab at University of Virginia School of Medicine](https://zanglab.github.io/index.htm), Charlottesville, VA.
+- *2023.01 - Present*, Research Assistant, [Dr.Chongzhi Zang Lab at University of Virginia School of Medicine](https://zanglab.github.io/index.htm), Charlottesville, VA.
   - Computational biology and bioinformatics.
 - *2022.09 - 2023.06*, Research Assistant, [Dr.Ghobadi's Lab at Johns Hopkins Withing School of Engineering](https://systems.jhu.edu/kimia/), Baltimore, MD.
   - Multi-agent simulation, affective model, visualization, and network analysis.
@@ -131,37 +135,25 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 [comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 🧑‍💻 Software
-## Web server
-- [HNOXPred](https://github.com/JasonJiangs/HNOX_Pred) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains): This web server predicts gas sensing H-NOX proteins from amino acid sequence.
-  The software takes a single or multiple amino acid sequence and returns predicted H-NOX centers accompanied by HNOX scores scaled from 0 to 1, where 1 is closest to the mean of H-NOX proteins in HNOXPred database.
-- [Agent-based Model Analysis Dashboard](https://github.com/caranha/Koudou/tree/ALIFE_2023/src/dashapp): This is a responsive analytical web tool supporting statistical, geographical, and visualization
-  analysis based on the result from a multi-agent system simulating infectious disease. It allows user to upload up to three sets of 
-  result data and output comparative analysis.
-
-[//]: # (## Python/R Package)
-
-[//]: # (- [SICER2]&#40;&#41;: This is a Python package for spatial interpolation of ChIP-enriched regions. It is a reimplementation of the SICER algorithm in Python, with a focus on improving the performance of the original SICER algorithm.)
-
 ## Research Pipeline & Model
 [comment]: <> (- [Nano-plastic ML Detector]&#40;&#41;:)
-- [Agent-based Model for Epidemic Simulation](https://github.com/caranha/Koudou/tree/ALIFE_2023): 
-  This is an agent-based model that considers the effects of masking and large scale evacuations at the scale of 
-  a large university campus and its neighborhood. This project is part of a larger effort to create a simulator that 
-  considers how human mobility interacts with large scale events at a neighborhood level in the Japanese context.
+- [Nano-plastics ML](https://github.com/Haoxin01/Nanoplastics-ML): This work applies machine learning to forecast types and concentrations of nanoplastics in the environment.
+- [Koudou: An Agent-based Model for Epidemic Simulation](https://github.com/caranha/Koudou/tree/ALIFE_2023): 
+  This agent-based model analyzes the impact of masking and large-scale evacuations on human mobility within a university campus and its neighborhood.
 - [RNA-seq & ChIP-seq Joint Analysis Pipeline](https://github.com/JasonJiangs/RNAseq-ChIPseq-Joint-Pipeline): 
-  It is an extensible and modular pipeline combining RNA-seq and ChIP-seq tools for exploring transcriptional regulatory function with high-throughout data, 
-  with easy configuration via YAML files and command line arguments.
+  This pipeline integrates RNA-seq and ChIP-seq tools for analyzing transcriptional regulation, configured easily through YAML files and command-line arguments.
 
-[//]: # (- [Nano-plastics ML]&#40;&#41;: )
-
-[//]: # (- [RNA-SMOL-RGCN]&#40;&#41;:)
+## Web server
+- [HNOXPred](https://github.com/JasonJiangs/HNOX_Pred) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
+  This web server predicts gas-sensing H-NOX proteins from amino acid sequences, returning H-NOX centers and scores scaled from 0 to 1 based on comparisons to the HNOXPred database.
+- [Koudou Simulator Analyser](https://github.com/caranha/Koudou/tree/ALIFE_2023/src/dashapp):
+  This web tool provides statistical, geographical, and visualization analysis of infectious disease simulations for the Koudou Simulator, allowing comparative analysis.
 
 ## Full-stack
 - [OfficeAdmin](https://github.com/JasonJiangs/OfficeAdmin): An office management system developed by Spring Boot, MyBatis-Plus, Redis, MySQL, etc.
 - [Microservice](https://github.com/JasonJiangs/Microservice): The project implements several small scripts and microservices using Golang and its frameworks.
 
 # 🌎 Miscellaneous
-[comment]: <> (- [My Blog]&#40;https://jasonjiangs.github.io/Tech-Note/&#41;: I am recording some of my works and thoughts in form of blog.)
 Soccer (Visca Barça~), Gym, Table tennis, Piano, Traveling, etc.
 
 
