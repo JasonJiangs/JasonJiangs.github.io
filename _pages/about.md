@@ -20,8 +20,9 @@ redirect_from:
 # 🗨 About Me
 Hello, my name is Shiyu, a master student majoring in computer science at Whiting School of Engineering, Johns Hopkins University 
 advised by [Prof.Kimia Ghobadi](https://systems.jhu.edu/kimia/) and [Prof.Claus Aranha](http://conclave.cs.tsukuba.ac.jp/). 
-I'm current working as a full-time research assistant at [Prof.Chongzhi Zang's Lab](https://zanglab.github.io/index.htm) on computational biology.
-I'm also a research assistant at [Prof.Yanjun Li's Lab](https://yanjun-li.com/index.html).
+I'm current working as a part-time research assistant at [Prof.Chongzhi Zang's Lab](https://zanglab.github.io/index.htm) on computational biology.
+
+[//]: # (I'm also a research assistant at [Prof.Yanjun Li's Lab]&#40;https://yanjun-li.com/index.html&#41; on AIDD.)
 
 Previously I received my Bachelor's degree in Computer Science from Wenzhou-Kean University. 
 During my undergrad, I was fortunate to work with [Prof.Aloysius Wong](https://wku.edu.cn/faculty/aloysius-wong/).
@@ -34,15 +35,14 @@ I also have experiences in software engineering with Java, Python, Go, and React
 - *2018.08 - 2022.05*, Bachelor of Science, Computer Science. College of Science and Technology, Wenzhou-Kean University. *Wenzhou, China*
 
 # 💻 Experiences
-
-[//]: # (- *2023.08 - Present*, Research Assistant &#40;Remote&#41;, [Qiu Lab at Stanford University School of Medicine]&#40;https://www.devo-evo.com/&#41;.)
-
-[//]: # (  - Single-cell pretraining model.)
-- *2023.06 - Present*, Research Assistant (Remote), [Li Lab at University of Florida College of Pharmacy](https://yanjun-li.com/index.html).
+- *2023.08 - Present*, Research Assistant (Remote), [Dr.Xiaojie Qiu's Lab](https://www.devo-evo.com/).
+  - Single-cell pretrained model.
+- *2023.06 - Present*, Research Assistant (Remote), [Li Lab, University of Florida College of Pharmacy](https://yanjun-li.com/index.html).
   - AI drug discovery.
-- *2023.01 - Present*, Research Assistant, [Dr.Chongzhi Zang Lab at University of Virginia School of Medicine](https://zanglab.github.io/index.htm), Charlottesville, VA.
-  - Computational biology and bioinformatics.
-- *2022.09 - 2023.06*, Research Assistant, [Dr.Ghobadi's Lab at Johns Hopkins Withing School of Engineering](https://systems.jhu.edu/kimia/), Baltimore, MD.
+- *2023.01 - Present*, Research Assistant, [Chongzhi Zang Lab, University of Virginia School of Medicine](https://zanglab.github.io/index.htm), Charlottesville, VA.
+  - Computational genomics.
+  - Redesign ChIP-seq broad peak calling tool - SICER2.
+- *2022.09 - 2023.07*, Research Assistant, [Dr.Ghobadi's Lab, Johns Hopkins Withing School of Engineering](https://systems.jhu.edu/kimia/), Baltimore, MD.
   - Multi-agent simulation, affective model, visualization, and network analysis.
   - Master's thesis: Analyzing Epidemic Spread with Agent-based Simulation Model and Network Analysis.
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), Hangzhou, China.
