@@ -34,7 +34,6 @@ I also have experiences in software engineering with Java, Python, Go, and React
 
 # 📰 News
 
-[//]: # (- *2023.12*: The Work "scTab" at Dr.Qiu's Lab has been accepted by RECOMBE 2024. )
 
 # 💻 Experiences
 - *2023.08 - Present*, Research Assistant (Remote), [Qiu Lab](https://www.devo-evo.com/), Stanford University.
