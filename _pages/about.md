@@ -22,8 +22,6 @@ Hello, my name is Shiyu, a master student majoring in computer science at Whitin
 advised by [Prof.Kimia Ghobadi](https://systems.jhu.edu/kimia/) and [Prof.Claus Aranha](http://conclave.cs.tsukuba.ac.jp/). 
 I'm current working as a part-time research assistant at [Prof.Chongzhi Zang's Lab](https://zanglab.github.io/index.htm) on computational biology.
 
-[//]: # (I'm also a research assistant at [Prof.Yanjun Li's Lab]&#40;https://yanjun-li.com/index.html&#41; on AIDD.)
-
 Previously I received my Bachelor's degree in Computer Science from Wenzhou-Kean University. 
 During my undergrad, I was fortunate to work with [Prof.Aloysius Wong](https://wku.edu.cn/faculty/aloysius-wong/).
 
@@ -34,29 +32,28 @@ I also have experiences in software engineering with Java, Python, Go, and React
 - *2022.08 - 2023.12*, Master of Science in Engineering, Computer Science. Whiting School of Engineering, Johns Hopkins University. *Baltimore, MD* 
 - *2018.08 - 2022.05*, Bachelor of Science, Computer Science. College of Science and Technology, Wenzhou-Kean University. *Wenzhou, China*
 
+# 📰 News
+
+[//]: # (- *2023.12*: The Work "scTab" at Dr.Qiu's Lab has been accepted by RECOMBE 2024. )
+
 # 💻 Experiences
-- *2023.08 - Present*, Research Assistant (Remote), [Dr.Xiaojie Qiu's Lab](https://www.devo-evo.com/).
+- *2023.08 - Present*, Research Assistant (Remote), [Qiu Lab](https://www.devo-evo.com/), Stanford University.
   - Single-cell pretrained model.
-- *2023.06 - Present*, Research Assistant (Remote), [Li Lab, University of Florida College of Pharmacy](https://yanjun-li.com/index.html).
-  - AI drug discovery.
-- *2023.01 - Present*, Research Assistant, [Chongzhi Zang Lab, University of Virginia School of Medicine](https://zanglab.github.io/index.htm), Charlottesville, VA.
+- *2023.06 - Present*, Research Assistant (Remote), [Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy.
+  - RNA-small molecule interaction.
+- *2023.01 - Present*, Research Assistant, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, Charlottesville, VA.
   - Computational genomics.
-  - Redesign ChIP-seq broad peak calling tool - SICER2.
-- *2022.09 - 2023.07*, Research Assistant, [Dr.Ghobadi's Lab, Johns Hopkins Withing School of Engineering](https://systems.jhu.edu/kimia/), Baltimore, MD.
+  - ChIP-seq broad peak calling tool redesign.
+- *2022.09 - 2023.07*, Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, Baltimore, MD.
   - Multi-agent simulation, affective model, visualization, and network analysis.
   - Master's thesis: Analyzing Epidemic Spread with Agent-based Simulation Model and Network Analysis.
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), Hangzhou, China.
   - Technology Used: Java, MySQL, JDBC, ShardingSphere-Proxy, ZooKeeper, JUnit, Mockito.
-- *2021.09 - 2022.08*, Deep Learning Research Intern, [Institute of Automation, Chinese Academy of Sciences](https://people.ucas.edu.cn/~zhenshen?language=en), Beijing, China.
-  - Deep Learning application in quantitative trading.
+- *2021.09 - 2022.08*, Deep Learning Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
+  - Deep Learning application in high-frequency trading.
 - *2021.08 - 2022.07*, Research Assistant, [Wenzhou Municipal Key Lab for Applied Biomedical Informatics](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou, China.
-  - Developed a user-friendly web server HNOXPred, as a tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence input. 
+  - Developed a user-friendly web server HNOXPred, as a tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence input.
 
-[comment]: <> (# 🔥 News)
-
-[comment]: <> (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-[comment]: <> (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications
 
@@ -133,6 +130,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 [comment]: <> (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 [comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
 
 # 🧑‍💻 Software
 ## Research Pipeline & Model
