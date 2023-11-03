@@ -26,7 +26,7 @@ Previously I received my Bachelor's degree in Computer Science from Wenzhou-Kean
 During my undergrad, I was fortunate to work with [Prof.Aloysius Wong](https://wku.edu.cn/faculty/aloysius-wong/).
 
 My research interests lie in bioinformatics, computational biology, deep learning, and AI for science.
-I also have experiences in software engineering with Java, Python, Go, and React.js.
+I also have software engineering experiences with Java, Python, Go, React.js, MySQL.
 
 # 📖 Educations
 - *2022.08 - 2023.12*, Master of Science in Engineering, Computer Science. Whiting School of Engineering, Johns Hopkins University. *Baltimore, MD* 
@@ -37,21 +37,16 @@ I also have experiences in software engineering with Java, Python, Go, and React
 
 # 💻 Experiences
 - *2023.08 - Present*, Research Assistant (Remote), [Qiu Lab](https://www.devo-evo.com/), Stanford University.
-  - Single-cell pretrained model.
+  - Single-cell foundation model.
 - *2023.06 - Present*, Research Assistant (Remote), [Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy.
   - RNA-small molecule interaction.
 - *2023.01 - Present*, Research Assistant, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, Charlottesville, VA.
   - Computational genomics.
-  - ChIP-seq broad peak calling tool redesign.
 - *2022.09 - 2023.07*, Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, Baltimore, MD.
-  - Multi-agent simulation, affective model, visualization, and network analysis.
-  - Master's thesis: Analyzing Epidemic Spread with Agent-based Simulation Model and Network Analysis.
+  - Multi-agent simulation.
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), Hangzhou, China.
-  - Technology Used: Java, MySQL, JDBC, ShardingSphere-Proxy, ZooKeeper, JUnit, Mockito.
-- *2021.09 - 2022.08*, Deep Learning Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
-  - Deep Learning application in high-frequency trading.
+- *2021.09 - 2022.08*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
 - *2021.08 - 2022.07*, Research Assistant, [Wenzhou Municipal Key Lab for Applied Biomedical Informatics](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou, China.
-  - Developed a user-friendly web server HNOXPred, as a tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence input.
 
 
 # 📝 Publications
@@ -132,8 +127,14 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
 
 # 🧑‍💻 Software
+
+[//]: # (## Deep Learning Model)
+
+[//]: # (- [scTab]&#40;&#41;: A)
+
+[//]: # (- [AIDD]&#40;&#41;: )
+
 ## Research Pipeline & Model
-[comment]: <> (- [Nano-plastic ML Detector]&#40;&#41;:)
 - [Nano-plastics ML](https://github.com/Haoxin01/Nanoplastics-ML): This work applies machine learning to forecast types and concentrations of nanoplastics in the environment.
 - [Koudou: An Agent-based Model for Epidemic Simulation](https://github.com/caranha/Koudou/tree/ALIFE_2023): 
   This agent-based model analyzes the impact of masking and large-scale evacuations on human mobility within a university campus and its neighborhood.
@@ -146,13 +147,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - [Koudou Simulator Analyser](https://github.com/caranha/Koudou/tree/ALIFE_2023/src/dashapp):
   This web tool provides statistical, geographical, and visualization analysis of infectious disease simulations for the Koudou Simulator, allowing comparative analysis.
 
-## Full-stack
-- [OfficeAdmin](https://github.com/JasonJiangs/OfficeAdmin): An office management system developed by Spring Boot, MyBatis-Plus, Redis, MySQL, etc.
-- [Microservice](https://github.com/JasonJiangs/Microservice): The project implements several small scripts and microservices using Golang and its frameworks.
-
 # 🌎 Miscellaneous
 Soccer (Visca Barça~), Gym, Table tennis, Piano, Traveling, etc.
-
 
 <body>
   <a href="https://clustrmaps.com/site/1bt6x"  title="Visit tracker" >
