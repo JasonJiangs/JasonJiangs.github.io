@@ -18,12 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-Hello, my name is Shiyu, a master student majoring in computer science at Whiting School of Engineering, Johns Hopkins University 
-advised by [Prof.Kimia Ghobadi](https://systems.jhu.edu/kimia/) and [Prof.Claus Aranha](http://conclave.cs.tsukuba.ac.jp/). 
-I'm current working as a part-time research assistant at [Prof.Chongzhi Zang's Lab](https://zanglab.github.io/index.htm) on computational biology.
+I am full-time research assistant at the Center for Public Health Genomics in University of Virginia School of Medicine
+advised by [Prof. Chongzhi Zang](https://zanglab.github.io/index.htm).
 
-Previously I received my Bachelor's degree in Computer Science from Wenzhou-Kean University. 
-During my undergrad, I was fortunate to work with [Prof.Aloysius Wong](https://wku.edu.cn/faculty/aloysius-wong/).
+Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
+Bachelor's degree in Computer Science from Wenzhou-Kean University. 
+I was fortunate to work in Prof. Aloysius Wong's group where I first stepped into the field of bioinformatics. In addition, I developed a 
+model for RNA-ligand affinity prediction in Prof. Yanjun Li's group at UFL and participated in single-cell foundation model development 
+in Prof. Xiaojie Qiu's Lab at Stanford.
 
 My research interests lie in bioinformatics, computational biology, deep learning, and AI for science.
 I also have software engineering experiences with Java, Python, Go, React.js, MySQL.
@@ -36,17 +38,17 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 
 
 # 💻 Experiences
-- *2023.08 - Present*, Research Assistant (Remote), [Qiu Lab](https://www.devo-evo.com/), Stanford University.
-  - Single-cell foundation model.
-- *2023.06 - Present*, Research Assistant (Remote), [Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy.
-  - RNA-small molecule interaction.
-- *2023.01 - Present*, Research Assistant, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, Charlottesville, VA.
+- *2023.06 - Present*, Research Assistant, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, Charlottesville, VA.
   - Computational genomics.
-- *2022.09 - 2023.07*, Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, Baltimore, MD.
+- *2023.08 - 2023.12*, Research Assistant (Remote), [Qiu Lab](https://www.devo-evo.com/), Stanford University.
+  - Single-cell foundation model.
+- *2023.06 - 2023.12*, Research Assistant (Remote), [Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy.
+  - RNA-small molecule interaction.
+- *2022.09 - 2023.09*, Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, Baltimore, MD.
   - Multi-agent simulation.
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), Hangzhou, China.
-- *2021.09 - 2022.08*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
-- *2021.08 - 2022.07*, Research Assistant, [Wenzhou Municipal Key Lab for Applied Biomedical Informatics](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou, China.
+- *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
+- *2021.08 - 2022.06*, Research Assistant, [Wenzhou Municipal Key Lab for Applied Biomedical Informatics](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou, China.
 
 
 # 📝 Publications
