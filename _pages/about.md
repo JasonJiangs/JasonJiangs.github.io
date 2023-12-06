@@ -82,7 +82,7 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 
 **Shiyu Jiang**, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
 
-[Code](https://github.com/caranha/Koudou/tree/ALIFE_2023) [Talk]()
+[Code](https://github.com/caranha/Koudou/tree/ALIFE_2023)
 
 - This research aims to create a comprehensive Agent-Based Model (ABM) to simulate daily agent schedules and movements across Johns Hopkins and University of Tsukuba campuses. The model will compare scenarios related to COVID-19 spread and assess the impact of large-scale events, like earthquakes, on masking policies and disease transmission dynamics.
 
@@ -137,17 +137,22 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 [//]: # (- [AIDD]&#40;&#41;: )
 
 ## Research Pipeline & Model
-- [Nano-plastics ML](https://github.com/Haoxin01/Nanoplastics-ML): This work applies machine learning to forecast types and concentrations of nanoplastics in the environment.
-- [Koudou: An Agent-based Model for Epidemic Simulation](https://github.com/caranha/Koudou/tree/ALIFE_2023): 
-  This agent-based model analyzes the impact of masking and large-scale evacuations on human mobility within a university campus and its neighborhood.
-- [RNA-seq & ChIP-seq Joint Analysis Pipeline](https://github.com/JasonJiangs/RNAseq-ChIPseq-Joint-Pipeline): 
-  This pipeline integrates RNA-seq and ChIP-seq tools for analyzing transcriptional regulation, configured easily through YAML files and command-line arguments.
+
+[//]: # (- [Nano-plastics ML]&#40;https://github.com/Haoxin01/Nanoplastics-ML&#41;: This work applies machine learning to forecast types and concentrations of nanoplastics in the environment.)
+- [Koudou](https://github.com/caranha/Koudou): 
+  This is an agent-based model that simulates the infectious diseases.
+
+[//]: # (- [RNA-seq & ChIP-seq Joint Analysis Pipeline]&#40;https://github.com/JasonJiangs/RNAseq-ChIPseq-Joint-Pipeline&#41;: )
+
+[//]: # (  This pipeline integrates RNA-seq and ChIP-seq tools for analyzing transcriptional regulation, configured easily through YAML files and command-line arguments.)
 
 ## Web server
 - [HNOXPred](https://github.com/JasonJiangs/HNOX_Pred) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
   This web server predicts gas-sensing H-NOX proteins from amino acid sequences, returning H-NOX centers and scores scaled from 0 to 1 based on comparisons to the HNOXPred database.
-- [Koudou Simulator Analyser](https://github.com/caranha/Koudou/tree/ALIFE_2023/src/dashapp):
-  This web tool provides statistical, geographical, and visualization analysis of infectious disease simulations for the Koudou Simulator, allowing comparative analysis.
+
+[//]: # (- [Koudou Simulator Analyser]&#40;https://github.com/caranha/Koudou/tree/ALIFE_2023/src/dashapp&#41;:)
+
+[//]: # (  This web tool provides statistical, geographical, and visualization analysis of infectious disease simulations for the Koudou Simulator, allowing comparative analysis.)
 
 # 🌎 Miscellaneous
 Soccer (Visca Barça~), Gym, Table tennis, Piano, Traveling, etc.
