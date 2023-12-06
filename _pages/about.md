@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-I am full-time research assistant at the Center for Public Health Genomics in University of Virginia School of Medicine
+I am a full-time research assistant at the Center for Public Health Genomics in University of Virginia School of Medicine
 advised by [Prof. Chongzhi Zang](https://zanglab.github.io/index.htm).
 
 Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University. 
-I was fortunate to work in Prof. Aloysius Wong's group where I first stepped into the field of bioinformatics. In addition, I developed a 
-model for RNA-ligand affinity prediction in Prof. Yanjun Li's group at UFL and participated in single-cell foundation model development 
+I was fortunate to work with Prof. Aloysius Wong's group where I first stepped into the field of bioinformatics. In addition, I developed a 
+model for RNA-ligand affinity prediction in Prof. Yanjun Li's group at UFL and later participated in single-cell foundation model development 
 in Prof. Xiaojie Qiu's Lab at Stanford.
 
 My research interests lie in bioinformatics, computational biology, deep learning, and AI for science.
