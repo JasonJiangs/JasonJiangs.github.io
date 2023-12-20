@@ -48,7 +48,7 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
   - Multi-agent simulation.
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), Hangzhou, China.
 - *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
-- *2021.08 - 2022.06*, Research Assistant, [Wenzhou Municipal Key Lab for Applied Biomedical Informatics](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou, China.
+- *2021.08 - 2022.06*, Research Assistant, [Aloysius Wong Lab](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou-Kean University.
 
 
 # 📝 Publications
