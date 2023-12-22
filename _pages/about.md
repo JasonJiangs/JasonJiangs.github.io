@@ -40,7 +40,7 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="75%"></div></div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 
 [Simulating Disease Spread During Disaster Scenarios](https://direct.mit.edu/isal/proceedings/isal/35/123/116938)
 
