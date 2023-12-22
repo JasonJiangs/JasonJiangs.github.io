@@ -31,18 +31,18 @@ My research interests lie in bioinformatics, computational biology, deep learnin
 I also have software engineering experiences with Java, Python, Go, React.js, MySQL.
 
 # 📖 Educations
-- *2022.08 - 2023.12*, Master of Science in Engineering, Computer Science. Whiting School of Engineering, Johns Hopkins University. *Baltimore, MD* 
-- *2018.08 - 2022.05*, Bachelor of Science, Computer Science. College of Science and Technology, Wenzhou-Kean University. *Wenzhou, China*
+- *2022.08 - 2023.12*, Master of Science in Engineering, Computer Science. Johns Hopkins University. *Baltimore, MD* 
+- *2018.08 - 2022.05*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
 
 
 # 💻 Experiences
-- *2023.06 - Present*, Research Assistant, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, Charlottesville, VA.
+- *2023.06 - Present*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, Charlottesville, VA.
   - Computational genomics.
-- *2023.08 - 2023.12*, Research Assistant (Remote), [Qiu Lab](https://www.devo-evo.com/), Stanford University.
+- *2023.08 - 2023.12*, Research Assistant, [Xiaojie Qiu Lab](https://www.devo-evo.com/), Stanford University, Remote.
   - Single-cell foundation model.
-- *2023.06 - 2023.12*, Research Assistant (Remote), [Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy.
+- *2023.06 - 2023.12*, Research Assistant, [Yanjun Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy, Remote.
   - RNA-small molecule interaction.
 - *2022.09 - 2023.09*, Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, Baltimore, MD.
   - Multi-agent simulation.
@@ -80,11 +80,11 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 [//]: # (</div>)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="80%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
-[Simulating Disease Spread During Disaster Scenarios]()
+[Simulating Disease Spread During Disaster Scenarios](https://direct.mit.edu/isal/proceedings/isal/35/123/116938)
 
 **Shiyu Jiang**, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
 
@@ -122,7 +122,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 </div>
 </div>
 
-[comment]: <> (**Shiyu Jiang**, Junjie Jia, Yi Yuan, Yuxiong Wu, Tianqi Wang. [Research on China’s Primary Industry: Evidence From Regional Analysis Based on SVM and Moran’s Index]&#40;https://ieeexplore.ieee.org/abstract/document/9754653&#41;)
+[comment]: <> (**Shiyu Jiang**, Junjie Jia, Yi Yuan, Yuxiong Wu, Tianqi Wang. [Research on China’s Primary Industry: Evidence From Regional Analysis Based on SVM and Moran’s Index](https://ieeexplore.ieee.org/abstract/document/9754653))
 
 [comment]: <> (. *International Conference on Cloud Computing and Intelligent Systems*, 2021.)
 
