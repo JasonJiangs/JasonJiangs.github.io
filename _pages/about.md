@@ -81,9 +81,9 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 [//]: # (</div>)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="75%"></div></div>
 
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="2">
 
 [Simulating Disease Spread During Disaster Scenarios](https://direct.mit.edu/isal/proceedings/isal/35/123/116938)
 
@@ -91,12 +91,10 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 
 [Code](https://github.com/caranha/Koudou/tree/ALIFE_2023)
 
-[//]: # (- This research aims to create a comprehensive Agent-Based Model &#40;ABM&#41; to simulate daily agent schedules and movements across Johns Hopkins and University of Tsukuba campuses. The model will compare scenarios related to COVID-19 spread and assess the impact of large-scale events, like earthquakes, on masking policies and disease transmission dynamics.)
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics</div><img src='images/bioinformatics2022.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics</div><img src='images/bioinformatics2022.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HNOXPred: a web tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)
@@ -107,7 +105,7 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2021</div><img src='images/ijcnn.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2021</div><img src='images/ijcnn.png' alt="sym" width="75%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -117,12 +115,6 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
 </div>
 </div>
-
-[comment]: <> (**Shiyu Jiang**, Junjie Jia, Yi Yuan, Yuxiong Wu, Tianqi Wang. [Research on China’s Primary Industry: Evidence From Regional Analysis Based on SVM and Moran’s Index](https://ieeexplore.ieee.org/abstract/document/9754653))
-
-[comment]: <> (. *International Conference on Cloud Computing and Intelligent Systems*, 2021.)
-
-[comment]: <> (- This article aims to use machine learning and Moran’s I to analyze the current situation of China’s primary industry from a regional perspective.)
 
 [comment]: <> (# 🎖 Honors and Awards)
 
