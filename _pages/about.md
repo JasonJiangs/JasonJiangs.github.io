@@ -56,20 +56,26 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ChemRxiv</div><img src='images/nanoplasticsML.png' alt="sym" width="100%"></div></div>)
 
 [//]: # ()
+[//]: # ()
 [//]: # (<div class='paper-box-text' markdown="1">)
 
+[//]: # ()
 [//]: # ()
 [//]: # ([Specific Detection and High-Precision Quantification of Nanoscale Plastics Enabled by Surface Enhanced Raman Spectroscopy Coupled with Machine Learning]&#40;&#41;)
 
 [//]: # ()
+[//]: # ()
 [//]: # (Haoxin Ye, **Shiyu Jiang**, . *ChemRxiv*, 2023.)
 
+[//]: # ()
 [//]: # ()
 [//]: # (- This work aims to ...)
 
 [//]: # ()
+[//]: # ()
 [//]: # (</div>)
 
+[//]: # ()
 [//]: # ()
 [//]: # (</div>)
 
@@ -84,7 +90,7 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 
 [Code](https://github.com/caranha/Koudou/tree/ALIFE_2023)
 
-- This research aims to create a comprehensive Agent-Based Model (ABM) to simulate daily agent schedules and movements across Johns Hopkins and University of Tsukuba campuses. The model will compare scenarios related to COVID-19 spread and assess the impact of large-scale events, like earthquakes, on masking policies and disease transmission dynamics.
+[//]: # (- This research aims to create a comprehensive Agent-Based Model &#40;ABM&#41; to simulate daily agent schedules and movements across Johns Hopkins and University of Tsukuba campuses. The model will compare scenarios related to COVID-19 spread and assess the impact of large-scale events, like earthquakes, on masking policies and disease transmission dynamics.)
 
 </div>
 </div>
@@ -98,8 +104,9 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 
 [Website](https://www.hnoxpred.com/)  [Code](https://github.com/JasonJiangs/HNOX_Pred)
 
-- H-NOX proteins are gas-sensing hemoproteins found in diverse organisms ranging from bacteria to eukaryotes. HNOXPred is a webserver for the prediction of gas-sensing heme-nitric oxide/oxygen (H-NOX) proteins from amino acid sequence.
-- The tool is developed by Python scripts, Flask framework and MySQL DB.
+[//]: # (- H-NOX proteins are gas-sensing hemoproteins found in diverse organisms ranging from bacteria to eukaryotes. HNOXPred is a webserver for the prediction of gas-sensing heme-nitric oxide/oxygen &#40;H-NOX&#41; proteins from amino acid sequence.)
+
+[//]: # (- The tool is developed by Python scripts, Flask framework and MySQL DB.)
 </div>
 </div>
 
@@ -111,7 +118,7 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 
 Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *International Joint Conference on Neural Networks*, 2021
 
-- In this work, we propose Deblur-YOLO, an efficient, YOLO-based and detection-driven approach robust to motion blur photographs.
+[//]: # (- In this work, we propose Deblur-YOLO, an efficient, YOLO-based and detection-driven approach robust to motion blur photographs.)
 </div>
 </div>
 
