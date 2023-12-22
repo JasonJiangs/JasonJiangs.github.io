@@ -84,7 +84,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - *2023.08 - 2023.12*, Research Assistant, [Xiaojie Qiu Lab](https://www.devo-evo.com/), Stanford University, Remote.
 - *2023.06 - 2023.12*, Research Assistant, [Yanjun Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy, Remote.
 - *2022.09 - 2023.09*, Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, Baltimore, MD.
-- *2021.08 - 2022.06*, Research Assistant, [Aloysius Wong Lab](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou-Kean University.
+- *2021.08 - 2022.06*, Research Assistant, [Aloysius Wong Lab](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou-Kean University. Wenzhou, China.
 
 # 🧑‍💻 Industry
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), Hangzhou, China.
