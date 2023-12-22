@@ -86,7 +86,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - *2022.09 - 2023.09*, Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, Baltimore, MD.
 - *2021.08 - 2022.06*, Research Assistant, [Aloysius Wong Lab](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou-Kean University.
 
-# ✔️ Industry
+# ⚙️ Industry
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), Hangzhou, China.
 - *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
 
