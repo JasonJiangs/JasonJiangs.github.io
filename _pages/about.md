@@ -79,7 +79,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
 [comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-# Research
+# 🧑‍💻 Research
 - *2023.06 - Present*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, Charlottesville, VA.
 - *2023.08 - 2023.12*, Research Assistant, [Xiaojie Qiu Lab](https://www.devo-evo.com/), Stanford University, Remote.
 - *2023.06 - 2023.12*, Research Assistant, [Yanjun Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy, Remote.
@@ -91,13 +91,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
 
 
-# 🧑‍💻 Software
-
-[//]: # (## Deep Learning Model)
-
-[//]: # (- [scTab]&#40;&#41;: A)
-
-[//]: # (- [AIDD]&#40;&#41;: )
+# Software
 
 ## Research Pipeline & Model
 
