@@ -35,6 +35,7 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 - *2018.08 - 2022.05*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
+[//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
 
 
 # 💻 Experiences
@@ -95,7 +96,7 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics</div><img src='images/bioinformatics2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics</div><img src='images/bioinformatics2022.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HNOXPred: a web tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)
@@ -103,14 +104,10 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 **Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong. *Bioinformatics*, 2022
 
 [Website](https://www.hnoxpred.com/)  [Code](https://github.com/JasonJiangs/HNOX_Pred)
-
-[//]: # (- H-NOX proteins are gas-sensing hemoproteins found in diverse organisms ranging from bacteria to eukaryotes. HNOXPred is a webserver for the prediction of gas-sensing heme-nitric oxide/oxygen &#40;H-NOX&#41; proteins from amino acid sequence.)
-
-[//]: # (- The tool is developed by Python scripts, Flask framework and MySQL DB.)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2021</div><img src='images/ijcnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2021</div><img src='images/ijcnn.png' alt="sym" width="80%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -118,7 +115,6 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 
 Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *International Joint Conference on Neural Networks*, 2021
 
-[//]: # (- In this work, we propose Deblur-YOLO, an efficient, YOLO-based and detection-driven approach robust to motion blur photographs.)
 </div>
 </div>
 
