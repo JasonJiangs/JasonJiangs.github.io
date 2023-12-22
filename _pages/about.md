@@ -112,7 +112,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 [//]: # (  This web tool provides statistical, geographical, and visualization analysis of infectious disease simulations for the Koudou Simulator, allowing comparative analysis.)
 
 # 🌎 Miscellaneous
-Soccer (Visca Barça~), Gym, Table tennis, Piano, Traveling, etc.
+Soccer (Visca Barça), Gym, Table tennis, Piano, Travel, etc.
 
 <body>
   <a href="https://clustrmaps.com/site/1bt6x"  title="Visit tracker" >
