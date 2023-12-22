@@ -37,50 +37,7 @@ I also have software engineering experiences with Java, Python, Go, React.js, My
 # 📰 News
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.)
 
-
-# 💻 Experiences
-- *2023.06 - Present*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, Charlottesville, VA.
-  - Computational genomics.
-- *2023.08 - 2023.12*, Research Assistant, [Xiaojie Qiu Lab](https://www.devo-evo.com/), Stanford University, Remote.
-  - Single-cell foundation model.
-- *2023.06 - 2023.12*, Research Assistant, [Yanjun Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy, Remote.
-  - RNA-small molecule interaction.
-- *2022.09 - 2023.09*, Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, Baltimore, MD.
-  - Multi-agent simulation.
-- *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), Hangzhou, China.
-- *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
-- *2021.08 - 2022.06*, Research Assistant, [Aloysius Wong Lab](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou-Kean University.
-
-
 # 📝 Publications
-
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ChemRxiv</div><img src='images/nanoplasticsML.png' alt="sym" width="100%"></div></div>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # ()
-[//]: # ([Specific Detection and High-Precision Quantification of Nanoscale Plastics Enabled by Surface Enhanced Raman Spectroscopy Coupled with Machine Learning]&#40;&#41;)
-
-[//]: # ()
-[//]: # ()
-[//]: # (Haoxin Ye, **Shiyu Jiang**, . *ChemRxiv*, 2023.)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- This work aims to ...)
-
-[//]: # ()
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (</div>)
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="75%"></div></div>
 
 <div class='paper-box-text' markdown="2">
@@ -121,6 +78,17 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 [comment]: <> (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 [comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+# Research Experience
+- *2023.06 - Present*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, Charlottesville, VA.
+- *2023.08 - 2023.12*, Research Assistant, [Xiaojie Qiu Lab](https://www.devo-evo.com/), Stanford University, Remote.
+- *2023.06 - 2023.12*, Research Assistant, [Yanjun Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy, Remote.
+- *2022.09 - 2023.09*, Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, Baltimore, MD.
+- *2021.08 - 2022.06*, Research Assistant, [Aloysius Wong Lab](https://wku.edu.cn/faculty/aloysius-wong/), Wenzhou-Kean University.
+
+# Industry
+- *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), Hangzhou, China.
+- *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, Beijing, China.
 
 
 # 🧑‍💻 Software
