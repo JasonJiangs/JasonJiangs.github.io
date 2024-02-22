@@ -31,8 +31,8 @@ and later participated in developing a single-cell foundation model in Prof. Xia
 I have full-stack software engineering experiences with Java, Python, Go, React.js, MySQL.
 
 My research interests focus on:
-- Epigenomics and Computational Biology
-- Deep learning for Biology and Biochemistry
+- Single-cell Multi-omics
+- Deep learning for Cancer Biology and Chemical Biology
 - AI for Drug Discovery
 
 [//]: # (- Artificial Life)
