@@ -135,7 +135,7 @@ My research interests focus on:
 
 [Simulating Disease Spread During Disaster Scenarios](https://direct.mit.edu/isal/proceedings/isal/35/123/116938)
 
-**Shiyu Jiang<sup>&ast;</sup>**, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha<sup>&ast;</sup>, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
+**Shiyu Jiang<sup>*</sup>**, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha<sup>*</sup>, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
 
 [Code](https://github.com/caranha/Koudou/tree/ALIFE_2023)
 
@@ -196,6 +196,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta<sup>&ast;</su
 ## Web server
 - [HNOXPred](https://github.com/JasonJiangs/HNOX_Pred) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
   a web server that predicts gas-sensing H-NOX proteins from amino acid sequences.
+
 ## Python Package
 - [SICER 2.0](https://zanglab.github.io/SICER2/) (**S**patial-clustering **I**dentification of **C**hIP-**E**nriched **R**egions):
   a ChIP-Seq broad peak calling data analysis method.
