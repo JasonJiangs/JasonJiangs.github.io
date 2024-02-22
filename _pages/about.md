@@ -135,7 +135,7 @@ My research interests focus on:
 
 [Simulating Disease Spread During Disaster Scenarios](https://direct.mit.edu/isal/proceedings/isal/35/123/116938)
 
-**Shiyu Jiang***, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha*, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
+**Shiyu Jiang**, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
 
 [Code](https://github.com/caranha/Koudou/tree/ALIFE_2023)
 
@@ -147,7 +147,7 @@ My research interests focus on:
 
 [HNOXPred: a web tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)
 
-**Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang*, Aloysius Wong*. *Bioinformatics*, 2022
+**Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong. *Bioinformatics*, 2022
 
 [Website](https://www.hnoxpred.com/) | [Code](https://github.com/JasonJiangs/HNOX_Pred)
 </div>
@@ -158,7 +158,7 @@ My research interests focus on:
 
 [Deblur-yolo: Real-time object detection with efficient blind motion deblurring](https://ieeexplore.ieee.org/abstract/document/9534352)
 
-Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta*. *International Joint Conference on Neural Networks*, 2021
+Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *International Joint Conference on Neural Networks*, 2021
 
 </div>
 </div>
