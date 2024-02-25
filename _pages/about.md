@@ -29,10 +29,10 @@ In addition, I developed a deep learning model for RNA-ligand affinity predictio
 and later participated in developing a single-cell foundation model in Prof. Xiaojie Qiu's Lab at Stanford.
 
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
-models and LLMs for science including single-cell, RNA sequence, and protein, and how to use them to discover and 
+models and LLMs for science including single-cell, RNA, and protein, and how to use them to discover and 
 interpret the biological mechanism.
 
-My research interests focus on:
+Research Interests:
 - Single-cell Multi-omics
 - Deep learning for Cancer Biology and Chemical Biology
 - AI for Drug Discovery
@@ -175,7 +175,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - *2023.06 - Present*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), Center for Public Health Genomics, University of Virginia, *Charlottesville, VA*.
 - *2023.08 - Present*, Remote Research Assistant, [Xiaojie Qiu Lab](https://www.devo-evo.com/), Stanford School of Medicine, *Remote*.
 - *2023.06 - 2023.12*, Remote Research Assistant, [Yanjun Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy, *Remote*.
-- *2022.09 - 2023.09*, Postgraduate Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, *Baltimore, MD*.
+- *2022.09 - 2023.12*, Postgraduate Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, *Baltimore, MD*.
 - *2021.08 - 2022.06*, Undergraduate Research Assistant, [Aloysius Wong Lab](https://csmt.wku.edu.cn/en/node/1777), Wenzhou-Kean University Department of Biology, *Wenzhou, China*.
 
 # 🧑‍💻 Industry
