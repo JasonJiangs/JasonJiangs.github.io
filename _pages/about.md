@@ -28,7 +28,9 @@ I was fortunate to work with Prof. Aloysius Wong's group where I first stepped i
 In addition, I developed a deep learning model for RNA-ligand affinity prediction with Prof. Yanjun Li at UFL 
 and later participated in developing a single-cell foundation model in Prof. Xiaojie Qiu's Lab at Stanford.
 
-I have full-stack software engineering experiences with Java, Python, Go, React.js, MySQL.
+I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
+models and LLMs for science including single-cell, RNA sequence, and protein, and how to use them to discover and 
+interpret the biological mechanism.
 
 My research interests focus on:
 - Single-cell Multi-omics
