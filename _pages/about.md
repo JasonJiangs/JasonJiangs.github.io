@@ -23,7 +23,7 @@ advised by [Prof. Chongzhi Zang](https://zanglab.github.io/index.htm).
 
 Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University. 
-I did my master thesis under Prof. Kimia Ghobadi at Johns Hopkins on multi-agent simulation.
+I did my master thesis advised by Prof. Kimia Ghobadi at Johns Hopkins on multi-agent simulation.
 I was fortunate to work with Prof. Aloysius Wong's group where I first stepped into the field of bioinformatics. 
 In addition, I developed a deep learning model for RNA-ligand affinity prediction with Prof. Yanjun Li at UFL 
 and later participated in developing a single-cell foundation model in Prof. Xiaojie Qiu's Lab at Stanford.
@@ -171,14 +171,14 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
 [comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-# 🧑‍💻 Research
+# 🧑‍💻 Research Experience
 - *2023.06 - Present*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), Center for Public Health Genomics, University of Virginia, *Charlottesville, VA*.
 - *2023.08 - Present*, Remote Research Assistant, [Xiaojie Qiu Lab](https://www.devo-evo.com/), Stanford School of Medicine, *Remote*.
-- *2023.06 - 2023.12*, Remote Research Assistant, [Yanjun Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy, *Remote*.
+- *2023.06 - 2024.03*, Remote Research Assistant, [Yanjun Li Lab](https://yanjun-li.com/index.html), University of Florida College of Pharmacy, *Remote*.
 - *2022.09 - 2023.12*, Postgraduate Research Assistant, [Kimia Ghobadi Lab](https://systems.jhu.edu/kimia/), Johns Hopkins Withing School of Engineering, *Baltimore, MD*.
 - *2021.08 - 2022.06*, Undergraduate Research Assistant, [Aloysius Wong Lab](https://csmt.wku.edu.cn/en/node/1777), Wenzhou-Kean University Department of Biology, *Wenzhou, China*.
 
-# 🧑‍💻 Industry
+# 🧑‍💻 Professional Experience
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), *Hangzhou, China*.
 - *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, *Beijing, China*.
 
