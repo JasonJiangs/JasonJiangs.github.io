@@ -24,8 +24,10 @@ at the Westlake University working with Prof. Fajie Yuan.
 Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University. 
 I did my master thesis advised by Prof. Kimia Ghobadi at [Johns Hopkins University](https://systems.jhu.edu/kimia/) on multi-agent simulation.
-I was fortunate to work with Prof. Aloysius Wong's group at [Wenzhou-Kean University](https://csmt.wku.edu.cn/en/node/1777) 
-where I first stepped into the field of bioinformatics. 
+I was fortunate to work with Prof. Aloysius Wong's group at [Wenzhou-Kean University](https://csmt.wku.edu.cn/en/node/1777) during my undergraduate
+where I first stepped into the field of bioinformatics. After post-graduation, I worked as a lab specialist at Prof. Chongzhi Zang's lab at 
+the [University of Virginia Medical School](https://zanglab.github.io/index.htm) on epigenomics.
+
 In addition, I developed a deep learning model for RNA-ligand interaction prediction with Prof. Yanjun Li at [University of Florida](https://yanjun-li.com/index.html) 
 and later participated in developing a single-cell foundation model in Prof. Xiaojie Qiu's Lab at [Stanford University](https://www.devo-evo.com/).
 
