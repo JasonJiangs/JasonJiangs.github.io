@@ -58,6 +58,14 @@ Research Interests:
 [//]: # (- *2023.07*: The work to build based on a multi-agent model for pandemic simulation, [Koudou]&#40;https://github.com/caranha/Koudou&#41;, has been accepted by ALIFE 2023.)
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano</div><img src='images/acsnano.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Integrating Metal–Phenolic Networks-Mediated Separation and Machine Learning-Aided Surface-Enhanced Raman Spectroscopy for Accurate Nanoplastics Quantification and Classification](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316)
+Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Rickey Y Yada, Anubhav Pratap-Singh, Alberto Baldelli, Tianxi Yang. *ACS Nano*, 2024.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
