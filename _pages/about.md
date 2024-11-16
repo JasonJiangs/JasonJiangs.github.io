@@ -19,24 +19,25 @@ redirect_from:
 
 # 🗨 About Me
 I am currently a research intern at the [Representation Learning Lab](https://github.com/westlake-repl) 
-at the Westlake University working with Prof. Fajie Yuan.
+at the Westlake University working with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and 
+collaborating with [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
 
 Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University. 
-I did my master thesis advised by Prof. Kimia Ghobadi at [Johns Hopkins University](https://systems.jhu.edu/kimia/) on multi-agent simulation.
-I was fortunate to work with Prof. Aloysius Wong's group at [Wenzhou-Kean University](https://csmt.wku.edu.cn/en/node/1777) during my undergraduate
-where I first stepped into the field of bioinformatics. After post-graduation, I worked as a lab specialist at Prof. Chongzhi Zang's lab at 
-the [University of Virginia Medical School](https://zanglab.github.io/index.htm) on epigenomics.
+I did my master thesis advised by [Prof. Kimia Ghobadi](https://systems.jhu.edu/kimia/) at Johns Hopkins University on multi-agent simulation.
+I was fortunate to work with [Prof. Aloysius Wong's Group](https://csmt.wku.edu.cn/en/node/1777) at Wenzhou-Kean University during my undergraduate
+where I first stepped into the field of bioinformatics. After post-graduation, I worked as a lab specialist at [Prof. Chongzhi Zang's Lab](https://zanglab.github.io/index.htm) at 
+the University of Virginia Medical School exploring epigenomics.
 
-In addition, I developed a deep learning model for RNA-ligand interaction prediction with Prof. Yanjun Li at [University of Florida](https://yanjun-li.com/index.html) 
-and later participated in developing a single-cell foundation model in Prof. Xiaojie Qiu's Lab at [Stanford University](https://www.devo-evo.com/).
+In addition, I developed a deep learning model for RNA-ligand interaction prediction with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at University of Florida 
+and later participated in developing a single-cell foundation model in [Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University.
 
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
-models and LLMs for science including single-cell, RNA, and protein, and how to use them to discover and 
-interpret the biological mechanism.
+models and LLMs for life sciences around the central dogma and how to use them to interpret and 
+discover the biological mechanism.
 
 Research Interests:
-- Genomics
+- Genomics and Epigenomics
 - Deep learning for Cancer Biology and Chemical Biology
 - AI for Drug Discovery
 
@@ -58,13 +59,74 @@ Research Interests:
 [//]: # (- *2023.07*: The work to build based on a multi-agent model for pandemic simulation, [Koudou]&#40;https://github.com/caranha/Koudou&#41;, has been accepted by ALIFE 2023.)
 
 # 📝 Publications
+
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tabula.png' alt="sym" width="75%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # ([Tabula: A privacy-preserving federated foundation model for single-cell analysis via tabular learning]&#40;&#41;)
+
+[//]: # (**Jiayuan Ding**, **Jianhui Lin**, **Shiyu Jiang**, Min Li, Jiliang Tang, and Xiaojie Qiu. *BioRxiv*, 2024.)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # ([ProTrek: Illuminating the Protein Universe with Tri-Modal Language Models]&#40;&#41;)
+
+[//]: # (Jin Su, Xinbin Zhou, Xuting Zhang, **Shiyu Jiang**, Fajie Yuan. *bioRxiv*, 2024.)
+
+[//]: # ([Website]&#40;&#41;)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # ([SmartBind: RNA-ligand interaction prediction with contrastive learning RNA foundation model]&#40;&#41;)
+
+[//]: # (**Shiyu Jiang**, Amirhossein Taghavi, Tzu-Tang Lin, Jessica C. Disney, Chenglong Li, Matthew D. Disney, Yanjun Li. *bioRxiv*, 2024.)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/naacl2025.png' alt="sym" width="75%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # ([Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies]&#40;&#41;)
+
+[//]: # (Zirui Song, Guangxian Ouyang, Meng Fang, Hongbin Na, Zhenhao Chen, Zijing Shi, Yujie Fu, **Shiyu Jiang**, Miao Fang, Ling Chen, Xiuying Chen. *arXiv*, 2024.)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano</div><img src='images/acsnano.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrating Metal–Phenolic Networks-Mediated Separation and Machine Learning-Aided Surface-Enhanced Raman Spectroscopy for Accurate Nanoplastics Quantification and Classification](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316)
 Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Rickey Y Yada, Anubhav Pratap-Singh, Alberto Baldelli, Tianxi Yang. *ACS Nano*, 2024.
+[Featured on Cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg)
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,6 +137,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics</div><img src='images/bioinformatics2022.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,6 +146,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 [Website](https://www.hnoxpred.com/) | [Code](https://github.com/JasonJiangs/HNOX_Pred)
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2021</div><img src='images/ijcnn.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,13 +176,14 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - [Koudou](https://github.com/caranha/Koudou): 
   an agent-based model that simulates the infectious disease spread under college town scenario.
 
-[//]: # (- [scFFM]&#40;https://github.com/OmicsML/scTab&#41;:)
+[//]: # (- [ProTrek]&#40;http://search-protrek.com/&#41;:)
+  
+[//]: # (- [Tabula]&#40;&#41;:)
 
-[//]: # (  a federated foundation model for single-cell that enables in-silico gene regulatory inference.)
+[//]: # (  a privacy-protected foundation model for single-cell.)
 
-[//]: # (- [SmartBind]&#40;https://github.com/AIDD-LiLab/RL-CLIP&#41;:)
-
-[//]: # (  a sequence-based DL model for RNA-small molecule binding prediction with efficient virtual screening performance.)
+[//]: # (- [SmartBind]&#40;&#41;:)
+  
 
 ## Web server
 - [HNOXPred](https://github.com/JasonJiangs/HNOX_Pred) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
