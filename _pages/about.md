@@ -31,7 +31,7 @@ the University of Virginia Medical School exploring epigenomics-related topics.
 
 In addition, I developed a deep learning model for RNA-ligand interaction prediction with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at University of Florida 
 and later participated in developing a single-cell foundation model in [Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University. 
-I am also working with [Han Xiao's Group](https://xiao.rice.edu/) at Rice University Chemistry for developing a robust platform
+I am also working with [Prof. Han Xiao's Group](https://xiao.rice.edu/) at Rice University Chemistry for developing a robust platform
 for machine learning guided protein evolution.
 
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
