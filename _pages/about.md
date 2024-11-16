@@ -26,11 +26,13 @@ Previously, I received my Master's degree in Computer Science from Johns Hopkins
 Bachelor's degree in Computer Science from Wenzhou-Kean University. 
 I did my master thesis advised by [Prof. Kimia Ghobadi](https://systems.jhu.edu/kimia/) at Johns Hopkins University on multi-agent simulation.
 I was fortunate to work with [Prof. Aloysius Wong's Group](https://csmt.wku.edu.cn/en/node/1777) at Wenzhou-Kean University during my undergraduate
-where I first stepped into the field of bioinformatics. After post-graduation, I worked as a lab specialist at [Prof. Chongzhi Zang's Lab](https://zanglab.github.io/index.htm) at 
-the University of Virginia Medical School exploring epigenomics.
+where I first stepped into the field of bioinformatics. After graduation, I worked as a lab specialist at [Prof. Chongzhi Zang's Lab](https://zanglab.github.io/index.htm) at 
+the University of Virginia Medical School exploring epigenomics-related topics.
 
 In addition, I developed a deep learning model for RNA-ligand interaction prediction with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at University of Florida 
-and later participated in developing a single-cell foundation model in [Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University.
+and later participated in developing a single-cell foundation model in [Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University. 
+I am also working with [Xiao Lab](https://xiao.rice.edu/) at Rice University Chemistry for developing a robust platform
+for machine learning guided protein evolution.
 
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
 models and LLMs for life sciences around the central dogma and how to use them to interpret and 
