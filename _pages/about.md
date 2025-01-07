@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-I am currently a research intern at the [Representation Learning Lab](https://github.com/westlake-repl) 
-at the Westlake University working with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
+I am currently working as a visiting researcher at the Westlake University working with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
 
 Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University. 
@@ -153,7 +152,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 [comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 🧑‍💻 Professional Experience
-- *2024.08 - Present*, Research Intern, [Representation Learning Lab](https://github.com/westlake-repl), Westlake University, *Hangzhou, China*.
+- *2024.08 - Present*, Visiting Researcher, [Representation Learning Lab](https://github.com/westlake-repl) & [Cell Ethology Lab](https://cellethology.github.io/), Westlake University, *Hangzhou, China*.
 - *2024.01 - 2024.07*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, *Charlottesville, VA*.
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), *Hangzhou, China*.
 - *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, *Beijing, China*.
