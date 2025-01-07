@@ -71,7 +71,7 @@ Research Interests:
 <div class='paper-box-text' markdown="1">
 
 [Decoding the Molecular Language of Proteins with Evola](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1)
-Xibin Zhou, Chenchen Han, Yingqi Zhang, Jin Su, Kai Zhuang, **Shiyu Jiang**, Zichen Yuan, Wei Zheng, Fengyuan Dai, Yuyang Zhou, Yuyang Tao, Dan Wu, Fajie Yuan. *bioRxiv*, 2025.
+Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Zichen Yuan, Wei Zheng, Fengyuan Dai, Yuyang Zhou, Yuyang Tao, Dan Wu, Fajie Yuan. *bioRxiv*, 2025.
 [Website](http://www.chat-protein.com/)
 </div>
 </div>
