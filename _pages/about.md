@@ -61,63 +61,31 @@ Research Interests:
 [//]: # (- *2023.07*: The work to build based on a multi-agent model for pandemic simulation, [Koudou]&#40;https://github.com/caranha/Koudou&#41;, has been accepted by ALIFE 2023.)
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tabula.png' alt="sym" width="75%"></div></div>)
-
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # ([Tabula: A privacy-preserving federated foundation model for single-cell analysis via tabular learning]&#40;&#41;)
-
-[//]: # (**Jiayuan Ding**, **Jianhui Lin**, **Shiyu Jiang**, Min Li, Jiliang Tang, and Xiaojie Qiu. *BioRxiv*, 2024.)
-
-[//]: # (</div>)
-
-[//]: # (</div>)
+[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
+Jiayuan Ding, Jianhui Lin, Shiyu Jiang, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2024.
+</div>
+</div>
 
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # ([ProTrek: Illuminating the Protein Universe with Tri-Modal Language Models]&#40;&#41;)
-
-[//]: # (Jin Su, Xinbin Zhou, Xuting Zhang, **Shiyu Jiang**, Fajie Yuan. *bioRxiv*, 2024.)
-
-[//]: # ([Website]&#40;&#41;)
-
-[//]: # (</div>)
-
-[//]: # (</div>)
+[SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
+Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024.
+</div>
+</div>
 
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # ([SmartBind: RNA-ligand interaction prediction with contrastive learning RNA foundation model]&#40;&#41;)
-
-[//]: # (**Shiyu Jiang**, Amirhossein Taghavi, Tzu-Tang Lin, Jessica C. Disney, Chenglong Li, Matthew D. Disney, Yanjun Li. *bioRxiv*, 2024.)
-
-[//]: # (</div>)
-
-[//]: # (</div>)
-
-
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/naacl2025.png' alt="sym" width="75%"></div></div>)
-
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # ([Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies]&#40;&#41;)
-
-[//]: # (Zirui Song, Guangxian Ouyang, Meng Fang, Hongbin Na, Zhenhao Chen, Zijing Shi, Yujie Fu, **Shiyu Jiang**, Miao Fang, Ling Chen, Xiuying Chen. *arXiv*, 2024.)
-
-[//]: # (</div>)
-
-[//]: # (</div>)
+[SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
+Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano</div><img src='images/acsnano.png' alt="sym" width="75%"></div></div>
