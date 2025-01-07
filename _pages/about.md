@@ -19,15 +19,14 @@ redirect_from:
 
 # 🗨 About Me
 I am currently a research intern at the [Representation Learning Lab](https://github.com/westlake-repl) 
-at the Westlake University working with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and 
-collaborating with [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
+at the Westlake University working with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
 
 Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University. 
 I did my master thesis advised by [Prof. Kimia Ghobadi](https://systems.jhu.edu/kimia/) at Johns Hopkins University on multi-agent simulation.
 I was fortunate to work with [Prof. Aloysius Wong's Group](https://csmt.wku.edu.cn/en/node/1777) at Wenzhou-Kean University during my undergraduate
 where I first stepped into the field of bioinformatics. After graduation, I worked as a lab specialist at [Prof. Chongzhi Zang's Lab](https://zanglab.github.io/index.htm) at 
-the University of Virginia Medical School exploring epigenomics-related topics.
+the University of Virginia Medical School exploring computational genomics.
 
 In addition, I developed a deep learning model for RNA-ligand interaction prediction with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at University of Florida 
 and later participated in developing a single-cell foundation model in [Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University. 
@@ -45,9 +44,9 @@ models and LLMs for life sciences around the central dogma and how to use them t
 discover the biological mechanism.
 
 Research Interests:
-- Genomics and Epigenomics
-- Deep learning for Cancer Biology and Chemical Biology
-- AI for Drug Discovery
+- Computational genomics
+- Deep learning for cancer biology and chemical biology
+- AI for drug discovery
 
 [//]: # (- Artificial Life)
 
@@ -72,7 +71,7 @@ Research Interests:
 
 [Decoding the Molecular Language of Proteins with Evola](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1)
 Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Zichen Yuan, Wei Zheng, Fengyuan Dai, Yuyang Zhou, Yuyang Tao, Dan Wu, Fajie Yuan. *bioRxiv*, 2025.
-[Website](http://www.chat-protein.com/)
+[Demo Website](http://www.chat-protein.com/)
 </div>
 </div>
 
@@ -83,6 +82,16 @@ Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, 
 [Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
 Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2025.
 [Package](https://github.com/aristoteleo/tabula)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract)
+Jin Su, Xibin Zhou, Xuting Zhang, Fajie Yuan (To be updated). *bioRxiv*, 2024.
+[Demo Website](http://search-protrek.com/)
 </div>
 </div>
 
