@@ -81,7 +81,7 @@ Xibin Zhou, Chenchen Han, Yingqi Zhang, Jin Su, Kai Zhuang, **Shiyu Jiang**, Zic
 <div class='paper-box-text' markdown="1">
 
 [Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
-Jiayuan Ding * , Jianhui Lin * , **Shiyu Jiang** * , Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2025.
+Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2025.
 [Package](https://github.com/aristoteleo/tabula)
 </div>
 </div>
