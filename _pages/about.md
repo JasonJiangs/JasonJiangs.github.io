@@ -34,6 +34,12 @@ and later participated in developing a single-cell foundation model in [Prof. Xi
 I am also working with [Prof. Han Xiao's Group](https://xiao.rice.edu/) at Rice University Chemistry for developing a robust platform
 for machine learning guided protein evolution.
 
+[//]: # (Previously, I was working with Prof. Chongzhi Zang &#40;UVa&#41;, Prof. Xiaojie Qiu &#40;Stanford&#41;, Prof. Yanjun Li &#40;UFL&#41;, )
+
+[//]: # (Prof. Han Xiao &#40;Rice&#41;, Dr. Kevin K. Yang &#40;MSR&#41;, Prof. Kimia Ghobadi &#40;JHU&#41;, Prof. Claus Aranha &#40;Tsukuba&#41;, )
+
+[//]: # (Prof. Fajie Yuan &#40;Westlake&#41;, Dr. Jerry Wang &#40;Westlake&#41;, and Prof. Aloysius Wong &#40;WKU&#41;.)
+
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
 models and LLMs for life sciences around the central dogma and how to use them to interpret and 
 discover the biological mechanism.
@@ -61,31 +67,7 @@ Research Interests:
 [//]: # (- *2023.07*: The work to build based on a multi-agent model for pandemic simulation, [Koudou]&#40;https://github.com/caranha/Koudou&#41;, has been accepted by ALIFE 2023.)
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
-Jiayuan Ding, Jianhui Lin, Shiyu Jiang, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2024.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
-Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
-Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024.
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano</div><img src='images/acsnano.png' alt="sym" width="75%"></div></div>
