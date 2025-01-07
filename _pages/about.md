@@ -68,14 +68,20 @@ Research Interests:
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula.png' alt="sym" width="75%"></div></div>)
 
-[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
-Jiayuan Ding<sup>*</sup>, Jianhui Lin<sup>*</sup>, **Shiyu Jiang**<sup>*</sup>, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2024.
-[Package](https://github.com/aristoteleo/tabula)
-</div>
-</div>
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # ([Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling]&#40;https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1&#41;)
+
+[//]: # (Jiayuan Ding<sup>*</sup>, Jianhui Lin<sup>*</sup>, **Shiyu Jiang**<sup>*</sup>, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2024.)
+
+[//]: # ([Package]&#40;https://github.com/aristoteleo/tabula&#41;)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
