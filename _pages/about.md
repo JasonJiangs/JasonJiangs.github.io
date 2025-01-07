@@ -67,12 +67,22 @@ Research Interests:
 [//]: # (- *2023.07*: The work to build based on a multi-agent model for pandemic simulation, [Koudou]&#40;https://github.com/caranha/Koudou&#41;, has been accepted by ALIFE 2023.)
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Decoding the Molecular Language of Proteins with Evola](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1)
+Xibin Zhou, Chenchen Han, Yingqi Zhang, Jin Su, Kai Zhuang, **Shiyu Jiang**, Zichen Yuan, Wei Zheng, Fengyuan Dai, Yuyang Zhou, Yuyang Tao, Dan Wu,  View ORCID ProfileFajie Yuan
+. *bioRxiv*, 2025.
+[Package](https://github.com/aristoteleo/tabula)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
-Jiayuan Ding *, Jianhui Lin *, **Shiyu Jiang** *, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2024.
+Jiayuan Ding * , Jianhui Lin * , **Shiyu Jiang** * , Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2025.
 [Package](https://github.com/aristoteleo/tabula)
 </div>
 </div>
