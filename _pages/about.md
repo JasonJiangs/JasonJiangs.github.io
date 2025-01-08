@@ -181,7 +181,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
   a ChIP-Seq broad peak calling data analysis method.
 
 # 🌎 Miscellaneous
-Soccer (Visca Barça), Gym, Table tennis, Piano, Travel, etc.
+Outside of work, you’ll often find me at the gym, playing soccer, road cycling, or traveling to new destinations. I also enjoy playing table tennis and the piano occasionally.
+
 
 <body>
   <a href="https://clustrmaps.com/site/1bt6x"  title="Visit tracker" >
