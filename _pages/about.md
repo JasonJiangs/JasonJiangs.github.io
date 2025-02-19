@@ -36,7 +36,7 @@ for machine learning guided protein evolution.
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
 models and LLMs for life sciences around the central dogma and how to use them to interpret and 
 discover the biological mechanism. 
-If you're interested in a discussion, feel free to reach out to me at sjiang43@alumni.jh.edu.
+If you're interested in a discussion, feel free to reach out to me at **sjiang43@alumni.jh.edu**.
 
 Research Interests:
 - Computational genomics
@@ -122,7 +122,7 @@ Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang** ‡, Xibin Zhou ‡, Xu
 
 [SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
 Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024, (In Submission). 
-[GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file)
+[GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
 </div>
 
@@ -152,7 +152,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 [HNOXPred: a web tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)
 **Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong. *Bioinformatics*, 2022
-[Online Website](https://www.hnoxpred.com/) | [GitHub](https://github.com/JasonJiangs/HNOX_Pred)
+[Online Server](https://www.hnoxpred.com/) | [GitHub](https://github.com/JasonJiangs/HNOX_Pred)
 </div>
 </div>
 
