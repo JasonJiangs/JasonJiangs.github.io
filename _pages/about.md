@@ -151,7 +151,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 <div class='paper-box-text' markdown="1">
 
 [HNOXPred: a web tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)
-**Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong. *Bioinformatics*, 2022
+**Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong. *Bioinformatics*, 2022.
 [Online Server](https://www.hnoxpred.com/) | [GitHub](https://github.com/JasonJiangs/HNOX_Pred)
 </div>
 </div>
@@ -203,7 +203,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - [SaProtHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file):
   making Protein Modeling Accessible to All Biologists.
 
-- [HNOXPred](http://www.hnoxpred.com/) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
+- [HNOXPred](https://www.hnoxpred.com/) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
   a web server to predict gas-sensing H-NOX proteins from amino acid sequences.
 
 ## Molecule
