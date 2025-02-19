@@ -77,7 +77,7 @@ Research Interests:
 [//]: # (- *2022.08*: my first first-authored paper in developing a protein recognition webserver has been accepted by [Bioinformatics]&#40;https://academic.oup.com/bioinformatics/article/38/19/4643/6673135&#41;.)
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Elsevier Book Chapter</div><img src='' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Computational approaches and bioinformatic tools for the identification of cryptic enzymes]()
