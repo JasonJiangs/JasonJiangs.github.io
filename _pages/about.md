@@ -19,7 +19,7 @@ redirect_from:
 
 # 🗨 About Me
 I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
-Before, I am currently working as a visiting researcher at the Westlake University with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
+I am currently working as a visiting researcher at the Westlake University with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
 
 Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University. 
@@ -77,39 +77,6 @@ Research Interests:
 [//]: # (- *2022.08*: my first first-authored paper in developing a protein recognition webserver has been accepted by [Bioinformatics]&#40;https://academic.oup.com/bioinformatics/article/38/19/4643/6673135&#41;.)
 
 # 📝 Publications
-
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sicer.png' alt="sym" width="75%"></div></div>)
-
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # ([SmartBind: RNA-ligand interaction prediction with contrastive learning and RNA foundation model]&#40;&#41;)
-
-[//]: # (**Shiyu Jiang**, Amirhossein Taghavi, Tzu-Tang Lin, Jessica L. Childs-Disney, Chenglong Li, Matthew D. Disney, Yanjun Li. *bioRxiv*, 2025, &#40;In Submission&#41;.)
-
-[//]: # ([GitHub]&#40;https://github.com/AIDD-LiLab/SmartBind&#41;)
-
-[//]: # (</div>)
-
-[//]: # (</div>)
-
-
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sicer.png' alt="sym" width="75%"></div></div>)
-
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # ([SICER 2.0: a redesigned ChIP-seq broad peak identified tool with enhanced FDR control and accelerated performance]&#40;&#41;)
-
-[//]: # (**Shiyu Jiang**, Jin Yong Yoo, Yiren Wang, Chongzhi Zang. 2025, &#40;In Submission&#41;.)
-
-[//]: # ([Python Package and Tutorial]&#40;https://zanglab.github.io/SICER2/&#41; | [GitHub]&#40;https://github.com/zanglab/SICER2&#41;)
-
-[//]: # (</div>)
-
-[//]: # (</div>)
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
