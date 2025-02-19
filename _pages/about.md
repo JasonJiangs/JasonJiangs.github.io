@@ -44,7 +44,7 @@ Research Interests:
 - AI for drug discovery
 
 # 📖 Educations
-- *2025 - 2030*, incoming PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, LA*
+- *2025 - 2030*, incoming PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
 - *2022 - 2024*, Master of Science in Engineering, Computer Science. Johns Hopkins University. *Baltimore, MD* 
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
@@ -173,14 +173,14 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
 [comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-# 🧑‍💻 Professional Experience
+# 🧑‍💻 Experience
 - *2024.08 - Present*, Visiting Researcher, [Representation Learning Lab](https://github.com/westlake-repl) & [Cell Ethology Lab](https://cellethology.github.io/), Westlake University, *Hangzhou, China*.
 - *2024.01 - 2024.07*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, *Charlottesville, VA*.
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), *Hangzhou, China*.
 - *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, *Beijing, China*.
 
 
-# 🔨 Tools & Models
+# 🔨 Models
 ## Genomics
 - [SICER 2.0](https://zanglab.github.io/SICER2/) (**S**patial-clustering **I**dentification of **C**hIP-**E**nriched **R**egions):
   a ChIP-Seq broad peak calling data analysis method.

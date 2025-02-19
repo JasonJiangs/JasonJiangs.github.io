@@ -18,14 +18,11 @@ main:
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"
 
-  - title: "Research"
-    url: "/#-research"
+  - title: "Experience"
+    url: "/#-experience"
 
-  - title: "Industry"
-    url: "/#-industry"
-
-  - title: "Software"
-    url: "/#-software"
+  - title: "Models"
+    url: "/#-models"
 
   - title: "Miscellaneous"
     url: "/#-miscellaneous"
