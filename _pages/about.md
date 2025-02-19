@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-I am currently working as a visiting researcher at the Westlake University working with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
+I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
+Before, I am currently working as a visiting researcher at the Westlake University with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
 
 Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University. 
@@ -32,45 +33,99 @@ and later participated in developing a single-cell foundation model in [Prof. Xi
 I am also working with [Prof. Han Xiao's Group](https://xiao.rice.edu/) at Rice University Chemistry for developing a robust platform
 for machine learning guided protein evolution.
 
-[//]: # (Previously, I was working with Prof. Chongzhi Zang &#40;UVa&#41;, Prof. Xiaojie Qiu &#40;Stanford&#41;, Prof. Yanjun Li &#40;UFL&#41;, )
-
-[//]: # (Prof. Han Xiao &#40;Rice&#41;, Dr. Kevin K. Yang &#40;MSR&#41;, Prof. Kimia Ghobadi &#40;JHU&#41;, Prof. Claus Aranha &#40;Tsukuba&#41;, )
-
-[//]: # (Prof. Fajie Yuan &#40;Westlake&#41;, Dr. Jerry Wang &#40;Westlake&#41;, and Prof. Aloysius Wong &#40;WKU&#41;.)
-
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
 models and LLMs for life sciences around the central dogma and how to use them to interpret and 
-discover the biological mechanism.
+discover the biological mechanism. 
+If you're interested in a discussion, feel free to reach out to me at sjiang43@alumni.jh.edu.
 
 Research Interests:
 - Computational genomics
-- Deep learning for cancer biology and chemical biology
+- Deep learning for molecular biology and chemical biology
 - AI for drug discovery
 
-[//]: # (- Artificial Life)
-
 # 📖 Educations
-
-[//]: # (- *2024.08 - Present*, Doctor of Philosophy, Computational Biology.)
+- *2025 - 2030*, incoming PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, LA*
 - *2022 - 2024*, Master of Science in Engineering, Computer Science. Johns Hopkins University. *Baltimore, MD* 
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
 
-[//]: # (- *2024.08*: )
-[//]: # (- *2024.06*: The follow-up work of building an emotion model for [Koudou]&#40;https://github.com/caranha/Koudou&#41; has been accepted by ALIFE 2024. )
-[//]: # (- *2024.03*: [ContraBind]&#40;&#41;, a contrastive learning based model for RNA-small molecules binding affinity prediction has been published as a preprint.)
-[//]: # (- *2024.03*: [REFEREE]&#40;&#41;, a federated learning based single-cell foundation model has been published as a preprint.)
-[//]: # (- *2024.03*: SICER2, a redesigned ChIP-seq broad peak calling tool, has been updated &#40;check the [Documentation]&#40;https://zanglab.github.io/SICER2/&#41;&#41;.)
-[//]: # (- *2023.07*: The work to build based on a multi-agent model for pandemic simulation, [Koudou]&#40;https://github.com/caranha/Koudou&#41;, has been accepted by ALIFE 2023.)
+[//]: # (- *2025.12*: Evolla has been accepted by [Nature Communications]&#40;&#41;! Check out our [online server]&#40;http://www.chat-protein.com/&#41;.)
+[//]: # (- *2025.12*: ProTrek has been accepted by [Nature Biotechnology]&#40;&#41;! Check out our [online server]&#40;http://search-protrek.com/&#41;.)
+[//]: # (- *2025.08*: Excited to begin my PhD journey at USC—looking forward to all the incredible experiences ahead!)
+[//]: # (- *2025.08*: SICER 2.0 has been accepted by [Bioinformatics]&#40;&#41;. Check out our updated [tutorial]&#40;https://zanglab.github.io/SICER2/&#41;.)
+[//]: # (- *2025.05*: SaProtHub has been accepted by [Nature Methods]&#40;&#41;! Check out our [tutorial]&#40;https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file&#41; and [the OPMC]&#40;https://theopmc.github.io/&#41;.)
+
+[//]: # (- *2025.05*: I left Westlake University where I was fortunate to work on great projects including [SaProtHub]&#40;&#41;, [ProTrek]&#40;&#41;, and [Evolla]&#40;&#41;.)
+
+[//]: # (- *2025.04*: a book chapter in bioinformatics tool development has been published with [Elsevier]&#40;https://shop.elsevier.com/books/cryptic-enzymes-and-moonlighting/irving/978-0-443-15719-6&#41;.)
+
+[//]: # (- *2025.04*: the collaboration work with MSR, SDEML, has been released to bioRxiv.)
+
+[//]: # (- *2025.03*: the python package of SICER 2.0, a ChIP-seq broad peak calling tool, has been updated &#40;check the [Documentation]&#40;https://zanglab.github.io/SICER2/&#41;&#41;.)
+
+[//]: # (- *2025.03*: one paper in explainable AI for prostate cancer has been accepted by [ICME 2025]&#40;https://arxiv.org/abs/2501.01392&#41;.)
+
+[//]: # (- *2025.01*: one paper in multi-agents LLM has been accepted by [NAACL 2025]&#40;https://arxiv.org/abs/2411.00781&#41;.)
+
+[//]: # (- *2024.09*: one paper in computational chemistry has been accepted by [ACS Nano]&#40;https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316&#41;, featured in the [cover]&#40;https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg&#41;.)
+
+[//]: # (- *2024.08*: one paper has been accepted by [ChemBioChem]&#40;https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202400366&#41; and is selected as a VIP paper.)
+
+[//]: # (- *2023.07*: one paper in developing a multi-agent model for pandemic simulation has been accepted by [ALIFE 2023]&#40;https://direct.mit.edu/isal/proceedings/isal2023/35/123/116938&#41;.)
+
+[//]: # (- *2022.08*: my first first-authored paper in developing a protein recognition webserver has been accepted by [Bioinformatics]&#40;https://academic.oup.com/bioinformatics/article/38/19/4643/6673135&#41;.)
 
 # 📝 Publications
+
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sicer.png' alt="sym" width="75%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # ([SmartBind: RNA-ligand interaction prediction with contrastive learning and RNA foundation model]&#40;&#41;)
+
+[//]: # (**Shiyu Jiang**, Amirhossein Taghavi, Tzu-Tang Lin, Jessica L. Childs-Disney, Chenglong Li, Matthew D. Disney, Yanjun Li. *bioRxiv*, 2025, &#40;In Submission&#41;.)
+
+[//]: # ([GitHub]&#40;https://github.com/AIDD-LiLab/SmartBind&#41;)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sicer.png' alt="sym" width="75%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # ([SICER 2.0: a redesigned ChIP-seq broad peak identified tool with enhanced FDR control and accelerated performance]&#40;&#41;)
+
+[//]: # (**Shiyu Jiang**, Jin Yong Yoo, Yiren Wang, Chongzhi Zang. 2025, &#40;In Submission&#41;.)
+
+[//]: # ([Python Package and Tutorial]&#40;https://zanglab.github.io/SICER2/&#41; | [GitHub]&#40;https://github.com/zanglab/SICER2&#41;)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Computational approaches and bioinformatic tools for the identification of cryptic enzymes]()
+**Shiyu Jiang**, Aloysius Wong, Chunyun Bi. 2025. As a book chapter in Cryptic Enzymes and Moonlighting.
+[Book](https://shop.elsevier.com/books/cryptic-enzymes-and-moonlighting/irving/978-0-443-15719-6)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/qa.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Decoding the Molecular Language of Proteins with Evola](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1)
 Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Zichen Yuan, Wei Zheng, Fengyuan Dai, Yuyang Zhou, Yuyang Tao, Dan Wu, Fajie Yuan. *bioRxiv*, 2025.
-[Demo Website](http://www.chat-protein.com/)
+[Online Server](http://www.chat-protein.com/)
 </div>
 </div>
 
@@ -80,7 +135,7 @@ Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, 
 
 [Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
 Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2025.
-[Package](https://github.com/aristoteleo/tabula)
+[GitHub](https://github.com/aristoteleo/tabula)
 </div>
 </div>
 
@@ -89,8 +144,8 @@ Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, 
 <div class='paper-box-text' markdown="1">
 
 [ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract)
-Jin Su, Xibin Zhou, Xuting Zhang, Fajie Yuan (To be updated). *bioRxiv*, 2024.
-[Demo Website](http://search-protrek.com/)
+Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang** ‡, Xibin Zhou ‡, Xuting Zhang, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *bioRxiv*, 2024, (In Submission).
+[Online Server](http://search-protrek.com/)
 </div>
 </div>
 
@@ -100,7 +155,7 @@ Jin Su, Xibin Zhou, Xuting Zhang, Fajie Yuan (To be updated). *bioRxiv*, 2024.
 
 [SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
 Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024, (In Submission). 
-[Platform](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file)
+[GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file)
 </div>
 </div>
 
@@ -120,7 +175,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 [Simulating Disease Spread During Disaster Scenarios](https://direct.mit.edu/isal/proceedings/isal/35/123/116938)
 **Shiyu Jiang**, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
-[Code](https://github.com/caranha/Koudou/tree/ALIFE_2023)
+[GitHub](https://github.com/caranha/Koudou/tree/ALIFE_2023)
 </div>
 </div>
 
@@ -130,7 +185,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 [HNOXPred: a web tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)
 **Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong. *Bioinformatics*, 2022
-[Website](https://www.hnoxpred.com/) | [Code](https://github.com/JasonJiangs/HNOX_Pred)
+[Online Website](https://www.hnoxpred.com/) | [GitHub](https://github.com/JasonJiangs/HNOX_Pred)
 </div>
 </div>
 
@@ -158,27 +213,46 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, *Beijing, China*.
 
 
-# 🔨 Tools
-## Model
-- [Koudou](https://github.com/caranha/Koudou): 
-  an agent-based model that simulates the infectious disease spread under college town scenario.
-
-[//]: # (- [ProTrek]&#40;http://search-protrek.com/&#41;:)
-  
-[//]: # (- [Tabula]&#40;&#41;:)
-
-[//]: # (  a privacy-protected foundation model for single-cell.)
-
-[//]: # (- [SmartBind]&#40;&#41;:)
-  
-
-## Web server
-- [HNOXPred](https://github.com/JasonJiangs/HNOX_Pred) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
-  a web server that predicts gas-sensing H-NOX proteins from amino acid sequences.
-
-## Python Package
+# 🔨 Tools & Models
+## Genomics
 - [SICER 2.0](https://zanglab.github.io/SICER2/) (**S**patial-clustering **I**dentification of **C**hIP-**E**nriched **R**egions):
   a ChIP-Seq broad peak calling data analysis method.
+
+- [Tabula](https://github.com/aristoteleo/tabula):
+  A privacy-preserving predictive foundation model for single-cell transcriptomics, leveraging federated learning and tabular modeling.
+
+## Protein
+
+[//]: # (- [SDEML]&#40;&#41;:)
+
+[//]: # (  xxx)
+
+- [ProTrek](http://search-protrek.com/):
+  a tri-modal protein language model that jointly models protein sequence, structure and function (SSF).
+
+- [Evolla](http://www.chat-protein.com/):
+  a protein-language generative model designed to decode the molecular language of proteins.
+
+- [SaProtHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file):
+  making Protein Modeling Accessible to All Biologists.
+
+- [HNOXPred](http://www.hnoxpred.com/) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
+  a web server to predict gas-sensing H-NOX proteins from amino acid sequences.
+
+## Molecule
+
+[//]: # (- [SmartBind]&#40;https://github.com/AIDD-LiLab/SmartBind&#41;:)
+
+[//]: # (  xxx)
+
+[//]: # (- [ApoDiff]&#40;https://github.com/AIDD-LiLab&#41;:)
+
+[//]: # (  xxx)
+
+## Other
+- [Koudou](https://github.com/caranha/Koudou):
+  an agent-based model that simulates the infectious disease spread under college town scenario.
+
 
 # 🌎 Miscellaneous
 Outside of work, you’ll often find me at the gym, playing soccer, road cycling, or traveling to new destinations. I also enjoy playing table tennis and the piano occasionally.
