@@ -34,14 +34,14 @@ I am also working with [Prof. Han Xiao's Group](https://xiao.rice.edu/) at Rice 
 for machine learning guided protein evolution.
 
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
-models and LLMs for life sciences around the central dogma and how to use them to interpret and 
-discover the biological mechanism. 
+models and LLMs for life sciences around the central dogma and how to use them to discover and interpret new biology. 
 If you're interested in a discussion, feel free to reach out to me at **sjiang43@alumni.jh.edu**.
 
 Research Interests:
-- Computational genomics
-- Deep learning for molecular biology and chemical biology
-- AI for drug discovery
+- Deep Learning Methods for Molecular Interactions
+- Large Language Model for Life Sciences
+- Computational Genomics and Systems Biology
+- Drug Discovery
 
 # 📖 Educations
 - *2025 - 2030*, incoming PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
