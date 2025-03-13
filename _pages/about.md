@@ -35,7 +35,7 @@ for machine learning guided protein evolution.
 
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
 models and LLMs for life sciences around the central dogma and how to use them to discover and interpret new biology. 
-If you're interested in a discussion, feel free to reach out to me at **sjiang43@alumni.jh.edu**.
+If you're interested in a discussion, feel free to reach out to me at **shiyujia@usc.edu**.
 
 Research Interests:
 - Deep Learning Methods for Molecular Interactions
