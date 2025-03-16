@@ -20,21 +20,19 @@ redirect_from:
 # 🗨 About Me
 I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
 I am currently working as a visiting researcher at the Westlake University with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
+I received my Master's degree in Computer Science from Johns Hopkins University and 
+Bachelor's degree in Computer Science from Wenzhou-Kean University.
 
-Previously, I received my Master's degree in Computer Science from Johns Hopkins University and 
-Bachelor's degree in Computer Science from Wenzhou-Kean University. 
-I did my master thesis advised by [Prof. Kimia Ghobadi](https://systems.jhu.edu/kimia/) at Johns Hopkins University on multi-agent simulation.
-I was fortunate to work with [Prof. Aloysius Wong's Group](https://csmt.wku.edu.cn/en/node/1777) at Wenzhou-Kean University during my undergraduate
-where I first stepped into the field of bioinformatics. After graduation, I worked as a lab specialist at [Prof. Chongzhi Zang's Lab](https://zanglab.github.io/index.htm) at 
-the University of Virginia Medical School exploring computational genomics.
-
-In addition, I developed a deep learning model for RNA-ligand interaction prediction with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at University of Florida 
-and later participated in developing a single-cell foundation model in [Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University. 
-I am also working with [Prof. Han Xiao's Group](https://xiao.rice.edu/) at Rice University Chemistry for developing a robust platform
+Previously, I was advised by [Prof. Aloysius Wong](https://csmt.wku.edu.cn/en/node/1777) at Wenzhou-Kean University when I was an undergrad. 
+After graduation, I was honored to work with [Prof. Chongzhi Zang](https://zanglab.github.io/index.htm) at 
+the University of Virginia Medical School exploring computational genomics. 
+In addition, I worked with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at UFL for AI-driven drug discovery 
+and later developed a single-cell foundation model in [Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University. 
+I am also collaborating with [Prof. Han Xiao's Group](https://xiao.rice.edu/) at Rice University Chemistry in developing a robust platform
 for machine learning guided protein evolution.
 
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
-models and LLMs for life sciences around the central dogma and how to use them to discover and interpret new biology. 
+models for life sciences and how to use them to discover and interpret new biology. 
 If you're interested in a discussion, feel free to reach out to me at **shiyujia@usc.edu**.
 
 Research Interests:
