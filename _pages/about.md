@@ -19,16 +19,19 @@ redirect_from:
 
 # 🗨 About Me
 I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
-I am currently working as a visiting researcher at the Westlake University with [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and [Dr. Zitong Jerry Wang](https://cellethology.github.io/).
+I am currently working as a visiting researcher at the Westlake University with 
+[Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and 
+[Dr. Zitong Jerry Wang](https://cellethology.github.io/).
 I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University.
 
-Previously, I was advised by [Prof. Aloysius Wong](https://csmt.wku.edu.cn/en/node/1777) at Wenzhou-Kean University when I was an undergrad. 
-After graduation, I was honored to work with [Prof. Chongzhi Zang](https://zanglab.github.io/index.htm) at 
-the University of Virginia Medical School exploring computational genomics. 
-In addition, I worked with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at UFL for AI-driven drug discovery 
-and later developed a single-cell foundation model in [Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University. 
-I am also collaborating with [Prof. Han Xiao's Group](https://xiao.rice.edu/) at Rice University Chemistry in developing a robust platform
+Previously, I was advised by [Prof. Aloysius Wong](https://csmt.wku.edu.cn/en/node/1777) at Wenzhou-Kean University 
+when I was an undergrad. After graduation, I was honored to work with 
+[Prof. Chongzhi Zang](https://zanglab.github.io/index.htm) at the University of Virginia Medical School exploring 
+computational genomics. In addition, I worked with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at UFL on 
+AI-driven drug discovery and later developed a single-cell foundation model in 
+[Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University. I am also collaborating with 
+[Prof. Han Xiao's Group](https://xiao.rice.edu/) at Rice University Chemistry in developing a robust platform
 for machine learning guided protein evolution.
 
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
@@ -75,7 +78,7 @@ Research Interests:
 [//]: # (- *2022.08*: my first first-authored paper in developing a protein recognition webserver has been accepted by [Bioinformatics]&#40;https://academic.oup.com/bioinformatics/article/38/19/4643/6673135&#41;.)
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Elsevier Book Chapter</div><img src='' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Elsevier Book Chapter</div><img src='images/bookcover.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Computational approaches and bioinformatic tools for the identification of cryptic enzymes]()
