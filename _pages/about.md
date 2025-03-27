@@ -59,23 +59,14 @@ Research Interests:
 
 [//]: # (- *2025.05*: I left Westlake University where I was fortunate to work on great projects including [SaProtHub]&#40;&#41;, [ProTrek]&#40;&#41;, and [Evolla]&#40;&#41;.)
 
-[//]: # (- *2025.04*: a book chapter in bioinformatics tool development has been published with [Elsevier]&#40;https://shop.elsevier.com/books/cryptic-enzymes-and-moonlighting/irving/978-0-443-15719-6&#41;.)
-
 [//]: # (- *2025.04*: the collaboration work with MSR, SDEML, has been released to bioRxiv.)
 
 [//]: # (- *2025.03*: the python package of SICER 2.0, a ChIP-seq broad peak calling tool, has been updated &#40;check the [Documentation]&#40;https://zanglab.github.io/SICER2/&#41;&#41;.)
 
-[//]: # (- *2025.03*: one paper in explainable AI for prostate cancer has been accepted by [ICME 2025]&#40;https://arxiv.org/abs/2501.01392&#41;.)
-
-[//]: # (- *2025.01*: one paper in multi-agents LLM has been accepted by [NAACL 2025]&#40;https://arxiv.org/abs/2411.00781&#41;.)
-
-[//]: # (- *2024.09*: one paper in computational chemistry has been accepted by [ACS Nano]&#40;https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316&#41;, featured in the [cover]&#40;https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg&#41;.)
-
-[//]: # (- *2024.08*: one paper has been accepted by [ChemBioChem]&#40;https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202400366&#41; and is selected as a VIP paper.)
-
-[//]: # (- *2023.07*: one paper in developing a multi-agent model for pandemic simulation has been accepted by [ALIFE 2023]&#40;https://direct.mit.edu/isal/proceedings/isal2023/35/123/116938&#41;.)
-
-[//]: # (- *2022.08*: my first first-authored paper in developing a protein recognition webserver has been accepted by [Bioinformatics]&#40;https://academic.oup.com/bioinformatics/article/38/19/4643/6673135&#41;.)
+- *2025.01*: one paper on developing a single-cell foundation model has ben released to bioRxiv, see our X post [here](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
+- *2024.09*: one paper on accurate nanoplastics classification has been accepted by [ACS Nano](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316), featured in the [cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg).
+- *2023.07*: one paper on developing a multi-agent simulation model for pandemic spread has been accepted by [ALIFE 2023](https://direct.mit.edu/isal/proceedings/isal2023/35/123/116938).
+- *2022.08*: one paper on developing a protein recognition webserver has been accepted by [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135).
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Elsevier Book Chapter</div><img src='images/bookcover.png' alt="sym" width="75%"></div></div>
