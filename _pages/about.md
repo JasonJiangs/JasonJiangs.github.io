@@ -223,7 +223,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
 
 # 🌎 Miscellaneous
-Outside of work, you’ll often find me at the gym, playing soccer, road cycling, or traveling to new destinations. I also enjoy playing table tennis and the piano occasionally.
+Outside of work, you’ll often find me at the gym, playing soccer, road cycling, or go hiking. 
+I also enjoy playing table tennis and the piano occasionally.
 
 
 <body>
