@@ -36,7 +36,6 @@ for machine learning guided protein evolution.
 
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
 models for life sciences and how to use them to discover and interpret new biology. 
-If you're interested in a discussion, feel free to reach out to me at **shiyujia@usc.edu**.
 
 Research Interests:
 - Deep Learning Methods for Molecular Interactions
@@ -69,15 +68,6 @@ Research Interests:
 - *2022.08*: one paper on developing a protein recognition webserver has been accepted by [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135).
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Elsevier Book Chapter</div><img src='images/bookcover.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Computational approaches and bioinformatic tools for the identification of cryptic enzymes]()
-**Shiyu Jiang**, Aloysius Wong, Chunyun Bi. 2025. As a book chapter in Cryptic Enzymes and Moonlighting.
-[Book](https://shop.elsevier.com/books/cryptic-enzymes-and-moonlighting/irving/978-0-443-15719-6)
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/qa.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
