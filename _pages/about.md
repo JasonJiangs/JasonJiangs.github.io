@@ -72,7 +72,7 @@ Research Interests:
 <div class='paper-box-text' markdown="1">
 
 [Predicting function of evolutionarily implausible DNA sequences]()
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *bioRxiv*, 2025.
+**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
 [GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
 </div>
