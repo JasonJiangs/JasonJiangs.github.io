@@ -62,7 +62,7 @@ Research Interests:
 
 [//]: # (- *2025.03*: the python package of SICER 2.0, a ChIP-seq broad peak calling tool, has been updated &#40;check the [Documentation]&#40;https://zanglab.github.io/SICER2/&#41;&#41;.)
 
-- *2025.06*: one paper "[Predicting function of evolutionarily implausible DNA sequences]()" accepted by ICML 2025 Generative AI and Biology Workshop.
+- *2025.06*: one paper "[Predicting function of evolutionarily implausible DNA sequences](https://arxiv.org/abs/2506.10271)" accepted by ICML 2025 Generative AI and Biology Workshop.
 - *2025.01*: one paper "[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)" is released to bioRxiv, see our X post [here](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
 - *2024.09*: one paper on accurate nanoplastics classification has been accepted by [ACS Nano](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316), featured in the [cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg).
 - *2023.07*: one paper on developing a multi-agent simulation model for pandemic spread has been accepted by [ALIFE 2023](https://direct.mit.edu/isal/proceedings/isal2023/35/123/116938).
@@ -72,7 +72,7 @@ Research Interests:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Predicting function of evolutionarily implausible DNA sequences]()
+[Predicting function of evolutionarily implausible DNA sequences](https://arxiv.org/abs/2506.10271)
 **Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
 [GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
