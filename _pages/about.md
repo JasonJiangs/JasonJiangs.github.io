@@ -69,6 +69,8 @@ Research Interests:
 - *2022.08*: one paper on developing a protein recognition webserver has been accepted by [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135).
 
 # 📝 Publications
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -174,6 +176,9 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
 # 🔨 Models
 ## Genomics
+- [Nullsettes](https://github.com/cellethology/GLM-Nullsette-Benchmark): 
+  a synthetic biology benchmark simulating loss-of-function mutations via control element translocations, enabling zero-shot evaluation of genomic language models.
+
 - [SICER 2.0](https://zanglab.github.io/SICER2/) (**S**patial-clustering **I**dentification of **C**hIP-**E**nriched **R**egions):
   a ChIP-Seq broad peak calling data analysis method.
 
@@ -181,11 +186,6 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
   A privacy-preserving predictive foundation model for single-cell transcriptomics, leveraging federated learning and tabular modeling.
 
 ## Protein
-
-[//]: # (- [SDEML]&#40;&#41;:)
-
-[//]: # (  xxx)
-
 - [ProTrek](http://search-protrek.com/):
   a tri-modal protein language model that jointly models protein sequence, structure and function (SSF).
 
