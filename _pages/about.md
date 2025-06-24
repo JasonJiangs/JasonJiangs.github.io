@@ -50,7 +50,7 @@ Research Interests:
 
 # 📰 News
 - *2025.06*: Our Sequence Display work is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
-- *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://arxiv.org/abs/2506.10271)" was accepted by ICML 2025 Generative AI and Biology Workshop!
+- *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)" was accepted by ICML 2025 Generative AI and Biology Workshop!.
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), Looking forward to the journey.
 - *2025.01*: "[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)" was released to bioRxiv, see our X [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
 - *2024.09*: one paper on accurate nanoplastics classification has been accepted by [ACS Nano](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316), featured in the [cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg).
