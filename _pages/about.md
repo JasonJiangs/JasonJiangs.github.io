@@ -50,33 +50,41 @@ Research Interests:
 
 # 📰 News
 
-[//]: # (- *2025.12*: Evolla has been accepted by [Nature Communications]&#40;&#41;! Check out our [online server]&#40;http://www.chat-protein.com/&#41;.)
-[//]: # (- *2025.12*: ProTrek has been accepted by [Nature Biotechnology]&#40;&#41;! Check out our [online server]&#40;http://search-protrek.com/&#41;.)
-[//]: # (- *2025.08*: Excited to begin my PhD journey at USC—looking forward to all the incredible experiences ahead!)
-[//]: # (- *2025.08*: SICER 2.0 has been accepted by [Bioinformatics]&#40;&#41;. Check out our updated [tutorial]&#40;https://zanglab.github.io/SICER2/&#41;.)
-[//]: # (- *2025.05*: SaProtHub has been accepted by [Nature Methods]&#40;&#41;! Check out our [tutorial]&#40;https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file&#41; and [the OPMC]&#40;https://theopmc.github.io/&#41;.)
+[//]: # (- *2025.08*: I am joining [USC QCB]&#40;https://www.qcb-dornsife.usc.edu/&#41; as a PhD student in computational biology and bioinformatics, looking forward to the journey!)
 
-[//]: # (- *2025.05*: I left Westlake University where I was fortunate to work on great projects including [SaProtHub]&#40;&#41;, [ProTrek]&#40;&#41;, and [Evolla]&#40;&#41;.)
+[//]: # (- *2025.07*: "[ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning]&#40;https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract&#41;" was accepted by Nature Biotechnology!)
 
-[//]: # (- *2025.04*: the collaboration work with MSR, SDEML, has been released to bioRxiv.)
-
-[//]: # (- *2025.03*: the python package of SICER 2.0, a ChIP-seq broad peak calling tool, has been updated &#40;check the [Documentation]&#40;https://zanglab.github.io/SICER2/&#41;&#41;.)
-
-- *2025.06*: one paper "[Predicting function of evolutionarily implausible DNA sequences](https://arxiv.org/abs/2506.10271)" accepted by ICML 2025 Generative AI and Biology Workshop.
-- *2025.01*: one paper "[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)" is released to bioRxiv, see our X post [here](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
+[//]: # (- *2025.07*: "[SmartBind: Structure-Agnostic Ligand Discovery for RNA Targets Using Deep Learning]&#40;&#41;" was released to bioRxiv, see the X [post]&#40;&#41;.)
+- *2025.06*: Our Sequence Display work is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
+- *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://arxiv.org/abs/2506.10271)" was accepted by ICML 2025 Generative AI and Biology Workshop!
+- *2025.01*: "[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)" was released to bioRxiv, see our X [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
 - *2024.09*: one paper on accurate nanoplastics classification has been accepted by [ACS Nano](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316), featured in the [cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg).
 - *2023.07*: one paper on developing a multi-agent simulation model for pandemic spread has been accepted by [ALIFE 2023](https://direct.mit.edu/isal/proceedings/isal2023/35/123/116938).
 - *2022.08*: one paper on developing a protein recognition webserver has been accepted by [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135).
 
 # 📝 Publications
 
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # ([SmartBind: Structure-Agnostic Ligand Discovery for RNA Targets Using Deep Learning]&#40;&#41;)
+
+[//]: # (**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025.)
+
+[//]: # ([GitHub]&#40;https://github.com/AIDD-LiLab/SmartBind&#41;)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Predicting function of evolutionarily implausible DNA sequences](https://arxiv.org/abs/2506.10271)
 **Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
-[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
+[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark) | [Poster](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)
 </div>
 </div>
 
@@ -168,7 +176,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 [comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 🧑‍💻 Experience
-- *2024.08 - Present*, Visiting Researcher, [Representation Learning Lab](https://github.com/westlake-repl) & [Cell Ethology Lab](https://cellethology.github.io/), Westlake University, *Hangzhou, China*.
+- *2024.08 - 2025.06*, Visiting Researcher, [Representation Learning Lab](https://github.com/westlake-repl) & [Cell Ethology Lab](https://cellethology.github.io/), Westlake University, *Hangzhou, China*.
 - *2024.01 - 2024.07*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, *Charlottesville, VA*.
 - *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), *Hangzhou, China*.
 - *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, *Beijing, China*.
@@ -199,14 +207,9 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
   a web server to predict gas-sensing H-NOX proteins from amino acid sequences.
 
 ## Molecule
+- [SmartBind](https://github.com/AIDD-LiLab/SmartBind):
+  SmartBind is a structure-free RNA-ligand interaction prediction method, which can be used for RNA-ligand virtual screening and binding site prediction.
 
-[//]: # (- [SmartBind]&#40;https://github.com/AIDD-LiLab/SmartBind&#41;:)
-
-[//]: # (  xxx)
-
-[//]: # (- [ApoDiff]&#40;https://github.com/AIDD-LiLab&#41;:)
-
-[//]: # (  xxx)
 
 ## Other
 - [Koudou](https://github.com/caranha/Koudou):
