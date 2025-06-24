@@ -55,6 +55,7 @@ Research Interests:
 [//]: # (- *2025.07*: "[ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning]&#40;https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract&#41;" was accepted by Nature Biotechnology!)
 
 [//]: # (- *2025.07*: "[SmartBind: Structure-Agnostic Ligand Discovery for RNA Targets Using Deep Learning]&#40;&#41;" was released to bioRxiv, see the X [post]&#40;&#41;.)
+
 - *2025.06*: Our Sequence Display work is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
 - *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://arxiv.org/abs/2506.10271)" was accepted by ICML 2025 Generative AI and Biology Workshop!
 - *2025.01*: "[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)" was released to bioRxiv, see our X [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
