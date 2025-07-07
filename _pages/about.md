@@ -19,14 +19,17 @@ redirect_from:
 
 # 🗨 About Me
 I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
-I am currently working as a visiting researcher at the Westlake University with 
-[Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and 
-[Dr. Zitong Jerry Wang](https://cellethology.github.io/).
 I received my Master's degree in Computer Science from Johns Hopkins University and 
-Bachelor's degree in Computer Science from Wenzhou-Kean University.
+Bachelor's degree in Computer Science from Wenzhou-Kean University. 
+I used to work as a visiting researcher at the Westlake University with
+[Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and
+[Dr. Zitong Jerry Wang](https://cellethology.github.io/).
 
+I took a gap year to work as a visiting researcher at Westlake University collaborating with 
+[Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and
+[Dr. Zitong Jerry Wang](https://cellethology.github.io/).
 Previously, I was advised by [Prof. Aloysius Wong](https://csmt.wku.edu.cn/en/node/1777) at Wenzhou-Kean University 
-when I was an undergrad. After graduation, I was honored to work with 
+when I was an undergrad. After completing my master's degree, I was honored to work with 
 [Prof. Chongzhi Zang](https://zanglab.github.io/index.htm) at the University of Virginia Medical School exploring 
 computational genomics. In addition, I worked with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at UFL on 
 AI-driven drug discovery and later developed a single-cell foundation model in 
@@ -49,8 +52,13 @@ Research Interests:
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2025.06*: Our Sequence Display work is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
-- *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)" was accepted by ICML 2025 Generative AI and Biology Workshop!.
+
+[//]: # (- *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales]&#40;https://cqb.pku.edu.cn/info/1064/3011.htm&#41;, see our [poster]&#40;&#41;.)
+
+[//]: # (- *2025.07*: "SmartBind: Structure-Agnostic Ligand Discovery for RNA Targets Using Deep Learning" is on [bioRxiv]&#40;&#41;.)
+
+- *2025.06*: "Sequence Display-Enabled Machine Learning for Protein Evolution" is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
+- *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)" is accepted by ICML 2025 Generative AI and Biology Workshop!.
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), Looking forward to the journey.
 - *2025.01*: "[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)" was released to bioRxiv, see our X [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
 - *2024.09*: one paper on accurate nanoplastics classification has been accepted by [ACS Nano](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316), featured in the [cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg).
@@ -79,7 +87,7 @@ Research Interests:
 
 [Predicting function of evolutionarily implausible DNA sequences](https://arxiv.org/abs/2506.10271)
 **Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
-[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark) | [Poster](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)
+[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
 </div>
 
