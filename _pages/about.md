@@ -20,10 +20,7 @@ redirect_from:
 # 🗨 About Me
 I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
 I received my Master's degree in Computer Science from Johns Hopkins University and 
-Bachelor's degree in Computer Science from Wenzhou-Kean University. 
-I used to work as a visiting researcher at the Westlake University with
-[Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and
-[Dr. Zitong Jerry Wang](https://cellethology.github.io/).
+Bachelor's degree in Computer Science from Wenzhou-Kean University.
 
 I took a gap year to work as a visiting researcher at Westlake University collaborating with 
 [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and
@@ -52,11 +49,6 @@ Research Interests:
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-
-[//]: # (- *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales]&#40;https://cqb.pku.edu.cn/info/1064/3011.htm&#41;, see our [poster]&#40;&#41;.)
-
-[//]: # (- *2025.07*: "SmartBind: Structure-Agnostic Ligand Discovery for RNA Targets Using Deep Learning" is on [bioRxiv]&#40;&#41;.)
-
 - *2025.06*: "Sequence Display-Enabled Machine Learning for Protein Evolution" is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
 - *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)" is accepted by ICML 2025 Generative AI and Biology Workshop!.
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), Looking forward to the journey.
