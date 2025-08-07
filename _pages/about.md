@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-I am an incoming PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
+I am a PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
 I received my Master's degree in Computer Science from Johns Hopkins University and 
 Bachelor's degree in Computer Science from Wenzhou-Kean University.
 
@@ -44,13 +44,17 @@ Research Interests:
 - Drug Discovery
 
 # 📖 Educations
-- *2025 - 2030*, incoming PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
+- *2025 - 2030*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
 - *2022 - 2024*, Master of Science in Engineering, Computer Science. Johns Hopkins University. *Baltimore, MD* 
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
+- *2025.09*: "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by *NeurIPS 2025*!
+- *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted in principle by *Nature Biotechnology*!
+- *2025.07*: "ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning" is accepted in principle by *Nature Biotechnology*!
+- *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster]().
 - *2025.06*: "Sequence Display-Enabled Machine Learning for Protein Evolution" is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
-- *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)" is accepted by ICML 2025 Generative AI and Biology Workshop!.
+- *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)" is accepted by *ICML 2025 Generative AI and Biology Workshop*!
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), Looking forward to the journey.
 - *2025.01*: "[Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)" was released to bioRxiv, see our X [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
 - *2024.09*: one paper on accurate nanoplastics classification has been accepted by [ACS Nano](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316), featured in the [cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg).
