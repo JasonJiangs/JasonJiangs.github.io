@@ -85,7 +85,7 @@ Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang** ‡, Xibin Zhou ‡, Xu
 <div class='paper-box-text' markdown="1">
 
 [SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
-Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024, (In Submission).
+Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025.
 [GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
 </div>
