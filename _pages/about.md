@@ -66,6 +66,7 @@ Research Interests:
 [Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
 
 **Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *bioRxiv*, 2025. (In Submission)
+
 [GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
 </div>
@@ -77,6 +78,7 @@ Research Interests:
 [Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input]()
 
 **Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (In Submission)
+
 [GitHub](https://github.com/AIDD-LiLab/SmartBind)
 </div>
 </div>
@@ -88,6 +90,7 @@ Research Interests:
 [Decoding the Molecular Language of Proteins with Evola](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1)
 
 Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Zichen Yuan, Wei Zheng, Fengyuan Dai, Yuyang Zhou, Yuyang Tao, Dan Wu, Fajie Yuan. *bioRxiv*, 2025.
+
 [Online Server](http://www.chat-protein.com/)
 </div>
 </div>
@@ -99,6 +102,7 @@ Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, 
 [Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
 
 Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2025.
+
 [GitHub](https://github.com/aristoteleo/tabula)
 </div>
 </div>
@@ -110,6 +114,7 @@ Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, 
 [Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution]()
 
 Yu Hu †, Linqi Cheng †, Yijie Liu, Rui Liu, **Shiyu Jiang**, Teng Yuan, Yixin Wang, Haoxin Ye, Han Xiao. *Journal of the American Chemical Society*, 2025. (Accepted)
+
 [GitHub](https://github.com/linqicheng-xiao/gmx_mmpbsa_py)
 </div>
 </div>
@@ -121,6 +126,7 @@ Yu Hu †, Linqi Cheng †, Yijie Liu, Rui Liu, **Shiyu Jiang**, Teng Yuan, Yixi
 [A tri-modal protein language model enables advanced protein searches](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract)
 
 Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang** ‡, Xibin Zhou ‡, Xuting Zhang, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *Nature Biotechnology*, 2025. (Accepted)
+
 [Online Server](http://search-protrek.com/)
 </div>
 </div>
@@ -132,6 +138,7 @@ Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang** ‡, Xibin Zhou ‡, Xu
 [SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
 
 Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025. (Accepted)
+
 [GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
 </div>
@@ -143,6 +150,7 @@ Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, X
 [Predicting function of evolutionarily implausible DNA sequences](https://openreview.net/forum?id=YEmMJHZSGv)
 
 **Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
+
 [GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
 </div>
@@ -154,6 +162,7 @@ Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, X
 [Integrating Metal–Phenolic Networks-Mediated Separation and Machine Learning-Aided Surface-Enhanced Raman Spectroscopy for Accurate Nanoplastics Quantification and Classification](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316)
 
 Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Rickey Y Yada, Anubhav Pratap-Singh, Alberto Baldelli, Tianxi Yang. *ACS Nano*, 2024.
+
 [Featured on Cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg)
 </div>
 </div>
@@ -165,6 +174,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 [Simulating Disease Spread During Disaster Scenarios](https://direct.mit.edu/isal/proceedings/isal/35/123/116938)
 
 **Shiyu Jiang**, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
+
 [GitHub](https://github.com/caranha/Koudou/tree/ALIFE_2023)
 </div>
 </div>
@@ -176,6 +186,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 [HNOXPred: a web tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)
 
 **Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong. *Bioinformatics*, 2022.
+
 [Online Server](https://www.hnoxpred.com/) | [GitHub](https://github.com/JasonJiangs/HNOX_Pred)
 </div>
 </div>
