@@ -19,8 +19,6 @@ redirect_from:
 
 # 🗨 About Me
 I am a PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
-I received my Master's degree in Computer Science from Johns Hopkins University and 
-Bachelor's degree in Computer Science from Wenzhou-Kean University.
 
 I took a gap year to work as a visiting researcher at Westlake University collaborating with 
 [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and
@@ -49,8 +47,9 @@ Research Interests:
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted in principle by ***Nature Biotechnology***!
-- *2025.07*: "ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning" is accepted in principle by ***Nature Biotechnology***!
+- *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work for GenBio workshop) is released on [bioRxiv](https://arxiv.org/abs/2506.10271v3).
+- *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***Nature Biotechnology***!
+- *2025.07*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***Nature Biotechnology***!
 - *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster]().
 - *2025.06*: "Sequence Display-Enabled Machine Learning for Protein Evolution" is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
 - *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)" is accepted by ***ICML 2025 Generative AI and Biology Workshop***!
@@ -61,42 +60,22 @@ Research Interests:
 - *2022.08*: one paper on developing a protein recognition webserver is accepted by ***Bioinformatics*** ([paper link](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)).
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
+**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *bioRxiv*, 2025. (In Submission)
+[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SmartBind: Structure-Agnostic Ligand Discovery for RNA Targets Using Deep Learning]()
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025.
+[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input]()
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (In Submission)
 [GitHub](https://github.com/AIDD-LiLab/SmartBind)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract)
-Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang** ‡, Xibin Zhou ‡, Xuting Zhang, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *Nature Biotechnology*, 2025. (Accepted in principle)
-[Online Server](http://search-protrek.com/)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
-Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025.
-[GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Predicting function of evolutionarily implausible DNA sequences](https://arxiv.org/abs/2506.10271)
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
-[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
 </div>
 
@@ -117,6 +96,46 @@ Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, 
 [Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
 Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *bioRxiv*, 2025.
 [GitHub](https://github.com/aristoteleo/tabula)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS</div><img src='images/' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution]()
+Yu Hu †, Linqi Cheng †, Yijie Liu, Rui Liu, **Shiyu Jiang**, Teng Yuan, Yixin Wang, Haoxin Ye, Han Xiao. *Journal of the American Chemical Society*, 2025. (Accepted)
+[GitHub](https://github.com/linqicheng-xiao/gmx_mmpbsa_py)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A tri-modal protein language model enables advanced protein searches](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract)
+Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang** ‡, Xibin Zhou ‡, Xuting Zhang, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *Nature Biotechnology*, 2025. (Accepted)
+[Online Server](http://search-protrek.com/)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
+Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025. (Accepted)
+[GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting function of evolutionarily implausible DNA sequences](https://openreview.net/forum?id=YEmMJHZSGv)
+**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
+[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
 </div>
 
