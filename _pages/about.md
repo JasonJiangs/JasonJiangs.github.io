@@ -64,6 +64,7 @@ Research Interests:
 <div class='paper-box-text' markdown="1">
 
 [Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
+
 **Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *bioRxiv*, 2025. (In Submission)
 [GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
@@ -74,6 +75,7 @@ Research Interests:
 <div class='paper-box-text' markdown="1">
 
 [Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input]()
+
 **Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (In Submission)
 [GitHub](https://github.com/AIDD-LiLab/SmartBind)
 </div>
