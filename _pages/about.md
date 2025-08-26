@@ -60,7 +60,7 @@ Research Interests:
 - *2022.08*: one paper on developing a protein recognition webserver is accepted by ***Bioinformatics*** ([paper link](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)).
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
