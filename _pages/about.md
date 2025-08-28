@@ -85,6 +85,18 @@ Research Interests:
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution]()
+
+Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. 2025.
+
+[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/qa.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
