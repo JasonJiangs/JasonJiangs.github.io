@@ -78,19 +78,19 @@ Research Interests:
 
 [Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input]()
 
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (In Submission)
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. 2025. (In Submission)
 
 [GitHub](https://github.com/AIDD-LiLab/SmartBind)
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution]()
 
-Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. 2025.
+Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. 2025. (In Submission)
 
 [GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML)
 </div>
