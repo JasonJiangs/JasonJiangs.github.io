@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-I am a PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
+I am a first PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
 
 I took a gap year to work as a visiting researcher at Westlake University collaborating with 
 [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and
@@ -47,7 +47,8 @@ Research Interests:
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work for GenBio workshop) is released on [bioRxiv](https://arxiv.org/abs/2506.10271v3).
+- *2025.08*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](), check it out! (X [post]())
+- *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work for GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
 - *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***Nature Biotechnology***!
 - *2025.07*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***Nature Biotechnology***!
 - *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster]().
@@ -65,7 +66,7 @@ Research Interests:
 
 [Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
 
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *bioRxiv*, 2025. (In Submission)
+**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *arXiv*, 2025. (In Submission)
 
 [GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
