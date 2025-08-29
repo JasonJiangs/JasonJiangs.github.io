@@ -136,7 +136,7 @@ Hu Y, Wang Y, Cheng L, Wang C, Liu Y, Wang Y, Chen Y, Yang S, Guo Y, **Jiang S**
 
 [Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution]()
 
-Yu Hu †, Linqi Cheng †, Yijie Liu, Rui Liu, **Shiyu Jiang**, Teng Yuan, Yixin Wang, Haoxin Ye, Han Xiao. *Journal of the American Chemical Society*, 2025. (Accepted)
+Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. *Journal of the American Chemical Society*, 2025. (Accepted)
 
 [GitHub](https://github.com/linqicheng-xiao/gmx_mmpbsa_py)
 </div>
