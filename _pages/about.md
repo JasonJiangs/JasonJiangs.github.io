@@ -120,6 +120,17 @@ Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC_yu.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor]()
+
+Hu Y, Wang Y, Cheng L, Wang C, Liu Y, Wang Y, Chen Y, Yang S, Guo Y, **Jiang S**, Yang K, Xiao H. *Nature Communications*, 2025. (Accepted)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS</div><img src='images/jacs_1.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
