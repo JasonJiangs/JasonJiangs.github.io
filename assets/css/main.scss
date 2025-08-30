@@ -109,71 +109,65 @@ h1:before, .anchor:before {
 }
 
 
-/* --- Style for Education Timeline --- */
+/* --- Education Timeline (parametric) --- */
+$icon-size: 48px;
+$icon-gap:  72px;
+
+$line-width: 3px;
+
 .education-timeline {
     position: relative;
     list-style: none;
     padding: 1rem 0;
     margin: 0;
+
+    &::before {
+        content: '';
+        position: absolute;
+        left: calc(#{$icon-size} / 2 - #{$line-width} / 2);
+        top: 20px;
+        bottom: 20px;
+        width: $line-width;
+        background: #e9ecef;
+        border-radius: 2px;
+    }
 }
-.education-timeline::before {
-    content: '';
-    position: absolute;
-    left: 40px; /* Center the line based on icon size (80px/2) */
-    top: 20px;
-    bottom: 20px;
-    width: 3px;
-    background: #e9ecef; /* A light grey line */
-    border-radius: 2px;
-}
+
 .timeline-item-edu {
     position: relative;
     margin-bottom: 30px;
-    padding-left: 120px; /* Space for the icon + some gap */
-    min-height: 80px; /* Ensure space for the icon */
+    padding-left: calc(#{$icon-size} + #{$icon-gap});
+    min-height: $icon-size;
     display: flex;
     align-items: center;
 }
+
 .timeline-icon {
     position: absolute;
     left: 0;
-    top: 0;
-    width: 40px;
-    height: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: $icon-size;
+    height: $icon-size;
     background-color: #fff;
-    border-radius: 8px; /* Rounded corners for the square icon */
+    border-radius: 8px;
     border: 3px solid #e9ecef;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden; /* Hide parts of the image that go beyond the rounded corners */
+    overflow: hidden;
 }
+
 .timeline-icon img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Ensures the image covers the area without distortion */
+    object-fit: cover;
 }
-.timeline-content-edu .date {
-    font-weight: 500;
-    color: #555;
-    font-size: 0.9em;
-    margin-bottom: 5px;
-}
-.timeline-content-edu .title {
-    font-weight: bold;
-    font-size: 1.2em;
-    margin: 0;
-}
-.timeline-content-edu .school {
-    font-weight: 400;
-    margin: 5px 0 0 0;
-    color: #3498db;
-}
-.timeline-content-edu a {
-    text-decoration: none;
-    color: #3498db;
-}
-.timeline-content-edu a:hover {
-    text-decoration: underline;
+
+.timeline-content-edu .date { font-weight: 500; color: #555; font-size: .9em; margin-bottom: 5px; }
+.timeline-content-edu .title { font-weight: bold; font-size: 1.2em; margin: 0; }
+.timeline-content-edu .school { font-weight: 400; margin: 5px 0 0 0; color: #3498db; }
+.timeline-content-edu a { text-decoration: none; color: #3498db; }
+.timeline-content-edu a:hover { text-decoration: underline; }
 }
