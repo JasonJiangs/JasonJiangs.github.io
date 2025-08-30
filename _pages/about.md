@@ -232,12 +232,6 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 [comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 🧑‍💻 Experience
-- *2024.08 - 2025.06*, Visiting Researcher, [Representation Learning Lab](https://github.com/westlake-repl) & [Cell Ethology Lab](https://cellethology.github.io/), Westlake University, *Hangzhou, China*.
-- *2024.01 - 2024.07*, Lab Specialist, [Chongzhi Zang Lab](https://zanglab.github.io/index.htm), University of Virginia School of Medicine, *Charlottesville, VA*.
-- *2022.06 - 2022.08*, Software Engineer Intern, [Alibaba Cloud - PolarDB](https://www.alibabacloud.com/product/polardb), *Hangzhou, China*.
-- *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, *Beijing, China*.
-
-
 <ul class="education-timeline">
     <li class="timeline-item-edu">
         <div class="timeline-icon">
