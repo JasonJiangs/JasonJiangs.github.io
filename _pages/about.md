@@ -233,25 +233,37 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
 # 🧑‍💻 Experience
 <ul class="education-timeline">
+
     <li class="timeline-item-edu">
         <div class="timeline-icon">
-            <img src="images/Duke.png" alt="Duke University Logo">
+            <img src="images/WLU_logo.png" alt="WLU Logo">
         </div>
         <div class="timeline-content-edu">
-            <p class="date">2025.08 - 2025.12</p>
-            <h4 class="title">Visiting International Student</h4>
-            <p class="school"><a href="https://duke.edu/" target="_blank">Duke University</a>, Trinity College of Arts & Sciences</p>
+            <p class="date">2024.08 - 2025.06</p>
+            <h4 class="title">Research Associate</h4>
+            <p class="school"><a href="" target="_blank">Westlake University</a>School of Engineering & School of Science</p>
         </div>
     </li>
 
     <li class="timeline-item-edu">
         <div class="timeline-icon">
-            <img src="images/westlake_logo.png" alt="Westlake University Logo">
+            <img src="images/UVA_logo.png" alt="UVA Logo">
         </div>
         <div class="timeline-content-edu">
-            <p class="date">2023.07 - Present</p>
-            <h4 class="title">Undergraduate in Biological Science</h4>
-            <p class="school"><a href="https://www.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Life Science</p>
+            <p class="date">2024.01 - 2024.07</p>
+            <h4 class="title">Lab Specialist</h4>
+            <p class="school"><a href="" target="_blank">University of Virginia</a>, School of Medicine</p>
+        </div>
+    </li>
+
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
+            <img src="images/AlibabaCloud_logo.png" alt="Alibaba Cloud Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2022.06 - 2022.08</p>
+            <h4 class="title">Software Engineer Intern</h4>
+            <p class="school"><a href="" target="_blank">Alibaba Cloud</a> </p>
         </div>
     </li>
 </ul>
