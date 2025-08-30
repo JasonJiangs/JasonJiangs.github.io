@@ -241,7 +241,18 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2024.08 - 2025.06</p>
             <h4 class="title">Research Associate</h4>
-            <p class="school"><a href="" target="_blank">Westlake University</a>, School of Engineering & School of Science</p>
+            <p class="school"><a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Engineering & School of Science</p>
+        </div>
+    </li>
+
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
+            <img src="images/STF_logo.png" alt="Stanford Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2023.08 - 2025.02</p>
+            <h4 class="title">Remote Research Assistant</h4>
+            <p class="school"><a href="https://med.stanford.edu/genetics.html?tab=proxy" target="_blank">Stanford University</a>, Department of Genetics</p>
         </div>
     </li>
 
@@ -252,7 +263,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2024.01 - 2024.07</p>
             <h4 class="title">Lab Specialist</h4>
-            <p class="school"><a href="" target="_blank">University of Virginia</a>, School of Medicine</p>
+            <p class="school"><a href="https://med.virginia.edu/genome-sciences/" target="_blank">University of Virginia</a>, School of Medicine</p>
         </div>
     </li>
 
@@ -263,7 +274,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2022.06 - 2022.08</p>
             <h4 class="title">Software Engineer Intern</h4>
-            <p class="school"><a href="" target="_blank">Alibaba Cloud</a> </p>
+            <p class="school"><a href="https://www.alibabacloud.com/en?_p_lc=5" target="_blank">Alibaba Cloud</a> </p>
         </div>
     </li>
 </ul>
