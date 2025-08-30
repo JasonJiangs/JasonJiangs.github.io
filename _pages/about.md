@@ -238,6 +238,30 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - *2021.09 - 2022.03*, Applied Research Intern, [Institute of Automation](https://people.ucas.edu.cn/~zhenshen?language=en), Chinese Academy of Sciences, *Beijing, China*.
 
 
+<ul class="education-timeline">
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
+            <img src="images/Duke.png" alt="Duke University Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2025.08 - 2025.12</p>
+            <h4 class="title">Visiting International Student</h4>
+            <p class="school"><a href="https://duke.edu/" target="_blank">Duke University</a>, Trinity College of Arts & Sciences</p>
+        </div>
+    </li>
+
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
+            <img src="images/westlake_logo.png" alt="Westlake University Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2023.07 - Present</p>
+            <h4 class="title">Undergraduate in Biological Science</h4>
+            <p class="school"><a href="https://www.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Life Science</p>
+        </div>
+    </li>
+</ul>
+
 # 🔨 Models
 ## Genomics
 - [Nullsettes](https://github.com/cellethology/GLM-Nullsette-Benchmark): 
