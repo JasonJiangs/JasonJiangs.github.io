@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-I am a first PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
+I am a first year PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
 
 I took a gap year to work as a visiting researcher at Westlake University collaborating with 
 [Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and
