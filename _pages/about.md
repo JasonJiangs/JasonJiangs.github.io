@@ -241,7 +241,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2024.08 - 2025.06</p>
             <h4 class="title">Research Associate</h4>
-            <p class="school"><a href="" target="_blank">Westlake University</a>School of Engineering & School of Science</p>
+            <p class="school"><a href="" target="_blank">Westlake University</a>, School of Engineering & School of Science</p>
         </div>
     </li>
 
