@@ -236,6 +236,17 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
     <li class="timeline-item-edu">
         <div class="timeline-icon">
+            <img src="images/USC_logo.png" alt="USC Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2025.09 - Present</p>
+            <h4 class="title">Graduate Research Assistant</h4>
+            <p class="school"><a href="https://www.qcb-dornsife.usc.edu/" target="_blank">University of Southern California</a>, Department of Quantitative and Computational Biology</p>
+        </div>
+    </li>
+
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
             <img src="images/WLU_logo.png" alt="WLU Logo">
         </div>
         <div class="timeline-content-edu">
