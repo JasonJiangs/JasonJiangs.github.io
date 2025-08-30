@@ -110,8 +110,8 @@ h1:before, .anchor:before {
 
 
 /* --- Education Timeline (parametric) --- */
-$icon-size: 60px;
-$icon-gap:  32px;
+$icon-size: 72px;
+$icon-gap:  40px;
 
 $line-width: 3px;
 
@@ -170,4 +170,3 @@ $line-width: 3px;
 .timeline-content-edu .school { font-weight: 400; margin: 5px 0 0 0; color: #3498db; }
 .timeline-content-edu a { text-decoration: none; color: #3498db; }
 .timeline-content-edu a:hover { text-decoration: underline; }
-}
