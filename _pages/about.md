@@ -301,7 +301,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
     </li>
 </ul>
 
-# 🔨 Models & Tools
+# 🔨 Models and Tools
 ## Genomics
 - [Nullsettes](https://github.com/cellethology/GLM-Nullsette-Benchmark): 
   a synthetic biology benchmark simulating loss-of-function mutations via control element translocations, enabling zero-shot evaluation of genomic language models.
