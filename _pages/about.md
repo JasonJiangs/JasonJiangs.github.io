@@ -50,7 +50,7 @@ Research Interests:
 - *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work for GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
 - *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***Nature Biotechnology***!
 - *2025.07*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***Nature Biotechnology***!
-- *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster]().
+- *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster](https://jasonjiangs.github.io/images/nullsettes_poster.png).
 - *2025.06*: "Sequence Display-Enabled Machine Learning for Protein Evolution" is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
 - *2025.06*: "[Predicting function of evolutionarily implausible DNA sequences](https://jasonjiangs.github.io/images/nullsettes_genbio2025_poster.png)" is accepted by ***ICML 2025 Generative AI and Biology Workshop***!
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), Looking forward to the journey.
@@ -72,14 +72,14 @@ Research Interests:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input]()
 
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. 2025. (In Submission)
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (In Submission)
 
-[GitHub](https://github.com/AIDD-LiLab/SmartBind)
+[GitHub](https://github.com/AIDD-LiLab/SMARTBind)
 </div>
 </div>
 
@@ -108,7 +108,7 @@ Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula_nips.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)
@@ -247,6 +247,17 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
     <li class="timeline-item-edu">
         <div class="timeline-icon">
+            <img src="images/UF_logo.png" alt="UF Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2024.08 - 2025.08</p>
+            <h4 class="title">Remote Research Assistant</h4>
+            <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy</p>
+        </div>
+    </li>
+
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
             <img src="images/WLU_logo.png" alt="WLU Logo">
         </div>
         <div class="timeline-content-edu">
@@ -290,23 +301,26 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
     </li>
 </ul>
 
-# 🔨 Models
+# 🔨 Models & Tools
 ## Genomics
 - [Nullsettes](https://github.com/cellethology/GLM-Nullsette-Benchmark): 
   a synthetic biology benchmark simulating loss-of-function mutations via control element translocations, enabling zero-shot evaluation of genomic language models.
 
 - [SICER 2.0](https://zanglab.github.io/SICER2/) (**S**patial-clustering **I**dentification of **C**hIP-**E**nriched **R**egions):
-  a ChIP-Seq broad peak calling data analysis method.
+  a redesigned ChIP-Seq broad peak calling data analysis method.
 
 - [Tabula](https://github.com/aristoteleo/tabula):
   A privacy-preserving predictive foundation model for single-cell transcriptomics, leveraging federated learning and tabular modeling.
 
 ## Protein
+- [Sequence display](https://github.com/SophieSarceau/SequenceDisplay-ML):
+  a platform that integrates large‑scale sequence–activity datasets with protein language models to map activity landscapes and identify high‑performance protein variants.
+
 - [ProTrek](http://search-protrek.com/):
   a tri-modal protein language model that jointly models protein sequence, structure and function (SSF).
 
 - [Evolla](http://www.chat-protein.com/):
-  a protein-language generative model designed to decode the molecular language of proteins.
+  a protein-language generative model (Protein ChatGPT) designed to decode the molecular language of proteins.
 
 - [SaProtHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file):
   making Protein Modeling Accessible to All Biologists.
@@ -314,10 +328,12 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - [HNOXPred](https://www.hnoxpred.com/) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
   a web server to predict gas-sensing H-NOX proteins from amino acid sequences.
 
-## Molecule
-- [SmartBind](https://github.com/AIDD-LiLab/SmartBind):
-  SmartBind is a structure-free RNA-ligand interaction prediction method, which can be used for RNA-ligand virtual screening and binding site prediction.
+## Molecular interacion
+- [SMARTBind](https://github.com/AIDD-LiLab/SMARTBind):
+  SMARTBind is a structure-agnostic RNA-ligand interaction prediction method, which can be used for RNA-ligand virtual screening and binding site prediction.
 
+- [gmx_mmpbsa_py](https://github.com/linqicheng-xiao/gmx_mmpbsa_py):
+  an easy-to-use Python script that integrates GROMACS molecular dynamics trajectories with APBS to compute protein–ligand binding free energies using the MM/PBSA method.
 
 ## Other
 - [Koudou](https://github.com/caranha/Koudou):
