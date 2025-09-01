@@ -247,17 +247,6 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
     <li class="timeline-item-edu">
         <div class="timeline-icon">
-            <img src="images/UF_logo.png" alt="UF Logo">
-        </div>
-        <div class="timeline-content-edu">
-            <p class="date">2024.08 - 2025.08</p>
-            <h4 class="title">Remote Research Assistant</h4>
-            <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy</p>
-        </div>
-    </li>
-
-    <li class="timeline-item-edu">
-        <div class="timeline-icon">
             <img src="images/WLU_logo.png" alt="WLU Logo">
         </div>
         <div class="timeline-content-edu">
@@ -269,10 +258,21 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
     <li class="timeline-item-edu">
         <div class="timeline-icon">
+            <img src="images/UF_logo.png" alt="UF Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2023 - 2025</p>
+            <h4 class="title">Remote Research Assistant</h4>
+            <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy</p>
+        </div>
+    </li>
+
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
             <img src="images/STF_logo.png" alt="Stanford Logo">
         </div>
         <div class="timeline-content-edu">
-            <p class="date">2023.08 - 2025.02</p>
+            <p class="date">2023 - 2025</p>
             <h4 class="title">Remote Research Assistant</h4>
             <p class="school"><a href="https://med.stanford.edu/genetics.html?tab=proxy" target="_blank">Stanford University</a>, Department of Genetics</p>
         </div>
