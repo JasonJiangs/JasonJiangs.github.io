@@ -134,9 +134,9 @@ Hu Y, Wang Y, Cheng L, Wang C, Liu Y, Wang Y, Chen Y, Yang S, Guo Y, **Jiang S**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS</div><img src='images/jacs_1.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution]()
+[Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution](https://pubs.acs.org/doi/10.1021/jacs.5c08627)
 
-Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. *Journal of the American Chemical Society*, 2025. (Accepted)
+Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. *Journal of the American Chemical Society*, 2025.
 
 [GitHub](https://github.com/linqicheng-xiao/gmx_mmpbsa_py)
 </div>
