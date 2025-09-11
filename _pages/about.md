@@ -47,8 +47,9 @@ Research Interests:
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
+# - *2025.09*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on ***[bioRxiv]()***.
 - *2025.09*: "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution" is accepted by ***[Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c08627)***!
-- *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work for GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
+- *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work from the GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
 - *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***Nature Biotechnology***!
 - *2025.07*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***Nature Biotechnology***!
 - *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster](https://jasonjiangs.github.io/images/nullsettes_poster.png).
@@ -61,18 +62,6 @@ Research Interests:
 - *2022.08*: one paper on developing a protein recognition webserver is accepted by ***Bioinformatics*** ([paper link](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)).
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
-
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *arXiv*, 2025. (In Submission)
-
-[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -85,12 +74,24 @@ Research Interests:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
+
+**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *arXiv*, 2025. (In Submission)
+
+[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution]()
 
-Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. 2025. (In Submission)
+Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (In Submission)
 
 [GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML)
 </div>
@@ -254,6 +255,17 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
             <p class="date">2024.08 - 2025.06</p>
             <h4 class="title">Research Associate</h4>
             <p class="school"><a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Engineering & School of Science</p>
+        </div>
+    </li>
+
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
+            <img src="images/rice_logp.png" alt="RiceU Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2023 - 2025</p>
+            <h4 class="title">Remote Research Assistant</h4>
+            <p class="school"><a href="https://chemistry.rice.edu/" target="_blank">University of Florida</a>, Department of Chemistry</p>
         </div>
     </li>
 
