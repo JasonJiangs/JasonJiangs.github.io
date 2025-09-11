@@ -260,7 +260,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
     <li class="timeline-item-edu">
         <div class="timeline-icon">
-            <img src="images/rice_logp.png" alt="RiceU Logo">
+            <img src="images/rice_logo.png" alt="RiceU Logo">
         </div>
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
