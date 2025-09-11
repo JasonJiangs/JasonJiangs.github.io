@@ -47,7 +47,6 @@ Research Interests:
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-# - *2025.09*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on ***[bioRxiv]()***.
 - *2025.09*: "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution" is accepted by ***[Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c08627)***!
 - *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work from the GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
 - *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***Nature Biotechnology***!
