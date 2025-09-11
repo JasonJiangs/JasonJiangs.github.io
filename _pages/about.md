@@ -264,7 +264,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
             <h4 class="title">Remote Research Assistant</h4>
-            <p class="school"><a href="https://chemistry.rice.edu/" target="_blank">University of Florida</a>, Department of Chemistry</p>
+            <p class="school"><a href="https://chemistry.rice.edu/" target="_blank">Rice University</a>, Department of Chemistry</p>
         </div>
     </li>
 
