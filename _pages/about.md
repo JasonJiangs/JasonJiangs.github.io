@@ -247,7 +247,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2024.08 - 2025.06</p>
-            <h4 class="title">Research Associate | Advisor: Prof. Fajie Yuan and Dr. Zitong Jerry Wang</h4>
+            <h4 class="title">Research Associate</h4>
+            <p class="date">Development and evaluation of protein/genomic language model | Advisor: Prof. Fajie Yuan and Dr. Zitong Jerry Wang</p>
             <p class="school"><a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Engineering & School of Science</p>
         </div>
     </li>
