@@ -20,26 +20,8 @@ redirect_from:
 # 🗨 About Me
 I am a first year PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
 
-I took a gap year to work as a visiting researcher at Westlake University collaborating with 
-[Prof. Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html) and
-[Dr. Zitong Jerry Wang](https://cellethology.github.io/).
-Previously, I was advised by [Prof. Aloysius Wong](https://csmt.wku.edu.cn/en/node/1777) at Wenzhou-Kean University 
-when I was an undergrad. After completing my master's degree, I was honored to work with 
-[Prof. Chongzhi Zang](https://zanglab.github.io/index.htm) at the University of Virginia Medical School exploring 
-computational genomics. In addition, I worked with [Prof. Yanjun Li](https://yanjun-li.com/index.html) at UFL on 
-AI-driven drug discovery and later developed a single-cell foundation model in 
-[Prof. Xiaojie Qiu's Lab](https://www.devo-evo.com/) at Stanford University. I am also collaborating with 
-[Prof. Han Xiao's Group](https://xiao.rice.edu/) at Rice University Chemistry in developing a robust platform
-for machine learning guided protein evolution.
-
 I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
-models for life sciences and how to use them to discover and interpret new biology. 
-
-Research Interests:
-- Deep Learning Methods for Molecular Interactions
-- Large Language Model for Life Sciences
-- Computational Genomics and Systems Biology
-- Drug Discovery
+models for life sciences and how to use them to discover and interpret new biology.
 
 # 📖 Educations
 - *2025 - 2030*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
@@ -265,7 +247,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2024.08 - 2025.06</p>
-            <h4 class="title">Research Associate</h4>
+            <h4 class="title">Research Associate | Advisor: Prof. Fajie Yuan and Dr. Zitong Jerry Wang</h4>
             <p class="school"><a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Engineering & School of Science</p>
         </div>
     </li>
@@ -276,7 +258,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
-            <h4 class="title">Remote Research Assistant</h4>
+            <h4 class="title">Remote Research Assistant | Advisor: Prof. Han Xiao</h4>
             <p class="school"><a href="https://chemistry.rice.edu/" target="_blank">Rice University</a>, Department of Chemistry</p>
         </div>
     </li>
@@ -287,7 +269,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
-            <h4 class="title">Remote Research Assistant</h4>
+            <h4 class="title">Remote Research Assistant| Advisor: Prof. Yanjun Li</h4>
             <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy</p>
         </div>
     </li>
@@ -298,7 +280,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
-            <h4 class="title">Remote Research Assistant</h4>
+            <h4 class="title">Remote Research Assistant | Advisor: Prof. Xiaojie Qiu</h4>
             <p class="school"><a href="https://med.stanford.edu/genetics.html?tab=proxy" target="_blank">Stanford University</a>, Department of Genetics</p>
         </div>
     </li>
@@ -309,7 +291,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2024.01 - 2024.07</p>
-            <h4 class="title">Lab Specialist</h4>
+            <h4 class="title">Lab Specialist | Advisor: Prof. Chongzhi Zang</h4>
+            <p class="date">ChIP-Seq peak calling</p>
             <p class="school"><a href="https://med.virginia.edu/genome-sciences/" target="_blank">University of Virginia</a>, School of Medicine</p>
         </div>
     </li>
