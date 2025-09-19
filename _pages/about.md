@@ -20,9 +20,6 @@ redirect_from:
 # 🗨 About Me
 I am a first year PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
 
-I mainly work on the intersection of machine learning and biology in a broad scope. I am interested in foundation 
-models for life sciences and how to use them to discover and interpret new biology.
-
 # 📖 Educations
 - *2025 - 2030*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
 - *2022 - 2024*, Master of Science in Engineering, Computer Science. Johns Hopkins University. *Baltimore, MD* 
@@ -259,7 +256,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
-            <h4 class="title">Remote Research Assistant | Advisor: Prof. Han Xiao</h4>
+            <h4 class="title">Remote Research Assistant</h4>
+            <p class="date">Machine learning for protein evalution | Advisor: Prof. Han Xiao</p>
             <p class="school"><a href="https://chemistry.rice.edu/" target="_blank">Rice University</a>, Department of Chemistry</p>
         </div>
     </li>
@@ -270,7 +268,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
-            <h4 class="title">Remote Research Assistant| Advisor: Prof. Yanjun Li</h4>
+            <h4 class="title">Remote Research Assistant</h4>
+            <p class="date">RNA-small molecule drug discovery and molecule generation | Advisor: Prof. Yanjun Li</p>
             <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy</p>
         </div>
     </li>
@@ -281,7 +280,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
-            <h4 class="title">Remote Research Assistant | Advisor: Prof. Xiaojie Qiu</h4>
+            <h4 class="title">Remote Research Assistant</h4>
+            <p class="date">Foundation model for single-cell transcriptomics | Advisor: Prof. Xiaojie Qiu</p>
             <p class="school"><a href="https://med.stanford.edu/genetics.html?tab=proxy" target="_blank">Stanford University</a>, Department of Genetics</p>
         </div>
     </li>
@@ -292,8 +292,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         </div>
         <div class="timeline-content-edu">
             <p class="date">2024.01 - 2024.07</p>
-            <h4 class="title">Lab Specialist | Advisor: Prof. Chongzhi Zang</h4>
-            <p class="date">ChIP-Seq peak calling</p>
+            <h4 class="title">Lab Specialist</h4>
+            <p class="date">ChIP-Seq peak calling tool | Advisor: Prof. Chongzhi Zang</p>
             <p class="school"><a href="https://med.virginia.edu/genome-sciences/" target="_blank">University of Virginia</a>, School of Medicine</p>
         </div>
     </li>
