@@ -26,7 +26,7 @@ I am a first year PhD student in Computational Biology and Bioinformatics (CBB) 
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2025.10*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
+- *2025.09*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
 - *2025.09*: "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by ***[NeurIPS 2025](https://neurips.cc/virtual/2025/poster/117659)***!
 - *2025.09*: "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution" is accepted by ***[Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c08627)***!
 - *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work from the GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
