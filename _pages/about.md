@@ -316,7 +316,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - [Nullsettes](https://github.com/cellethology/GLM-Nullsette-Benchmark): 
   a synthetic biology benchmark simulating loss-of-function mutations via control element translocations, enabling zero-shot evaluation of genomic language models.
 
-- [SICER 2.0](https://zanglab.github.io/SICER2/) (**S**patial-clustering **I**dentification of **C**hIP-**E**nriched **R**egions):
+- [SICER 2.0](https://zanglab.github.io/SICER2/) & [Clipper dev Version](https://github.com/zanglab/SICER2/tree/sicer_dev) (**S**patial-clustering **I**dentification of **C**hIP-**E**nriched **R**egions):
   a redesigned ChIP-Seq broad peak calling data analysis method.
 
 - [Tabula](https://github.com/aristoteleo/tabula):
