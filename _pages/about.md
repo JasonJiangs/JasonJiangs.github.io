@@ -251,7 +251,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2024.08 - 2025.06</p>
             <h4 class="title">Research Associate</h4>
-            <p class="date">Development and evaluation of protein/genomic language model | Advisor: Prof. Fajie Yuan and Dr. Zitong Jerry Wang</p>
+            <p class="date">Development and evaluation of protein/genomic language model | Advisor: <a href="https://fajieyuan.github.io/" target="_blank">Prof. Fajie Yuan</a> & <a href="https://www.cellethology.org/" target="_blank">Dr. Zitong Jerry Wang</a></p>
             <p class="school"><a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Engineering & Center for Interdisciplinary Studies, School of Science</p>
         </div>
     </li>
@@ -263,7 +263,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
             <h4 class="title">Remote Research Assistant</h4>
-            <p class="date">Machine learning for protein evalution | Advisor: Prof. Han Xiao</p>
+            <p class="date">Machine learning for protein evalution | Advisor: <a href="https://xiao.rice.edu/" target="_blank">Prof. Han Xiao</a></p>
             <p class="school"><a href="https://chemistry.rice.edu/" target="_blank">Rice University</a>, Department of Chemistry</p>
         </div>
     </li>
@@ -275,8 +275,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
             <h4 class="title">Remote Research Assistant</h4>
-            <p class="date">RNA-small molecule drug discovery and molecule generation | Advisor: <a href="https://yanjun-li.com/" target="_blank">Prof. Yanjun Li</a></p>
-            <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy</p>
+            <p class="date">RNA-small molecule drug discovery and molecule generation | Advisor: <a href="https://yanjun-li.com/" target="_blank">Prof. Yanjun Li</a> & <a href="https://disney.scripps.ufl.edu/" target="_blank">Prof. Matthew D. Disney</a></p>
+            <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy & <a href="https://wertheim.scripps.ufl.edu/" target="_blank">UF Scripps Institute</a>, Department of Chemistry</p>
         </div>
     </li>
 
@@ -287,7 +287,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
             <h4 class="title">Remote Research Assistant</h4>
-            <p class="date">Foundation model for single-cell transcriptomics | Advisor: Prof. Xiaojie Qiu</p>
+            <p class="date">Foundation model for single-cell transcriptomics | Advisor: <a href="https://www.devo-evo.com/" target="_blank">Prof. Xiaojie Qiu</a></p>
             <p class="school"><a href="https://med.stanford.edu/genetics.html?tab=proxy" target="_blank">Stanford University</a>, Department of Genetics</p>
         </div>
     </li>
@@ -299,8 +299,8 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2024.01 - 2024.07</p>
             <h4 class="title">Lab Specialist</h4>
-            <p class="date">ChIP-Seq peak calling tool | Advisor: Prof. Chongzhi Zang</p>
-            <p class="school"><a href="https://med.virginia.edu/genome-sciences/" target="_blank">University of Virginia</a>, School of Medicine</p>
+            <p class="date">ChIP-Seq peak calling tool | Advisor: <a href="https://zanglab.github.io/index.htm" target="_blank">Prof. Chongzhi Zang</a></p>
+            <p class="school"><a href="https://med.virginia.edu/genome-sciences/" target="_blank">University of Virginia</a>, Department of Genome Sciences</p>
         </div>
     </li>
 
