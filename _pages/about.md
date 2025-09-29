@@ -18,7 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-I am a first year PhD student in Computational Biology and Bioinformatics (CBB) program at USC.
+I am a first-year PhD student in the Computational Biology and Bioinformatics (CBB) program at the University of Southern California. 
+My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
+in synthetic biology, drug discovery, and molecular interaction.
+
+Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
+across these fields, you can find them in the experience panel.
 
 # 📖 Educations
 - *2025 - 2030*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
@@ -247,7 +252,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
             <p class="date">2024.08 - 2025.06</p>
             <h4 class="title">Research Associate</h4>
             <p class="date">Development and evaluation of protein/genomic language model | Advisor: Prof. Fajie Yuan and Dr. Zitong Jerry Wang</p>
-            <p class="school"><a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Engineering & School of Science</p>
+            <p class="school"><a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Engineering & Center for Interdisciplinary Studies, School of Science</p>
         </div>
     </li>
 
@@ -270,7 +275,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
             <h4 class="title">Remote Research Assistant</h4>
-            <p class="date">RNA-small molecule drug discovery and molecule generation | Advisor: Prof. Yanjun Li</p>
+            <p class="date">RNA-small molecule drug discovery and molecule generation | Advisor: <a href="https://yanjun-li.com/" target="_blank">Prof. Yanjun Li</a></p>
             <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy</p>
         </div>
     </li>
