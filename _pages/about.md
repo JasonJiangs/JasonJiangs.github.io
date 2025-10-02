@@ -36,7 +36,7 @@ across these fields, you can find them in the experience panel.
 - *2025.09*: "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution" is accepted by ***[Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c08627)***!
 - *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work from the GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
 - *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***Nature Biotechnology***!
-- *2025.07*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***Nature Biotechnology***!
+- *2025.07*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-025-02836-0)***!
 - *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster](https://jasonjiangs.github.io/images/nullsettes_poster.png).
 - *2025.06*: "Sequence Display-Enabled Machine Learning for Protein Evolution" is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
 - *2025.06*: "Predicting function of evolutionarily implausible DNA sequences" is accepted by ***[ICML 2025 Generative AI and Biology Workshop](https://openreview.net/forum?id=YEmMJHZSGv)***!
@@ -145,9 +145,9 @@ Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A tri-modal protein language model enables advanced protein searches](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract)
+[A tri-modal protein language model enables advanced protein searches](https://www.nature.com/articles/s41587-025-02836-0)
 
-Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang** ‡, Xibin Zhou ‡, Xuting Zhang, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *Nature Biotechnology*, 2025. (Accepted)
+Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang**, Xibin Zhou, Xuting Zhang, Yuxuan Wang, Xining Su, Igor Tolstoy, Xing Chang, Hongyuan Lu, Fajie Yuan. *Nature Biotechnology*, 2025.
 
 [Online Server](http://search-protrek.com/)
 </div>
