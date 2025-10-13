@@ -31,6 +31,14 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
+- *2026.04*: acceptance of Sequence display
+- *2026.03*: acceptance of SMARTBind
+- *2026.02*: acceptance of Nullsettes
+- *2026.01*: release of single-cell foundation model review
+- *2025.12*: release of new Tabula
+- *2025.11*: AAAI acceptance
+- *2025.10*: JACS acceptance
+- *2025.10*: NC acceptance
 - *2025.09*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
 - *2025.09*: "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by ***[NeurIPS 2025](https://neurips.cc/virtual/2025/poster/117659)***!
 - *2025.09*: "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution" is accepted by ***[Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c08627)***!
