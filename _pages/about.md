@@ -31,6 +31,7 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
+- *2025.10*: "Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor" is accepted by ***[Nature Communications](https://www.nature.com/articles/s41467-025-64448-1)***!
 - *2025.09*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
 - *2025.09*: "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by ***[NeurIPS 2025](https://neurips.cc/virtual/2025/poster/117659)***!
 - *2025.09*: "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution" is accepted by ***[Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c08627)***!
@@ -38,7 +39,7 @@ across these fields, you can find them in the experience panel.
 - *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***Nature Biotechnology***!
 - *2025.07*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-025-02836-0)***!
 - *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster](https://jasonjiangs.github.io/images/nullsettes_poster.png).
-- *2025.06*: "Sequence Display-Enabled Machine Learning for Protein Evolution" is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://synbioconference.org/2025), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
+- *2025.06*: "Sequence Display-Enabled Machine Learning for Protein Evolution" is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
 - *2025.06*: "Predicting function of evolutionarily implausible DNA sequences" is accepted by ***[ICML 2025 Generative AI and Biology Workshop](https://openreview.net/forum?id=YEmMJHZSGv)***!
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), looking forward to the journey.
 - *2025.01*: "Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1), see our [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
@@ -110,9 +111,9 @@ Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC_yu.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor]()
+[Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor](https://www.nature.com/articles/s41467-025-64448-1)
 
-Hu Y, Wang Y, Cheng L, Wang C, Liu Y, Wang Y, Chen Y, Yang S, Guo Y, **Jiang S**, Yang K, Xiao H. *Nature Communications*, 2025. (Accepted)
+Hu Y, Wang Y, Cheng L, Wang C, Liu Y, Wang Y, Chen Y, Yang S, Guo Y, **Jiang S**, Yang K, Xiao H. *Nature Communications*, 2025.
 
 </div>
 </div>
