@@ -343,6 +343,10 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - [Koudou](https://github.com/caranha/Koudou):
   an agent-based model that simulates the infectious disease spread under college town scenario.
 
+# 🌎 Service
+- **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics
+- **Conference reviewer**: AAAI 2026
+
 
 # 🌎 Miscellaneous
 Outside of work, you’ll often find me at the gym, playing soccer, road cycling, or go hiking. 

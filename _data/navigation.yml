@@ -24,5 +24,8 @@ main:
   - title: "Models and Tools"
     url: "/#-models-and-tools"
 
+  - title: "Service"
+    url: "/#-service"
+
   - title: "Miscellaneous"
     url: "/#-miscellaneous"
