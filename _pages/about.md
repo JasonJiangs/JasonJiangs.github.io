@@ -75,7 +75,7 @@ across these fields, you can find them in the experience panel.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution]()
+[Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)
 
 Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (In Submission)
 
