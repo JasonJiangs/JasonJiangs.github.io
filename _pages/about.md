@@ -31,7 +31,7 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2025.11*: "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" has been accepted by ***[AAAI 2026]()***!
+- *2025.11*: "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026]()***!
 - *2025.10*: "Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor" is on ***[Nature Communications](https://www.nature.com/articles/s41467-025-64448-1)***!
 - *2025.09*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
 - *2025.09*: "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by ***[NeurIPS 2025](https://neurips.cc/virtual/2025/poster/117659)***!
@@ -49,7 +49,7 @@ across these fields, you can find them in the experience panel.
 - *2022.08*: one paper on developing a protein recognition webserver is accepted by ***Bioinformatics*** ([paper link](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)).
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models]()
