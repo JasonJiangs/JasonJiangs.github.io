@@ -26,7 +26,7 @@ Before starting my PhD, I was very fortunate to work with and learn from inspiri
 across these fields, you can find them in the experience panel.
 
 # 📖 Educations
-- *2025 - 2030*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
+- *2025 - present*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
 - *2022 - 2024*, Master of Science in Engineering, Computer Science. Johns Hopkins University. *Baltimore, MD* 
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
