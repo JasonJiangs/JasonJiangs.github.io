@@ -320,14 +320,14 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 
 # 🔨 Models and Tools
 ## Genomics
+- [Tabula](https://github.com/aristoteleo/tabula):
+  A privacy-preserving predictive foundation model for single-cell transcriptomics, leveraging federated learning and tabular modeling.
+
 - [Nullsettes](https://github.com/cellethology/GLM-Nullsette-Benchmark): 
   a synthetic biology benchmark simulating loss-of-function mutations via control element translocations, enabling zero-shot evaluation of genomic language models.
 
 - [SICER 2.0](https://zanglab.github.io/SICER2/) & [Clipper dev Version](https://github.com/zanglab/SICER2/tree/sicer_dev) (**S**patial-clustering **I**dentification of **C**hIP-**E**nriched **R**egions):
   a redesigned ChIP-Seq broad peak calling data analysis method.
-
-- [Tabula](https://github.com/aristoteleo/tabula):
-  A privacy-preserving predictive foundation model for single-cell transcriptomics, leveraging federated learning and tabular modeling.
 
 ## Protein
 - [Sequence display](https://github.com/SophieSarceau/SequenceDisplay-ML):
@@ -345,14 +345,17 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 - [HNOXPred](https://www.hnoxpred.com/) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
   a web server to predict gas-sensing H-NOX proteins from amino acid sequences.
 
-## Molecular interacion
+## Drug Discovery
+- [Apo2Mol]()
+  Apo2Mol is a diffusion-based molecule generation model leveraging Apo-Holo pocket dynamics.
+
 - [SMARTBind](https://github.com/AIDD-LiLab/SMARTBind):
   SMARTBind is a structure-agnostic RNA-ligand interaction prediction method, which can be used for RNA-ligand virtual screening and binding site prediction.
 
+## Other
 - [gmx_mmpbsa_py](https://github.com/linqicheng-xiao/gmx_mmpbsa_py):
   an easy-to-use Python script that integrates GROMACS molecular dynamics trajectories with APBS to compute protein–ligand binding free energies using the MM/PBSA method.
 
-## Other
 - [Koudou](https://github.com/caranha/Koudou):
   an agent-based model that simulates the infectious disease spread under college town scenario.
 
