@@ -54,7 +54,7 @@ across these fields, you can find them in the experience panel.
 
 [Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models]()
 
-Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI*, 2026.
+Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (poster)*, 2026.
 
 [GitHub]()
 </div>
