@@ -41,7 +41,7 @@ across these fields, you can find them in the experience panel.
 - *2025.07*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-025-02836-0)***!
 - *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster](https://jasonjiangs.github.io/images/nullsettes_poster.png).
 - *2025.06*: "Sequence Display-Enabled Machine Learning for Protein Evolution" is presented at [2025 Synthetic Biology: Engineering, Evolution, & Design](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439), see our [poster](https://jasonjiangs.github.io/images/seq_display_poster.png).
-- *2025.06*: "Predicting function of evolutionarily implausible DNA sequences" is accepted by ***[ICML 2025 Generative AI and Biology Workshop](https://openreview.net/forum?id=YEmMJHZSGv)***!
+- *2025.06*: "Predicting function of evolutionarily implausible DNA sequences" is accepted by ***[ICML 2025 Generative AI and Biology Workshop](https://icml.cc/virtual/2025/51254)***!
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), looking forward to the journey.
 - *2025.01*: "Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1), see our [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
 - *2024.09*: one paper on accurate nanoplastics classification has been accepted by ***ACS Nano***([paper link](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316)), featured in the [cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg).
@@ -171,7 +171,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Predicting function of evolutionarily implausible DNA sequences](https://openreview.net/forum?id=YEmMJHZSGv)
+[Predicting function of evolutionarily implausible DNA sequences](https://icml.cc/virtual/2025/51254)
 
 **Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
 
