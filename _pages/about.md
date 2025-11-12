@@ -265,7 +265,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
             <h4 class="title">Remote Research Assistant</h4>
-            <p class="date">Machine learning for protein evalution | Advisor: <a href="https://xiao.rice.edu/" target="_blank">Prof. Han Xiao</a></p>
+            <p class="date">Protein language model driven protein evolution with sequence display | Advisor: <a href="https://xiao.rice.edu/" target="_blank">Prof. Han Xiao</a></p>
             <p class="school"><a href="https://chemistry.rice.edu/" target="_blank">Rice University</a>, Department of Chemistry</p>
         </div>
     </li>
@@ -277,7 +277,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
         <div class="timeline-content-edu">
             <p class="date">2023 - 2025</p>
             <h4 class="title">Remote Research Assistant</h4>
-            <p class="date">RNA-small molecule drug discovery and molecule generation | Advisor: <a href="https://yanjun-li.com/" target="_blank">Prof. Yanjun Li</a> & <a href="https://disney.scripps.ufl.edu/" target="_blank">Prof. Matthew D. Disney</a></p>
+            <p class="date">RNA-small molecule drug discovery and protein-molecule generation | Advisor: <a href="https://yanjun-li.com/" target="_blank">Prof. Yanjun Li</a> & <a href="https://disney.scripps.ufl.edu/" target="_blank">Prof. Matthew D. Disney</a></p>
             <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy & <a href="https://wertheim.scripps.ufl.edu/" target="_blank">UF Scripps Institute</a>, Department of Chemistry</p>
         </div>
     </li>
@@ -321,7 +321,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
 # 🔨 Models and Tools
 ## Genomics
 - [Tabula](https://github.com/aristoteleo/tabula):
-  A privacy-preserving predictive foundation model for single-cell transcriptomics, leveraging federated learning and tabular modeling.
+  A privacy-preserving predictive foundation model for single-cell transcriptomics, leveraging federated learning and tabular learning.
 
 - [Nullsettes](https://github.com/cellethology/GLM-Nullsette-Benchmark): 
   a synthetic biology benchmark simulating loss-of-function mutations via control element translocations, enabling zero-shot evaluation of genomic language models.
