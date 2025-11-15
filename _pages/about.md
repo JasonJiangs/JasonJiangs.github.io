@@ -20,7 +20,10 @@ redirect_from:
 # 🗨 About Me
 I am a first-year PhD student in the Computational Biology and Bioinformatics (CBB) program at the University of Southern California. 
 My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
-in synthetic biology, drug discovery, and molecular interaction.
+in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on three aspects: 
+(1) Structure-based AI driven drug discovery [[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract), [Apo2Mol]()]; 
+(2) Biological foundation model for protein and genomics [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu), [ProTrek](https://www.nature.com/articles/s41587-025-02836-0), [SaProtHub](https://www.nature.com/articles/s41587-025-02859-7), [Nullsettes](https://arxiv.org/abs/2506.10271)];
+(3) Machine learning enabled protein evolution [[Sequence Display](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)].
 
 Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
 across these fields, you can find them in the experience panel.
@@ -346,7 +349,7 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
   a web server to predict gas-sensing H-NOX proteins from amino acid sequences.
 
 ## Drug Discovery
-- [Apo2Mol]()
+- [Apo2Mol]():
   Apo2Mol is a diffusion-based molecule generation model leveraging Apo-Holo pocket dynamics.
 
 - [SMARTBind](https://github.com/AIDD-LiLab/SMARTBind):
