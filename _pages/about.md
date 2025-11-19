@@ -21,9 +21,10 @@ redirect_from:
 I am a first-year PhD student in the Computational Biology and Bioinformatics (CBB) program at the University of Southern California. 
 My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
 in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on three aspects: 
-(1) Structure-based AI driven drug discovery [[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract), [Apo2Mol]()]; 
+(1) Structure-based AI driven drug discovery [[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract), [Apo2Mol](https://arxiv.org/abs/2511.14559)]; 
 (2) Biological foundation model for protein and genomics [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu), [ProTrek](https://www.nature.com/articles/s41587-025-02836-0), [SaProtHub](https://www.nature.com/articles/s41587-025-02859-7), [Nullsettes](https://arxiv.org/abs/2506.10271)];
 (3) Machine learning enabled protein evolution [[Sequence Display](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)].
+
 
 Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
 across these fields, you can find them in the experience panel.
@@ -34,7 +35,7 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2025.11*: "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026]()***!
+- *2025.11*: "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026](https://arxiv.org/abs/2511.14559)***!
 - *2025.10*: "Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor" is on ***[Nature Communications](https://www.nature.com/articles/s41467-025-64448-1)***!
 - *2025.09*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
 - *2025.09*: "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by ***[NeurIPS 2025](https://openreview.net/forum?id=Vk2sfKAdeu)***!
@@ -55,7 +56,7 @@ across these fields, you can find them in the experience panel.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models]()
+[Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models](https://arxiv.org/abs/2511.14559)
 
 Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (poster)*, 2026.
 
