@@ -48,9 +48,6 @@ across these fields, you can find them in the experience panel.
 - *2025.06*: "Predicting function of evolutionarily implausible DNA sequences" is accepted by ***[ICML 2025 Generative AI and Biology Workshop](https://icml.cc/virtual/2025/51254)***!
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), looking forward to the journey.
 - *2025.01*: "Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1), see our [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
-- *2024.09*: one paper on accurate nanoplastics classification has been accepted by ***ACS Nano***([paper link](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316)), featured in the [cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg).
-- *2023.07*: one paper on developing a multi-agent simulation model for pandemic spread is accepted by ***ALIFE 2023*** ([paper link](https://direct.mit.edu/isal/proceedings/isal2023/35/123/116938)).
-- *2022.08*: one paper on developing a protein recognition webserver is accepted by ***Bioinformatics*** ([paper link](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)).
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
