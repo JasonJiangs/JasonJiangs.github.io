@@ -320,6 +320,18 @@ Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *Internation
             <p class="school"><a href="https://www.alibabacloud.com/en?_p_lc=5" target="_blank">Alibaba Cloud</a> </p>
         </div>
     </li>
+
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
+            <img src="images/WKU_logo.png" alt="WKU Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2021 - 2022</p>
+            <h4 class="title">Undergraduate Research Assistant</h4>
+            <p class="date">ChIP-Seq peak calling tool | Advisor: <a href="https://csmt.wku.edu.cn/en/node/1777" target="_blank">Prof. Aloysius Wong</a></p>
+            <p class="school"><a href="https://csmt.wku.edu.cn/en" target="_blank">Wenzhou Kean University</a>, Department of Biology</p>
+        </div>
+    </li>
 </ul>
 
 # 🔨 Models and Tools
