@@ -50,18 +50,6 @@ across these fields, you can find them in the experience panel.
 - *2025.01*: "Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1), see our [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
 
 # 📝 Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models](https://arxiv.org/abs/2511.14559)
-
-Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (poster)*, 2026.
-
-[GitHub]()
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,6 +82,18 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (In Submission)
 
 [GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models](https://arxiv.org/abs/2511.14559)
+
+Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (poster)*, 2026.
+
+[GitHub]()
 </div>
 </div>
 
