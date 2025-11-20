@@ -55,7 +55,7 @@ across these fields, you can find them in the experience panel.
 
 [Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1)
 
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (In Submission)
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under review)
 
 [GitHub](https://github.com/AIDD-LiLab/SMARTBind)
 </div>
@@ -67,7 +67,7 @@ across these fields, you can find them in the experience panel.
 
 [Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
 
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *arXiv*, 2025. (In Submission)
+**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *arXiv*, 2025. (Under review)
 
 [GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
@@ -79,7 +79,7 @@ across these fields, you can find them in the experience panel.
 
 [Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)
 
-Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (In Submission)
+Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (Under review)
 
 [GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML)
 </div>
