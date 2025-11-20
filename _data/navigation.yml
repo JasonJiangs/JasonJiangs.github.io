@@ -12,8 +12,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"

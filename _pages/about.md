@@ -49,7 +49,7 @@ across these fields, you can find them in the experience panel.
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), looking forward to the journey.
 - *2025.01*: "Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1), see our [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
 
-# 📝 Publications
+# 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,18 +98,6 @@ Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/qa.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Decoding the Molecular Language of Proteins with Evola](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1)
-
-Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Zichen Yuan, Wei Zheng, Fengyuan Dai, Yuyang Zhou, Yuyang Tao, Dan Wu, Fajie Yuan. *bioRxiv*, 2025.
-
-[Online Server](http://www.chat-protein.com/)
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/tabula_nips.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -118,17 +106,6 @@ Xibin Zhou †, Chenchen Han †, Yingqi Zhang ‡, Jin Su ‡, Kai Zhuang ‡, 
 Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *NeurIPS* (poster), 2025.
 
 [GitHub](https://github.com/aristoteleo/tabula)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC_yu.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor](https://www.nature.com/articles/s41467-025-64448-1)
-
-Hu Y, Wang Y, Cheng L, Wang C, Liu Y, Wang Y, Chen Y, Yang S, Guo Y, **Jiang S**, Yang K, Xiao H. *Nature Communications*, 2025.
-
 </div>
 </div>
 
@@ -216,16 +193,6 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2021</div><img src='images/ijcnn.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deblur-yolo: Real-time object detection with efficient blind motion deblurring](https://ieeexplore.ieee.org/abstract/document/9534352)
-
-Shen Zheng, Yuxiong Wu, **Shiyu Jiang**, Changjie Lu, Gaurav Gupta. *International Joint Conference on Neural Networks*, 2021
-
-</div>
-</div>
 
 [comment]: <> (# 🎖 Honors and Awards)
 
