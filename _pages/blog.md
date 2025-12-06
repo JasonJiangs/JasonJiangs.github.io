@@ -4,50 +4,44 @@ title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
-<h1 class="page-title">Resources</h1>
+<h1 class="page-title" style="text-align: left;">Resources</h1>
 
 <style>
   .resources-container {
-    width: 80%;
+    width: 90%;
     margin: 2rem auto;
   }
   
   .page-title {
-    text-align: center;
-    margin: 2rem 0;
+    margin: 2rem 0 1.5rem 0;
     font-size: 2em;
     font-weight: bold;
     color: #2c3e50;
   }
   
-  .resource-table {
-    margin-bottom: 2.5rem;
-    padding: 1.5rem;
-    border: 1px solid #e0e0e0;
-    border-radius: 5px;
-    background-color: #fafafa;
-    transition: all 0.3s ease;
-  }
-  
-  .resource-table:hover {
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    background-color: #f5f5f5;
-  }
-  
-  .resource-table h3 {
-    margin-top: 0;
-    margin-bottom: 1.5rem;
+  .resource-section-title {
+    font-size: 1.3em;
+    font-weight: 600;
     color: #2c3e50;
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 0.5rem;
+  }
+  
+  .resource-table {
+    margin-bottom: 2rem;
   }
   
   .resource-table table {
     width: 100%;
     border-collapse: collapse;
+    margin-bottom: 1rem;
   }
   
   .resource-table th {
     background-color: #e8f4f8;
-    padding: 0.75rem;
+    padding: 0.8rem;
     text-align: left;
     border-bottom: 2px solid #d0d0d0;
     font-weight: 600;
@@ -55,18 +49,31 @@ author_profile: true
   }
   
   .resource-table td {
-    padding: 0.75rem;
-    border-bottom: 1px solid #e0e0e0;
+    padding: 0.8rem;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  
+  .resource-table tr:last-child td {
+    border-bottom: 2px solid #d0d0d0;
   }
   
   .resource-table tr:hover {
-    background-color: #f0f8fb;
+    background-color: #f9f9f9;
+  }
+  
+  .resource-table a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  .resource-table a:hover {
+    text-decoration: underline;
   }
 </style>
 
 <div class="resources-container">
 
-### Generative AI and General ML
+<div class="resource-section-title">### Generative AI and General ML</div>
 
 <div class="resource-table">
 <table>
@@ -85,7 +92,7 @@ author_profile: true
 </table>
 </div>
 
-### Biological Foundation Model
+<div class="resource-section-title">### Biological Foundation Model</div>
 
 <div class="resource-table">
 <table>
@@ -104,7 +111,7 @@ author_profile: true
 </table>
 </div>
 
-### AI Drug Discovery
+<div class="resource-section-title">### AI Drug Discovery</div>
 
 <div class="resource-table">
 <table>
