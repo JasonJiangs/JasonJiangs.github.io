@@ -63,7 +63,7 @@ across these fields, you can find them in the experience panel.
 
 # 📝 Selected Publications
 
-<button id="toggleAllBtn" onclick="toggleAllPublications()" style="padding: 8px 16px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 0.9em;">Click to Close All</button>
+<button id="toggleAllBtn" onclick="toggleAllPublications()" style="background-color: transparent; border: none; cursor: pointer; font-size: 0.9em; font-weight: bold; padding: 0; color: inherit;">Click to Close All</button>
 
 <script>
 function toggleAllPublications() {
