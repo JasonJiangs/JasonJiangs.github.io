@@ -24,8 +24,8 @@ main:
   - title: "Experience"
     url: "/#-experience"
 
-  - title: "Models and Tools"
-    url: "/#-models-and-tools"
+#  - title: "Models and Tools"
+#    url: "/#-models-and-tools"
 
   - title: "Service"
     url: "/#-service"

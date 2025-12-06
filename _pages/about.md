@@ -334,6 +334,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
     </li>
 </ul>
 
+<!--
 # 🔨 Models and Tools
 
 <button id="toggleModelBtn" onclick="toggleAllModelTools()" style="background-color: transparent; border: none; cursor: pointer; font-size: 0.95em; font-weight: bold; padding: 0; color: inherit;">Click to Open All</button>
@@ -422,6 +423,7 @@ document.addEventListener('DOMContentLoaded', function() {
   btn.textContent = allOpen ? 'Click to Close All' : 'Click to Open All';
 });
 </script>
+-->
 
 # 🌎 Service
 - **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics
