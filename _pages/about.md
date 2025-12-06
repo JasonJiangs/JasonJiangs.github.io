@@ -46,6 +46,8 @@ across these fields, you can find them in the experience panel.
 <details>
 <summary><strong>Earlier News (Click to Expand)</strong></summary>
 
+<div markdown="1">
+
 - *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work from the GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
 - *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-025-02859-7)***!
 - *2025.07*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-025-02836-0)***!
@@ -54,6 +56,8 @@ across these fields, you can find them in the experience panel.
 - *2025.06*: "Predicting function of evolutionarily implausible DNA sequences" is accepted by ***[ICML 2025 Generative AI and Biology Workshop](https://icml.cc/virtual/2025/51254)***!
 - *2025.04*: I will be joining the PhD program in Computational Biology and Bioinformatics at [USC QCB](https://www.qcb-dornsife.usc.edu/), looking forward to the journey.
 - *2025.01*: "Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1), see our [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
+
+</div>
 
 </details>
 
