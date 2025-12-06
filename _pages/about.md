@@ -26,7 +26,7 @@ in synthetic biology, drug discovery, and molecular interaction. Specifically, I
 (2) Biological foundation model [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu), 
 [ProTrek](https://www.nature.com/articles/s41587-025-02836-0), [SaProtHub](https://www.nature.com/articles/s41587-025-02859-7), 
 [Nullsettes](https://arxiv.org/abs/2506.10271)];
-(3) Machine learning enabled protein evolution [[Sequence Display](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)]. I also 
+(3) Machine learning enabled protein evolution [[Sequence Display](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)]. I am also interested in bioinformatics tool and database development [[SICER 2.0](https://zanglab.github.io/SICER2/), [gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract), [HNOXPred](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)].  
 
 Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
 across these fields, you can find them in the experience panel.
