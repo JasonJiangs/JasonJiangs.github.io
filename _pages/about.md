@@ -21,10 +21,12 @@ redirect_from:
 I am a first-year PhD student in the Computational Biology and Bioinformatics (CBB) program at the University of Southern California. 
 My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
 in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on three aspects: 
-(1) Structure-based AI driven drug discovery [[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract), [Apo2Mol](https://arxiv.org/abs/2511.14559)]; 
-(2) Biological foundation model for protein and genomics [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu), [ProTrek](https://www.nature.com/articles/s41587-025-02836-0), [SaProtHub](https://www.nature.com/articles/s41587-025-02859-7), [Nullsettes](https://arxiv.org/abs/2506.10271)];
+(1) Structure-based AI driven drug discovery [[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract), 
+[Apo2Mol](https://arxiv.org/abs/2511.14559)]; 
+(2) Biological foundation model for protein and genomics [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu), 
+[ProTrek](https://www.nature.com/articles/s41587-025-02836-0), [SaProtHub](https://www.nature.com/articles/s41587-025-02859-7), 
+[Nullsettes](https://arxiv.org/abs/2506.10271)];
 (3) Machine learning enabled protein evolution [[Sequence Display](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)].
-
 
 Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
 across these fields, you can find them in the experience panel.
@@ -55,21 +57,9 @@ across these fields, you can find them in the experience panel.
 
 [Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1)
 
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under review)
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under major revision at Nature Communications)
 
 [GitHub](https://github.com/AIDD-LiLab/SMARTBind)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
-
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *arXiv*, 2025. (Under review)
-
-[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
 </div>
 </div>
 
@@ -79,7 +69,7 @@ across these fields, you can find them in the experience panel.
 
 [Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)
 
-Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (Under review)
+Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (Under major revision at Nature Biotechnology)
 
 [GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML)
 </div>
@@ -333,7 +323,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
   SMARTBind is a structure-agnostic RNA-ligand interaction prediction method, which can be used for RNA-ligand virtual screening and binding site prediction.
 
 ## Other
-- [gmx_mmpbsa_py](https://github.com/linqicheng-xiao/gmx_mmpbsa_py):
+- [gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract):
   an easy-to-use Python script that integrates GROMACS molecular dynamics trajectories with APBS to compute protein–ligand binding free energies using the MM/PBSA method.
 
 - [Koudou](https://github.com/caranha/Koudou):
