@@ -7,12 +7,20 @@ author_profile: true
 
 This is a blog test.
 
-# Resources
+<h1 class="page-title">Resources</h1>
 
 <style>
   .resources-container {
     width: 80%;
     margin: 2rem auto;
+  }
+  
+  .page-title {
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 2em;
+    font-weight: bold;
+    color: #2c3e50;
   }
   
   .resource-table {
@@ -93,7 +101,7 @@ This is a blog test.
 
 </div>
 
-# Blog
+<h1 class="page-title">Blog</h1>
 
 <style>
   .blog-posts {
