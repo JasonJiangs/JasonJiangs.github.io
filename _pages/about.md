@@ -26,7 +26,7 @@ in synthetic biology, drug discovery, and molecular interaction. Specifically, I
 (2) Biological foundation model [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu), 
 [ProTrek](https://www.nature.com/articles/s41587-025-02836-0), [SaProtHub](https://www.nature.com/articles/s41587-025-02859-7), 
 [Nullsettes](https://arxiv.org/abs/2506.10271)];
-(3) Machine learning enabled protein evolution [[Sequence Display](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)].
+(3) Machine learning enabled protein evolution [[Sequence Display](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)]. I also 
 
 Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
 across these fields, you can find them in the experience panel.
@@ -335,7 +335,13 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 </ul>
 
 # 🔨 Models and Tools
-## Genomics
+
+<button id="toggleModelBtn" onclick="toggleAllModelTools()" style="background-color: transparent; border: none; cursor: pointer; font-size: 0.95em; font-weight: bold; padding: 0; color: inherit;">Click to Open All</button>
+
+<details data-modeltools>
+<summary><span style="font-weight: bold;">Genomics</span></summary>
+<div markdown="1">
+
 - [Tabula](https://github.com/aristoteleo/tabula):
   A privacy-preserving predictive foundation model for single-cell transcriptomics, leveraging federated learning and tabular learning.
 
@@ -345,7 +351,13 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 - [SICER 2.0](https://zanglab.github.io/SICER2/) & [Clipper dev Version](https://github.com/zanglab/SICER2/tree/sicer_dev) (**S**patial-clustering **I**dentification of **C**hIP-**E**nriched **R**egions):
   a redesigned ChIP-Seq broad peak calling data analysis method.
 
-## Protein
+</div>
+</details>
+
+<details data-modeltools>
+<summary><span style="font-weight: bold;">Protein</span></summary>
+<div markdown="1">
+
 - [Sequence display](https://github.com/SophieSarceau/SequenceDisplay-ML):
   a platform that integrates large‑scale sequence–activity datasets with protein language models to map activity landscapes and identify high‑performance protein variants.
 
@@ -361,19 +373,55 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 - [HNOXPred](https://www.hnoxpred.com/) (**Pred**iction of **H**eme-**N**itric oxide/**OX**ygen domains):
   a web server to predict gas-sensing H-NOX proteins from amino acid sequences.
 
-## Drug Discovery
+</div>
+</details>
+
+<details data-modeltools>
+<summary><span style="font-weight: bold;">Drug Discovery</span></summary>
+<div markdown="1">
+
 - [Apo2Mol](https://github.com/AIDD-LiLab/Apo2Mol):
   Apo2Mol is a diffusion-based molecule generation model leveraging Apo-Holo pocket dynamics.
 
 - [SMARTBind](https://github.com/AIDD-LiLab/SMARTBind):
   SMARTBind is a structure-agnostic RNA-ligand interaction prediction method, which can be used for RNA-ligand virtual screening and binding site prediction.
 
-## Other
+</div>
+</details>
+
+<details data-modeltools>
+<summary><span style="font-weight: bold;">Other</span></summary>
+<div markdown="1">
+
 - [gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract):
   an easy-to-use Python script that integrates GROMACS molecular dynamics trajectories with APBS to compute protein–ligand binding free energies using the MM/PBSA method.
 
 - [Koudou](https://github.com/caranha/Koudou):
   an agent-based model that simulates the infectious disease spread under college town scenario.
+
+</div>
+</details>
+
+<script>
+function toggleAllModelTools() {
+  const details = document.querySelectorAll('details[data-modeltools]');
+  const btn = document.getElementById('toggleModelBtn');
+  const allOpen = Array.from(details).every(d => d.hasAttribute('open'));
+  details.forEach(d => {
+    if (allOpen) d.removeAttribute('open'); else d.setAttribute('open','');
+  });
+  btn.textContent = allOpen ? 'Click to Open All' : 'Click to Close All';
+}
+
+// initialize button label on load
+document.addEventListener('DOMContentLoaded', function() {
+  const details = document.querySelectorAll('details[data-modeltools]');
+  const btn = document.getElementById('toggleModelBtn');
+  if (!details.length) return;
+  const allOpen = Array.from(details).every(d => d.hasAttribute('open'));
+  btn.textContent = allOpen ? 'Click to Close All' : 'Click to Open All';
+});
+</script>
 
 # 🌎 Service
 - **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics
