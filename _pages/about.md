@@ -64,7 +64,7 @@ across these fields, you can find them in the experience panel.
 # 📝 Selected Publications
 
 <details>
-<summary><h3 style="display:inline; margin:0;">2026</h3></summary>
+<summary><h2 style="display:inline; margin:0; font-size: 1.8em;">2026</h2></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,7 +80,7 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 </details>
 
 <details>
-<summary><h3 style="display:inline; margin:0;">2025</h3></summary>
+<summary><h2 style="display:inline; margin:0; font-size: 1.8em;">2025</h2></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -162,7 +162,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 </details>
 
 <details>
-<summary><h3 style="display:inline; margin:0;">2024</h3></summary>
+<summary><h2 style="display:inline; margin:0; font-size: 1.8em;">2024</h2></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano</div><img src='images/acsnano.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -178,7 +178,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 </details>
 
 <details>
-<summary><h3 style="display:inline; margin:0;">2023</h3></summary>
+<summary><h2 style="display:inline; margin:0; font-size: 1.8em;">2023</h2></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -194,7 +194,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 </details>
 
 <details>
-<summary><h3 style="display:inline; margin:0;">2022</h3></summary>
+<summary><h2 style="display:inline; margin:0; font-size: 1.8em;">2022</h2></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics</div><img src='images/bioinformatics2022.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
