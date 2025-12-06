@@ -29,7 +29,7 @@ in synthetic biology, drug discovery, and molecular interaction. Specifically, I
 (3) Machine learning enabled protein evolution [[Sequence Display](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)]. I am also interested in bioinformatics tool and database development [[SICER 2.0](https://zanglab.github.io/SICER2/), [gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract), [HNOXPred](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)].  
 
 Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
-across these fields, you can find them in the experience panel.
+across these fields, you can find them in the experience panel. 
 
 # 📖 Educations
 - *2025 - current*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
