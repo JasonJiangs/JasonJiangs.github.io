@@ -425,7 +425,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 -->
 
-# 🌎 Service
+# 📝 Service
 - **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics
 - **Conference reviewer**: AAAI 2026
 
