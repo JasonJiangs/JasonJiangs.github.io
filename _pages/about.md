@@ -52,29 +52,9 @@ across these fields, you can find them in the experience panel.
 - *2025.01*: "Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1), see our [post](https://x.com/Xiaojie_Qiu/status/1876676759577661895).
 
 # 📝 Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1)
-
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under major revision)
-
-[GitHub](https://github.com/AIDD-LiLab/SMARTBind)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)
-
-Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (Under major revision)
-
-[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML)
-</div>
-</div>
-
+<details>
+<summary><strong>2026</strong></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,6 +67,32 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 </div>
 </div>
 
+</details>
+
+<details>
+<summary><strong>2025</strong></summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1)
+
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under major revision)
+
+[GitHub](https://github.com/AIDD-LiLab/SMARTBind)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)
+
+Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (Under major revision)
+
+[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/tabula_nips.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,7 +105,6 @@ Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, 
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS</div><img src='images/jacs_1.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -110,7 +115,6 @@ Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. 
 [GitHub](https://github.com/linqicheng-xiao/gmx_mmpbsa_py)
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,7 +127,6 @@ Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang**, Xibin Zhou, Xuting Zha
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -134,7 +137,6 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 [GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -147,6 +149,10 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 </div>
 </div>
 
+</details>
+
+<details>
+<summary><strong>2024</strong></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano</div><img src='images/acsnano.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -159,6 +165,10 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 </div>
 </div>
 
+</details>
+
+<details>
+<summary><strong>2023</strong></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -171,6 +181,10 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 </div>
 </div>
 
+</details>
+
+<details>
+<summary><strong>2022</strong></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics</div><img src='images/bioinformatics2022.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -182,6 +196,8 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 [Online Server](https://www.hnoxpred.com/) | [GitHub](https://github.com/JasonJiangs/HNOX_Pred)
 </div>
 </div>
+
+</details>
 
 
 [comment]: <> (# 🎖 Honors and Awards)
