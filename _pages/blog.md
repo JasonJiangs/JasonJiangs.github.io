@@ -7,7 +7,34 @@ author_profile: true
 
 This is a blog test.
 
+# Resources
+
+## Generative AI and General ML
+
+| Title | Description |
+|-------|-------------|
+|       |             |
+
+## Biological Foundation Model
+
+| Title | Description |
+|-------|-------------|
+|       |             |
+
+## AI Drug Discovery
+
+| Title | Description |
+|-------|-------------|
+|       |             |
+
+# Blog
+
 <style>
+  .blog-posts {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
   .blog-post {
     margin-bottom: 2.5rem;
     padding: 1.5rem;
