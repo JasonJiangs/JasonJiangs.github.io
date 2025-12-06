@@ -1,26 +1,17 @@
 ---
-layout: archive
+layout: single
 title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
 
-This is a test blog page.
+Welcome to my blog! Here I share thoughts on research, computational biology, AI for science, and related topics.
 
-{% include base_path %}
-{% assign posts = site.posts | where_exp: "post", "post.hidden != true" %}
+## Recent Posts
 
-{% if posts.size > 0 %}
-  <h2>Recent Posts</h2>
-  <ul>
-    {% for post in posts %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
-        {% if post.excerpt %}<p>{{ post.excerpt }}</p>{% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-{% else %}
-  <p>No posts yet. Check back soon!</p>
-{% endif %}
+{% for post in site.posts %}
+- **[{{ post.title }}]({{ post.url }})** - *{{ post.date | date: "%B %d, %Y" }}*
+  
+  {{ post.excerpt | strip_html }}
+
+{% endfor %}
