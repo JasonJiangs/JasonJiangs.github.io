@@ -9,23 +9,89 @@ This is a blog test.
 
 # Resources
 
-## Generative AI and General ML
+<style>
+  .resources-container {
+    width: 80%;
+    margin: 2rem auto;
+  }
+  
+  .resource-table {
+    margin-bottom: 2.5rem;
+    padding: 1.5rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    background-color: #fafafa;
+    transition: all 0.3s ease;
+  }
+  
+  .resource-table:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    background-color: #f5f5f5;
+  }
+  
+  .resource-table h3 {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    color: #2c3e50;
+  }
+  
+  .resource-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .resource-table th {
+    background-color: #e8f4f8;
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 2px solid #d0d0d0;
+    font-weight: 600;
+    color: #2c3e50;
+  }
+  
+  .resource-table td {
+    padding: 0.75rem;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .resource-table tr:hover {
+    background-color: #f0f8fb;
+  }
+</style>
+
+<div class="resources-container">
+
+### Generative AI and General ML
+
+<div class="resource-table">
 
 | Title | Description |
 |-------|-------------|
 |       |             |
 
-## Biological Foundation Model
+</div>
+
+### Biological Foundation Model
+
+<div class="resource-table">
 
 | Title | Description |
 |-------|-------------|
 |       |             |
 
-## AI Drug Discovery
+</div>
+
+### AI Drug Discovery
+
+<div class="resource-table">
 
 | Title | Description |
 |-------|-------------|
 |       |             |
+
+</div>
+
+</div>
 
 # Blog
 
