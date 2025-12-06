@@ -69,31 +69,58 @@ author_profile: true
 ### Generative AI and General ML
 
 <div class="resource-table">
-
-| Title | Description |
-|-------|-------------|
-|       |             |
-
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 ### Biological Foundation Model
 
 <div class="resource-table">
-
-| Title | Description |
-|-------|-------------|
-|       |             |
-
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers">awesome-foundation-model-single-cell-papers</a></td>
+<td>Collection of papers for state-of-the-art single-cell foundation model development</td>
+</tr>
+</tbody>
+</table>
 </div>
 
 ### AI Drug Discovery
 
 <div class="resource-table">
-
-| Title | Description |
-|-------|-------------|
-|       |             |
-
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 </div>
