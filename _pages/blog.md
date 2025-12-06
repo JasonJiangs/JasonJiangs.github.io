@@ -4,9 +4,6 @@ title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
-
-This is a blog test.
-
 <h1 class="page-title">Resources</h1>
 
 <style>
