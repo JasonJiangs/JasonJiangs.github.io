@@ -4,15 +4,16 @@ title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
-<h1 class="page-title" style="text-align: left;">Resources</h1>
+<h1 class="page-title">Resources</h1>
 
 <style>
   .resources-container {
-    width: 90%;
+    width: 70%;
     margin: 2rem auto;
   }
   
   .page-title {
+    text-align: center;
     margin: 2rem 0 1.5rem 0;
     font-size: 2em;
     font-weight: bold;
@@ -73,7 +74,7 @@ author_profile: true
 
 <div class="resources-container">
 
-<div class="resource-section-title">### Generative AI and General ML</div>
+<div class="resource-section-title">Generative AI and General ML</div>
 
 <div class="resource-table">
 <table>
@@ -92,7 +93,7 @@ author_profile: true
 </table>
 </div>
 
-<div class="resource-section-title">### Biological Foundation Model</div>
+<div class="resource-section-title">Biological Foundation Model</div>
 
 <div class="resource-table">
 <table>
@@ -111,7 +112,7 @@ author_profile: true
 </table>
 </div>
 
-<div class="resource-section-title">### AI Drug Discovery</div>
+<div class="resource-section-title">AI Drug Discovery</div>
 
 <div class="resource-table">
 <table>
