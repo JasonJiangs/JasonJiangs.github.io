@@ -137,7 +137,7 @@ author_profile: true
 
 <style>
   .blog-posts {
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
   }
   
