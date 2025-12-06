@@ -63,7 +63,25 @@ across these fields, you can find them in the experience panel.
 
 # 📝 Selected Publications
 
-<button onclick="document.querySelectorAll('details[data-publications]').forEach(d => d.removeAttribute('open'))" style="padding: 8px 16px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 0.9em;">Click to Close All</button>
+<button id="toggleAllBtn" onclick="toggleAllPublications()" style="padding: 8px 16px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 0.9em;">Click to Close All</button>
+
+<script>
+function toggleAllPublications() {
+  const details = document.querySelectorAll('details[data-publications]');
+  const btn = document.getElementById('toggleAllBtn');
+  const allOpen = Array.from(details).every(d => d.hasAttribute('open'));
+  
+  details.forEach(d => {
+    if (allOpen) {
+      d.removeAttribute('open');
+    } else {
+      d.setAttribute('open', '');
+    }
+  });
+  
+  btn.textContent = allOpen ? 'Click to Open All' : 'Click to Close All';
+}
+</script>
 
 <details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
