@@ -63,7 +63,9 @@ across these fields, you can find them in the experience panel.
 
 # 📝 Selected Publications
 
-<details open>
+<button onclick="document.querySelectorAll('details[data-publications]').forEach(d => d.removeAttribute('open'))" style="padding: 8px 16px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 0.9em;">Click to Close All</button>
+
+<details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
@@ -79,7 +81,7 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 
 </details>
 
-<details open>
+<details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2025</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
@@ -161,7 +163,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 
 </details>
 
-<details open>
+<details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2024</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano</div><img src='images/acsnano.png' alt="sym" width="75%"></div></div>
@@ -177,7 +179,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 </details>
 
-<details open>
+<details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2023</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALIFE 2023</div><img src='images/covid_sim.png' alt="sym" width="75%"></div></div>
@@ -193,7 +195,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 </details>
 
-<details open>
+<details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2022</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics</div><img src='images/bioinformatics2022.png' alt="sym" width="75%"></div></div>
