@@ -10,7 +10,7 @@ main:
     url: "/files/CV Shiyu Jiang online.pdf"
 
 #  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    # url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
