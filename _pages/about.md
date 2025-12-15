@@ -93,7 +93,7 @@ function toggleAllPublications() {
 
 Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (poster)*, 2026.
 
-[GitHub]()
+[GitHub](https://github.com/AIDD-LiLab/Apo2Mol)
 </div>
 </div>
 
@@ -123,6 +123,19 @@ Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui
 [GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML)
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
+
+**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *arXiv*, 2025. (Under major revision in Research Journal)
+
+[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/tabula_nips.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
