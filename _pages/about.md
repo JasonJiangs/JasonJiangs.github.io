@@ -37,17 +37,18 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
+- *2026.02*: "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted by Nature Biotechnology!
 - *2026.01*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is presented at ***[UF Health Cancer Institute Annual Research Showcase 2026](https://cancer.ufl.edu/education/research-showcase/)***, see our [poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png).
-- *2025.11*: "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026](https://arxiv.org/abs/2511.14559)***!
+- *2025.11*: "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026](https://arxiv.org/abs/2511.14559)***, see our ***[poster]()***.
 - *2025.10*: "Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor" is on ***[Nature Communications](https://www.nature.com/articles/s41467-025-64448-1)***!
 - *2025.09*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
-- *2025.09*: "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by ***[NeurIPS 2025](https://openreview.net/forum?id=Vk2sfKAdeu)***!
 
 <details>
 <summary><strong>Earlier News (Click to Expand)</strong></summary>
 
 <div markdown="1">
 
+- *2025.09*: "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by ***[NeurIPS 2025](https://openreview.net/forum?id=Vk2sfKAdeu)***!
 - *2025.09*: "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution" is on ***[Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c08627)***!
 - *2025.08*: "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work from the GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
 - *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-025-02859-7)***!
@@ -87,6 +88,18 @@ function toggleAllPublications() {
 <details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)
+
+Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *Nature Biotechnology*, 2026. (Accepted in principle)
+
+[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML) | [Poster](https://jasonjiangs.github.io/images/seq_display_poster.png)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -111,17 +124,6 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 **Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under major revision in Nature Research Journal)
 
 [GitHub](https://github.com/AIDD-LiLab/SMARTBind) | [Poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)
-
-Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *bioRxiv*, 2025. (Under major revision in Nature Research Journal)
-
-[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML) | [Poster](https://jasonjiangs.github.io/images/seq_display_poster.png)
 </div>
 </div>
 
