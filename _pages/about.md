@@ -88,7 +88,7 @@ function toggleAllPublications() {
 <details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/evolla.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/evolla.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Decoding the Molecular Language of Proteins with Evolla](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf)
