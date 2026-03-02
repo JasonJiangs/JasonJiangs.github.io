@@ -37,7 +37,7 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2026.02*: "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted by Nature Biotechnology!
+- *2026.02*: "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted in principle by ***Nature Biotechnology***!
 - *2026.01*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is presented at ***[UF Health Cancer Institute Annual Research Showcase 2026](https://cancer.ufl.edu/education/research-showcase/)***, see our [poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png).
 - *2025.11*: "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026](https://arxiv.org/abs/2511.14559)***, see our ***[poster]()***.
 - *2025.10*: "Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor" is on ***[Nature Communications](https://www.nature.com/articles/s41467-025-64448-1)***!
@@ -87,6 +87,18 @@ function toggleAllPublications() {
 
 <details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/evolla.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Decoding the Molecular Language of Proteins with Evolla](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf)
+
+Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu, Hongyuan Lu, Fajie Yuan. *bioRxiv*, 2026. (Under review in Nature Research Journal)
+
+[GitHub](https://github.com/westlake-repl/Evolla)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
