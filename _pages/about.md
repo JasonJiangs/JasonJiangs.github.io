@@ -454,8 +454,8 @@ document.addEventListener('DOMContentLoaded', function() {
 -->
 
 # 📝 Service
-- **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics
-- **Conference reviewer**: AAAI 2026
+- **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics, Plos Computational Biology;
+- **Conference reviewer**: AAAI 2026;
 
 
 # 🌎 Miscellaneous
