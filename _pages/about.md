@@ -93,7 +93,7 @@ function toggleAllPublications() {
 
 [Decoding the Molecular Language of Proteins with Evolla](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf)
 
-Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu, Hongyuan Lu, Fajie Yuan. *bioRxiv*, 2026. (Under review in Nature Research Journal)
+Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu, Hongyuan Lu, Fajie Yuan. *bioRxiv*, 2026. (Under review in Nature Press Research Journal)
 
 [GitHub](https://github.com/westlake-repl/Evolla)
 </div>
@@ -133,7 +133,7 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 
 [Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1)
 
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under major revision in Nature Research Journal)
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under major revision in Nature Press Research Journal)
 
 [GitHub](https://github.com/AIDD-LiLab/SMARTBind) | [Poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png)
 </div>
