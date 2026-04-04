@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-I am a first-year PhD student in the Computational Biology and Bioinformatics (CBB) program at the University of Southern California. 
+Hello! Welcome to my website, my name is Shiyu.
 My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
 in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on those areas: 
 (1) AI driven drug discovery [[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract), 
@@ -32,7 +32,7 @@ Before starting my PhD, I was very fortunate to work with and learn from inspiri
 across these fields, you can find them in the experience panel. 
 
 # 📖 Educations
-- *2025 - current*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
+- *2025 - 2026*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
 - *2022 - 2024*, Master of Science in Engineering, Computer Science. Johns Hopkins University. *Baltimore, MD* 
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
@@ -269,17 +269,6 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
     <li class="timeline-item-edu">
         <div class="timeline-icon">
-            <img src="images/USC_logo.png" alt="USC Logo">
-        </div>
-        <div class="timeline-content-edu">
-            <p class="date">2025.09 - Present</p>
-            <h4 class="title">Graduate Research Assistant</h4>
-            <p class="school"><a href="https://www.qcb-dornsife.usc.edu/" target="_blank">University of Southern California</a>, Department of Quantitative and Computational Biology</p>
-        </div>
-    </li>
-
-    <li class="timeline-item-edu">
-        <div class="timeline-icon">
             <img src="images/WLU_logo.png" alt="WLU Logo">
         </div>
         <div class="timeline-content-edu">
@@ -454,7 +443,7 @@ document.addEventListener('DOMContentLoaded', function() {
 -->
 
 # 📝 Service
-- **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics, PLOS Computational Biology;
+- **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics, PLoS Computational Biology;
 - **Conference reviewer**: AAAI 2026;
 
 
