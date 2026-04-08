@@ -22,11 +22,11 @@ Hello! Welcome to my website, my name is Shiyu.
 My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
 in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on those areas: 
 (1) AI driven drug discovery [[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract), 
-[Apo2Mol](https://arxiv.org/abs/2511.14559)]; 
+[Apo2Mol](https://ojs.aaai.org/index.php/AAAI/article/view/37138)]; 
 (2) Biological foundation model [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu), 
 [ProTrek](https://www.nature.com/articles/s41587-025-02836-0), [SaProtHub](https://www.nature.com/articles/s41587-025-02859-7), 
 [Nullsettes](https://arxiv.org/abs/2506.10271)];
-(3) Machine learning enabled protein evolution [[Sequence Display](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)]. I am also interested in bioinformatics tool and database development [[SICER 2.0](https://zanglab.github.io/SICER2/), [gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract), [HNOXPred](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)].  
+(3) Machine learning enabled protein evolution [[Sequence Display](https://www.nature.com/articles/s41587-026-03087-3)]. I am also interested in bioinformatics tool and database development [[SICER 2.0](https://zanglab.github.io/SICER2/), [gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract), [HNOXPred](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)].  
 
 Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
 across these fields, you can find them in the experience panel. 
@@ -37,7 +37,7 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2026.02*: "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted in principle by ***Nature Biotechnology***!
+- *2026.02*: "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted in principle by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-026-03087-3)***!
 - *2026.01*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is presented at ***[UF Health Cancer Institute Annual Research Showcase 2026](https://cancer.ufl.edu/education/research-showcase/)***, see our [poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png).
 - *2025.11*: "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026](https://arxiv.org/abs/2511.14559)***, see our ***[poster]()***.
 - *2025.10*: "Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor" is on ***[Nature Communications](https://www.nature.com/articles/s41467-025-64448-1)***!
@@ -103,7 +103,7 @@ Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/sequence display.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://aiche.confex.com/aiche/seed2025/meetingapp.cgi/Paper/708439)
+[Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://www.nature.com/articles/s41587-026-03087-3)
 
 Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *Nature Biotechnology*, 2026. (Accepted in principle)
 
@@ -115,7 +115,7 @@ Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/apo2mol.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models](https://arxiv.org/abs/2511.14559)
+[Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/37138)
 
 Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (poster)*, 2026.
 
