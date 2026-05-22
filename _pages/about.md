@@ -24,7 +24,7 @@ My research lies at the intersection of AI and biology, where I design computati
 in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on those areas: <br>
 
 (1) AI-driven small molecule design and discovery targeting RNA and protein
-[[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract),
+[[SMARTBind](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/),
 [Apo2Mol](https://ojs.aaai.org/index.php/AAAI/article/view/37138)];<br>
 (2) Foundation models for life science to decode the language of single-cell multi-omics, protein, and genomic sequence
 [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu),
@@ -34,7 +34,7 @@ in synthetic biology, drug discovery, and molecular interaction. Specifically, I
 (3) Efficient protein evolution with protein language models
 [[Sequence Display](https://www.nature.com/articles/s41587-026-03087-3)].  <br>
 
-I am also interested in bioinformatics tool and database development 
+I also have several experiences in bioinformatics tool and database development 
 [[SICER 2.0](https://zanglab.github.io/SICER2/), 
 [gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract), 
 [HNOXPred](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)]. 
@@ -144,7 +144,7 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1)
+[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/)
 
 **Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under major revision in Nature Press Research Journal)
 
