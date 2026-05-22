@@ -18,20 +18,32 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-Hello! Welcome to my website, my name is Shiyu.
+Hi! my name is Shiyu Jiang. I am currently a CS PhD student at University of Florida working 
+with [Prof. Yanjun Li](https://pharmacy.ufl.edu/profile/li-yanjun/) and [Prof. Matthew Disney](https://wertheim.scripps.ufl.edu/profile/disney-matthew/#page).
 My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
-in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on those areas: 
-(1) AI driven drug discovery [[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract), 
-[Apo2Mol](https://ojs.aaai.org/index.php/AAAI/article/view/37138)]; 
-(2) Biological foundation model [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu), 
-[ProTrek](https://www.nature.com/articles/s41587-025-02836-0), [SaProtHub](https://www.nature.com/articles/s41587-025-02859-7), 
-[Nullsettes](https://arxiv.org/abs/2506.10271)];
-(3) Machine learning enabled protein evolution [[Sequence Display](https://www.nature.com/articles/s41587-026-03087-3)]. I am also interested in bioinformatics tool and database development [[SICER 2.0](https://zanglab.github.io/SICER2/), [gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract), [HNOXPred](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)].  
+in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on those areas: <br>
+
+(1) AI-driven small molecule design and discovery targeting RNA and protein
+[[SMARTBind](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1.abstract),
+[Apo2Mol](https://ojs.aaai.org/index.php/AAAI/article/view/37138)];<br>
+(2) Foundation models for life science to decode the language of single-cell multi-omics, protein, and genomic sequence
+[[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu),
+[ProTrek](https://www.nature.com/articles/s41587-025-02836-0),
+[SaProtHub](https://www.nature.com/articles/s41587-025-02859-7),
+[Nullsettes](https://arxiv.org/abs/2506.10271)];<br>
+(3) Efficient protein evolution with protein language models
+[[Sequence Display](https://www.nature.com/articles/s41587-026-03087-3)].  <br>
+
+I am also interested in bioinformatics tool and database development 
+[[SICER 2.0](https://zanglab.github.io/SICER2/), 
+[gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract), 
+[HNOXPred](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)]. 
 
 Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
 across these fields, you can find them in the experience panel. 
 
 # 📖 Educations
+- *2026 - Present*, PhD student, Computer Science. University of Florida. *Gainesville, FL*
 - *2025 - 2026*, PhD student, Computational Biology and Bioinformatics. University of Southern California. *Los Angeles, CA*
 - *2022 - 2024*, Master of Science in Engineering, Computer Science. Johns Hopkins University. *Baltimore, MD* 
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
@@ -106,9 +118,9 @@ Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †
 
 [Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://www.nature.com/articles/s41587-026-03087-3)
 
-Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *Nature Biotechnology*, 2026. (Accepted in principle)
+Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *Nature Biotechnology*, 2026.
 
-[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML) | [Poster](https://jasonjiangs.github.io/images/seq_display_poster.png)
+[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML) | [Poster](https://jasonjiangs.github.io/images/seq_display_poster.png) | [Nature Methods Research Highlights](https://www.nature.com/articles/s41592-026-03106-w)
 </div>
 </div>
 
