@@ -49,7 +49,7 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2026.05*: Our sequence display paper is featured as a research highlight in [Nature Methods](https://www.nature.com/articles/s41592-026-03106-w) and [Rice News](https://news.rice.edu/news/2026/scientists-uncover-new-method-generate-protein-datasets-training-ai)!
+- *2026.05*: Our sequence display paper is featured as a research highlight in ***[Nature Methods](https://www.nature.com/articles/s41592-026-03106-w)*** and [Rice News](https://news.rice.edu/news/2026/scientists-uncover-new-method-generate-protein-datasets-training-ai)!
 - *2026.02*: One co-first authored paper "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-026-03087-3)***!
 - *2026.01*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is presented at ***[UF Health Cancer Institute Annual Research Showcase 2026](https://cancer.ufl.edu/education/research-showcase/)***, see our [poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png).
 - *2025.11*: One co-authored paper "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026](https://arxiv.org/abs/2511.14559)***, see our ***[poster]()***.
