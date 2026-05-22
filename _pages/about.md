@@ -39,7 +39,7 @@ I also have several experiences in bioinformatics tool and database development
 [gmx_mmpbsa_py](https://ui.adsabs.harvard.edu/abs/2025zndo..17050354C/abstract), 
 [HNOXPred](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)]. 
 
-Before starting my PhD, I was very fortunate to work with and learn from inspiring mentors and collaborators 
+Before starting my PhD, I was very fortunate to work with and learn from really brilliant, inspiring mentors and collaborators 
 across these fields, you can find them in the experience panel. 
 
 # 📖 Educations
@@ -461,7 +461,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 # 🌎 Miscellaneous
-Outside of work, you’ll often find me at the gym, playing soccer, road cycling, or go hiking. 
+Outside of work, you’ll often find me at gym, playing soccer, road cycling, or go hiking. 
 I also enjoy playing table tennis and the piano occasionally.
 
 
