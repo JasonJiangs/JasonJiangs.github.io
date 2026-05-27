@@ -49,18 +49,19 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
+- *2026.05*: One first authored paper "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" is accepted by ***[ACS Synthetic Biology]()***!
 - *2026.05*: Our sequence display paper is featured as a research highlight in ***[Nature Methods](https://www.nature.com/articles/s41592-026-03106-w)*** and [Rice News](https://news.rice.edu/news/2026/scientists-uncover-new-method-generate-protein-datasets-training-ai)!
 - *2026.02*: One co-first authored paper "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-026-03087-3)***!
 - *2026.01*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is presented at ***[UF Health Cancer Institute Annual Research Showcase 2026](https://cancer.ufl.edu/education/research-showcase/)***, see our [poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png).
 - *2025.11*: One co-authored paper "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026](https://arxiv.org/abs/2511.14559)***, see our ***[poster]()***.
-- *2025.10*: One co-authored paper "Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor" is on ***[Nature Communications](https://www.nature.com/articles/s41467-025-64448-1)***!
 
 <details>
 <summary><strong>Earlier News (Click to Expand)</strong></summary>
 
 <div markdown="1">
 
-- *2025.09*: First-authored paper "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
+- *2025.10*: One co-authored paper "Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor" is on ***[Nature Communications](https://www.nature.com/articles/s41467-025-64448-1)***!
+- *2025.09*: One first-authored paper "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
 - *2025.09*: One co-first authored paper "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by ***[NeurIPS 2025](https://openreview.net/forum?id=Vk2sfKAdeu)***!
 - *2025.09*: One co-authored paper "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution" is on ***[Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c08627)***!
 - *2025.08*: First-authored paper "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work from the GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
@@ -101,6 +102,19 @@ function toggleAllPublications() {
 <details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Synthetic Biology</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences]()
+
+**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ACS Synthetic Biology*, 2026. (Accepted in principle)
+
+[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)| [Poster](https://jasonjiangs.github.io/images/nullsettes_poster.png)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/evolla.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,7 +134,7 @@ Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †
 
 Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *Nature Biotechnology*, 2026.
 
-[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML) | [Poster](https://jasonjiangs.github.io/images/seq_display_poster.png) | [Nature Methods Research Highlights](https://www.nature.com/articles/s41592-026-03106-w)
+[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML) | [Poster](https://jasonjiangs.github.io/images/seq_display_poster.png) | [Nature Methods Research Highlights](https://www.nature.com/articles/s41592-026-03106-w) | [EurekAlert!](https://www.eurekalert.org/news-releases/1123906) | [Phys.org](https://phys.org/news/2026-04-protein-breakthrough-generates-10m-turbocharges.html) | [The Medical New](https://www.news-medical.net/news/20260413/New-method-boosts-AI-driven-protein-engineering-with-massive-data.aspx) | [Mirage News](https://www.miragenews.com/scientists-discover-new-ai-protein-dataset-1654452/)
 </div>
 </div>
 
@@ -140,29 +154,6 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 
 <details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2025</span></summary>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/)
-
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025. (Under major revision in Nature Press Research Journal)
-
-[GitHub](https://github.com/AIDD-LiLab/SMARTBind) | [Poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://arxiv.org/abs/2506.10271v3)
-
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *arXiv*, 2025. (Under review in Research Journal)
-
-[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)| [Poster](https://jasonjiangs.github.io/images/nullsettes_poster.png)
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/tabula_nips.png' alt="sym" width="75%"></div></div>
@@ -208,6 +199,18 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 [GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/)
+
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025.
+
+[GitHub](https://github.com/AIDD-LiLab/SMARTBind) | [Poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 GenBio Workshop</div><img src='images/nullsettes.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
