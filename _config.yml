@@ -27,7 +27,7 @@ author:
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=DBJYZiYAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=TchSd_cAAAAJ&hl=en"
   email            : "shiyujia@usc.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -67,10 +67,12 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - _pages/about__.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .gems
   - .jekyll-assets-cache
   - .sass-cache
   - .github
