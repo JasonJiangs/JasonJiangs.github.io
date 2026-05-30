@@ -113,6 +113,7 @@ function toggleAllPublications() {
 <div class="paper-link-buttons">
   <a href="https://github.com/cellethology/GLM-Nullsette-Benchmark">GitHub</a>
   <a href="https://jasonjiangs.github.io/images/nullsettes_poster.png">Poster</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:hC7cP41nSMkC">Citations</span>
 </div>
 </div>
 </div>
@@ -127,6 +128,7 @@ Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †
 
 <div class="paper-link-buttons">
   <a href="https://github.com/westlake-repl/Evolla">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:kNdYIx-mwKoC">Citations</span>
 </div>
 </div>
 </div>
@@ -147,6 +149,7 @@ Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui
   <a href="https://phys.org/news/2026-04-protein-breakthrough-generates-10m-turbocharges.html">Phys.org</a>
   <a href="https://www.news-medical.net/news/20260413/New-method-boosts-AI-driven-protein-engineering-with-massive-data.aspx">The Medical New</a>
   <a href="https://www.miragenews.com/scientists-discover-new-ai-protein-dataset-1654452/">Mirage News</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:mB3voiENLucC">Citations</span>
 </div>
 </div>
 </div>
@@ -161,6 +164,7 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 
 <div class="paper-link-buttons">
   <a href="https://github.com/AIDD-LiLab/Apo2Mol">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:IWHjjKOFINEC">Citations</span>
 </div>
 </div>
 </div>
@@ -180,6 +184,7 @@ Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, 
 
 <div class="paper-link-buttons">
   <a href="https://github.com/aristoteleo/tabula">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:hFOr9nPyWt4C">Citations</span>
 </div>
 </div>
 </div>
@@ -193,6 +198,7 @@ Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. 
 
 <div class="paper-link-buttons">
   <a href="https://github.com/linqicheng-xiao/gmx_mmpbsa_py">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:M3ejUd6NZC8C">Citations</span>
 </div>
 </div>
 </div>
@@ -206,6 +212,7 @@ Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang**, Xibin Zhou, Xuting Zha
 
 <div class="paper-link-buttons">
   <a href="http://search-protrek.com/">Online Server</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:4DMP91E08xMC">Citations</span>
 </div>
 </div>
 </div>
@@ -220,6 +227,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 <div class="paper-link-buttons">
   <a href="https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file">GitHub</a>
   <a href="https://theopmc.github.io/">OPMC</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:9ZlFYXVOiuMC">Citations</span>
 </div>
 </div>
 </div>
@@ -234,6 +242,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 <div class="paper-link-buttons">
   <a href="https://github.com/AIDD-LiLab/SMARTBind">GitHub</a>
   <a href="https://jasonjiangs.github.io/images/UFHCI-Poster.png">Poster</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qxL8FJ1GzNcC">Citations</span>
 </div>
 </div>
 </div>
@@ -248,6 +257,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 
 <div class="paper-link-buttons">
   <a href="https://github.com/cellethology/GLM-Nullsette-Benchmark">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:ULOm3_A8WrAC">Citations</span>
 </div>
 </div>
 </div>
@@ -266,6 +276,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 <div class="paper-link-buttons">
   <a href="https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg">Featured on Cover</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:_FxGoFyzp5QC">Citations</span>
 </div>
 </div>
 </div>
@@ -284,6 +295,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 <div class="paper-link-buttons">
   <a href="https://github.com/caranha/Koudou/tree/ALIFE_2023">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qjMakFHDy7sC">Citations</span>
 </div>
 </div>
 </div>
@@ -303,6 +315,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 <div class="paper-link-buttons">
   <a href="https://www.hnoxpred.com/">Online Server</a>
   <a href="https://github.com/JasonJiangs/HNOX_Pred">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:u5HHmVD_uO8C">Citations</span>
 </div>
 </div>
 </div>

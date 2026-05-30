@@ -114,7 +114,8 @@ h1:before, .anchor:before {
     gap: .45rem;
     margin-top: .85rem;
 
-    a {
+    a,
+    .citation-button {
         display: inline-flex;
         align-items: center;
         justify-content: center;
@@ -129,6 +130,12 @@ h1:before, .anchor:before {
         line-height: 1.2;
         text-decoration: none;
         box-shadow: 0 1px 2px rgba(0, 0, 0, .04);
+    }
+
+    .citation-button {
+        background: #f8fafc;
+        color: #555;
+        cursor: default;
     }
 
     a:hover {
