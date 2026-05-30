@@ -110,7 +110,10 @@ function toggleAllPublications() {
 
 **Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ACS Synthetic Biology*, 2026. (Accepted in principle)
 
-[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)| [Poster](https://jasonjiangs.github.io/images/nullsettes_poster.png)
+<div class="paper-link-buttons">
+  <a href="https://github.com/cellethology/GLM-Nullsette-Benchmark">GitHub</a>
+  <a href="https://jasonjiangs.github.io/images/nullsettes_poster.png">Poster</a>
+</div>
 </div>
 </div>
 
@@ -122,7 +125,9 @@ function toggleAllPublications() {
 
 Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu, Hongyuan Lu, Fajie Yuan. *bioRxiv*, 2026. (Under review in Nature Press Research Journal)
 
-[GitHub](https://github.com/westlake-repl/Evolla)
+<div class="paper-link-buttons">
+  <a href="https://github.com/westlake-repl/Evolla">GitHub</a>
+</div>
 </div>
 </div>
 
@@ -134,7 +139,15 @@ Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †
 
 Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *Nature Biotechnology*, 2026.
 
-[GitHub](https://github.com/SophieSarceau/SequenceDisplay-ML) | [Poster](https://jasonjiangs.github.io/images/seq_display_poster.png) | [Nature Methods Research Highlights](https://www.nature.com/articles/s41592-026-03106-w) | [EurekAlert!](https://www.eurekalert.org/news-releases/1123906) | [Phys.org](https://phys.org/news/2026-04-protein-breakthrough-generates-10m-turbocharges.html) | [The Medical New](https://www.news-medical.net/news/20260413/New-method-boosts-AI-driven-protein-engineering-with-massive-data.aspx) | [Mirage News](https://www.miragenews.com/scientists-discover-new-ai-protein-dataset-1654452/)
+<div class="paper-link-buttons">
+  <a href="https://github.com/SophieSarceau/SequenceDisplay-ML">GitHub</a>
+  <a href="https://jasonjiangs.github.io/images/seq_display_poster.png">Poster</a>
+  <a href="https://www.nature.com/articles/s41592-026-03106-w">Nature Methods Research Highlights</a>
+  <a href="https://www.eurekalert.org/news-releases/1123906">EurekAlert!</a>
+  <a href="https://phys.org/news/2026-04-protein-breakthrough-generates-10m-turbocharges.html">Phys.org</a>
+  <a href="https://www.news-medical.net/news/20260413/New-method-boosts-AI-driven-protein-engineering-with-massive-data.aspx">The Medical New</a>
+  <a href="https://www.miragenews.com/scientists-discover-new-ai-protein-dataset-1654452/">Mirage News</a>
+</div>
 </div>
 </div>
 
@@ -146,7 +159,9 @@ Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui
 
 Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (poster)*, 2026.
 
-[GitHub](https://github.com/AIDD-LiLab/Apo2Mol)
+<div class="paper-link-buttons">
+  <a href="https://github.com/AIDD-LiLab/Apo2Mol">GitHub</a>
+</div>
 </div>
 </div>
 
@@ -163,7 +178,9 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 
 Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *NeurIPS* (poster), 2025.
 
-[GitHub](https://github.com/aristoteleo/tabula)
+<div class="paper-link-buttons">
+  <a href="https://github.com/aristoteleo/tabula">GitHub</a>
+</div>
 </div>
 </div>
 
@@ -174,7 +191,9 @@ Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, 
 
 Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. *Journal of the American Chemical Society*, 2025.
 
-[GitHub](https://github.com/linqicheng-xiao/gmx_mmpbsa_py)
+<div class="paper-link-buttons">
+  <a href="https://github.com/linqicheng-xiao/gmx_mmpbsa_py">GitHub</a>
+</div>
 </div>
 </div>
 
@@ -185,7 +204,9 @@ Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. 
 
 Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang**, Xibin Zhou, Xuting Zhang, Yuxuan Wang, Xining Su, Igor Tolstoy, Xing Chang, Hongyuan Lu, Fajie Yuan. *Nature Biotechnology*, 2025.
 
-[Online Server](http://search-protrek.com/)
+<div class="paper-link-buttons">
+  <a href="http://search-protrek.com/">Online Server</a>
+</div>
 </div>
 </div>
 
@@ -196,7 +217,10 @@ Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang**, Xibin Zhou, Xuting Zha
 
 Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan, Yuan Gao, Tong Si, Xuting Zhang, Yuyang Zhou, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025.
 
-[GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
+<div class="paper-link-buttons">
+  <a href="https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file">GitHub</a>
+  <a href="https://theopmc.github.io/">OPMC</a>
+</div>
 </div>
 </div>
 
@@ -207,7 +231,10 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 
 **Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025.
 
-[GitHub](https://github.com/AIDD-LiLab/SMARTBind) | [Poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png)
+<div class="paper-link-buttons">
+  <a href="https://github.com/AIDD-LiLab/SMARTBind">GitHub</a>
+  <a href="https://jasonjiangs.github.io/images/UFHCI-Poster.png">Poster</a>
+</div>
 </div>
 </div>
 
@@ -219,7 +246,9 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 
 **Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
 
-[GitHub](https://github.com/cellethology/GLM-Nullsette-Benchmark)
+<div class="paper-link-buttons">
+  <a href="https://github.com/cellethology/GLM-Nullsette-Benchmark">GitHub</a>
+</div>
 </div>
 </div>
 
@@ -235,7 +264,9 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 
 Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Rickey Y Yada, Anubhav Pratap-Singh, Alberto Baldelli, Tianxi Yang. *ACS Nano*, 2024.
 
-[Featured on Cover](https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg)
+<div class="paper-link-buttons">
+  <a href="https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-38/asset/ancac3.2024.18.issue-38.xlargecover-4.jpg">Featured on Cover</a>
+</div>
 </div>
 </div>
 
@@ -251,7 +282,9 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 **Shiyu Jiang**, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
 
-[GitHub](https://github.com/caranha/Koudou/tree/ALIFE_2023)
+<div class="paper-link-buttons">
+  <a href="https://github.com/caranha/Koudou/tree/ALIFE_2023">GitHub</a>
+</div>
 </div>
 </div>
 
@@ -267,7 +300,10 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 **Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong. *Bioinformatics*, 2022.
 
-[Online Server](https://www.hnoxpred.com/) | [GitHub](https://github.com/JasonJiangs/HNOX_Pred)
+<div class="paper-link-buttons">
+  <a href="https://www.hnoxpred.com/">Online Server</a>
+  <a href="https://github.com/JasonJiangs/HNOX_Pred">GitHub</a>
+</div>
 </div>
 </div>
 
