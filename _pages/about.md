@@ -468,8 +468,8 @@ Outside of work, you’ll often find me at gym, playing soccer, road cycling, or
 I also enjoy playing table tennis and the piano occasionally.
 
 
-<body>
-  <a href="https://clustrmaps.com/site/1bt6x"  title="Visit tracker" >
-    <img src="//www.clustrmaps.com/map_v2.png?d=aGpjzbKbHZT-5oLEhHvcK0igPnT7IvQmYxySQX6oPb4&cl=ffffff" />
+<div class="visitor-map" style="margin-top: 1.5rem;">
+  <a href="https://mapmyvisitors.com/web/1c4vz" title="Visit tracker">
+    <img src="https://mapmyvisitors.com/map.png?d=RsEssrhn6RTtLIEv9r7b9b94ORMYmSriT8ibiuTu5VQ&amp;cl=ffffff" alt="Visit tracker map" />
   </a>
-</body>
+</div>
