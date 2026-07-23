@@ -133,12 +133,12 @@ function toggleAllPublications() {
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula_v2.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/tabula_v2.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning](https://arxiv.org/abs/2607.19400)
 
-Jiayuan Ding †, Jianhui Lin †, Ziyang Miao †, Nils Mechtel †, **Shiyu Jiang**, Yixin Wang, Zhaoyu Fang, Jorge D. Martin-Rufino, Chen Weng, Reuben Saunders, Weize Xu, Jonathan S. Weissman, Wei Ouyang, Min Li, Jiliang Tang, Yuancheng Ryan Lu, Xiaojie Qiu. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
+Jiayuan Ding †, Jianhui Lin †, Ziyang Miao †, Nils Mechtel †, **Shiyu Jiang**, Yixin Wang, Zhaoyu Fang, Jorge D. Martin-Rufino, Chen Weng, Reuben Saunders, Weize Xu, Jonathan S. Weissman, Wei Ouyang, Min Li, Jiliang Tang, Yuancheng Ryan Lu, Xiaojie Qiu. *arXiv*, 2026. (Under Review at ***Nature Portfolio***)
 
 <div class="paper-link-buttons">
   <a href="https://github.com/aristoteleo/tabula">GitHub</a>
