@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-Hi! my name is Shiyu Jiang. I am currently a CS PhD student at University of Florida working 
+Hi! my name is Shiyu Jiang. I am currently a PhD student in computer science at the University of Florida working 
 with [Prof. Yanjun Li](https://pharmacy.ufl.edu/profile/li-yanjun/) and [Prof. Matthew Disney](https://wertheim.scripps.ufl.edu/profile/disney-matthew/#page).
 My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
 in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on those areas: <br>
