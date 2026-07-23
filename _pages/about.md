@@ -30,7 +30,7 @@ in synthetic biology, drug discovery, and molecular interaction. Specifically, I
 [[Tabula](https://openreview.net/forum?id=Vk2sfKAdeu),
 [ProTrek](https://www.nature.com/articles/s41587-025-02836-0),
 [SaProtHub](https://www.nature.com/articles/s41587-025-02859-7),
-[Nullsettes](https://arxiv.org/abs/2506.10271)];<br>
+[Nullsettes](https://pubs.acs.org/doi/10.1021/acssynbio.6c00024)];<br>
 (3) Efficient protein evolution with protein language models
 [[Sequence Display](https://www.nature.com/articles/s41587-026-03087-3)].  <br>
 
@@ -49,22 +49,22 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2026.05*: One first authored paper "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" is accepted by ***[ACS Synthetic Biology]()***!
+- *2026.07*: One co-authored paper "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning" is released on [arXiv](https://arxiv.org/abs/2607.19400). Check out our [post](https://x.com/Xiaojie_Qiu/status/2077456094696456192).
+- *2026.05*: One first authored paper "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" is accepted by ***[ACS Synthetic Biology](https://pubs.acs.org/doi/10.1021/acssynbio.6c00024)***!
 - *2026.05*: Our sequence display paper is featured as a research highlight in ***[Nature Methods](https://www.nature.com/articles/s41592-026-03106-w)*** and [Rice News](https://news.rice.edu/news/2026/scientists-uncover-new-method-generate-protein-datasets-training-ai)!
 - *2026.02*: One co-first authored paper "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-026-03087-3)***!
-- *2026.01*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is presented at ***[UF Health Cancer Institute Annual Research Showcase 2026](https://cancer.ufl.edu/education/research-showcase/)***, see our [poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png).
-- *2025.11*: One co-authored paper "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026](https://arxiv.org/abs/2511.14559)***, see our ***[poster]()***.
 
 <details>
 <summary><strong>Earlier News (Click to Expand)</strong></summary>
 
 <div markdown="1">
 
+- *2026.01*: "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is presented at ***[UF Health Cancer Institute Annual Research Showcase 2026](https://cancer.ufl.edu/education/research-showcase/)***, see our [poster](https://jasonjiangs.github.io/images/UFHCI-Poster.png).
+- *2025.11*: One co-authored paper "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models" is accepted by ***[AAAI 2026](https://arxiv.org/abs/2511.14559)***!
 - *2025.10*: One co-authored paper "Engineering Unnatural Cells with a 21st Amino Acid as a Living Epigenetic Sensor" is on ***[Nature Communications](https://www.nature.com/articles/s41467-025-64448-1)***!
 - *2025.09*: One first-authored paper "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is released on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678312v1).
 - *2025.09*: One co-first authored paper "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics" is accepted by ***[NeurIPS 2025](https://openreview.net/forum?id=Vk2sfKAdeu)***!
 - *2025.09*: One co-authored paper "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution" is on ***[Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c08627)***!
-- *2025.08*: First-authored paper "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" (follow-up work from the GenBio workshop) is released on [arXiv](https://arxiv.org/abs/2506.10271v3).
 - *2025.08*: One co-authored paper "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-025-02859-7)***!
 - *2025.07*: One co-authored paper "A tri-modal protein language model enables advanced protein searches" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-025-02836-0)***!
 - *2025.07*: "Predicting function of evolutionarily implausible DNA sequences" is presented at [Q-BIO 2025 Conference: Emergent Orders in Living Systems Across Scales](https://cqb.pku.edu.cn/info/1064/3011.htm), see our [poster](https://jasonjiangs.github.io/images/nullsettes_poster.png).
@@ -103,12 +103,58 @@ function toggleAllPublications() {
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/)
+
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Kisu Sung, Samantha M. Meyer, Noah A. Springer, Jinhang Wei, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
+
+<div class="paper-link-buttons">
+  <a href="https://github.com/AIDD-LiLab/SMARTBind">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qxL8FJ1GzNcC">Citations</span>
+</div>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scfm_review.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The landscape of single-cell foundation models: design principles, applications, and open challenges]()
+
+**Shiyu Jiang** †, Zhaoyu Fang †, York Zhang, Xuting Zhang, Jérémie Kalfon, Weixu Wang, ..., Fei Wang, Yuying Xie, Jiliang Tang, Raul Rabadan, David van Dijk, Pengtao Xie, Peng He, Emily Fox, Le Song, Fabian J. Theis, Eric Xing, Christina V. Theodoris, Xiaojie Qiu, Jiayuan Ding. 2026.
+
+<div class="paper-link-buttons">
+  <a href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qxL8FJ1GzNcC">Citations</span>
+</div>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/tabula_v2.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning](https://arxiv.org/abs/2607.19400)
+
+Jiayuan Ding †, Jianhui Lin †, Ziyang Miao †, Nils Mechtel †, **Shiyu Jiang**, Yixin Wang, Zhaoyu Fang, Jorge D. Martin-Rufino, Chen Weng, Reuben Saunders, Weize Xu, Jonathan S. Weissman, Wei Ouyang, Min Li, Jiliang Tang, Yuancheng Ryan Lu, Xiaojie Qiu. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
+
+<div class="paper-link-buttons">
+  <a href="https://github.com/aristoteleo/tabula">GitHub</a>
+  <a href="https://chiron.aicell.io/">Chiron platform</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qxL8FJ1GzNcC">Citations</span>
+</div>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Synthetic Biology</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences]()
+[Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://pubs.acs.org/doi/10.1021/acssynbio.6c00024)
 
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ACS Synthetic Biology*, 2026. (Accepted in principle)
+**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ACS Synthetic Biology*, 2026.
 
 <div class="paper-link-buttons">
   <a href="https://github.com/cellethology/GLM-Nullsette-Benchmark">GitHub</a>
@@ -124,7 +170,7 @@ function toggleAllPublications() {
 
 [Decoding the Molecular Language of Proteins with Evolla](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf)
 
-Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu, Hongyuan Lu, Fajie Yuan. *bioRxiv*, 2026. (Under review in Nature Press Research Journal)
+Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu, Hongyuan Lu, Fajie Yuan. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
 
 <div class="paper-link-buttons">
   <a href="https://github.com/westlake-repl/Evolla">GitHub</a>
@@ -228,21 +274,6 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
   <a href="https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file">GitHub</a>
   <a href="https://theopmc.github.io/">OPMC</a>
   <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:9ZlFYXVOiuMC">Citations</span>
-</div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/)
-
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Samantha M. Meyer, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2025.
-
-<div class="paper-link-buttons">
-  <a href="https://github.com/AIDD-LiLab/SMARTBind">GitHub</a>
-  <a href="https://jasonjiangs.github.io/images/UFHCI-Poster.png">Poster</a>
-  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qxL8FJ1GzNcC">Citations</span>
 </div>
 </div>
 </div>
@@ -509,7 +540,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # 📝 Service
 - **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics, PLoS Computational Biology;
-- **Conference reviewer**: AAAI 2026;
+- **Conference reviewer**: AAAI 2026 2027;
 
 
 # 🌎 Miscellaneous
