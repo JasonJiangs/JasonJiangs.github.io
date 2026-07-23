@@ -149,6 +149,21 @@ Jiayuan Ding †, Jianhui Lin †, Ziyang Miao †, Nils Mechtel †, **Shiyu Ji
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/evolla.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Decoding the Molecular Language of Proteins with Evolla](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf)
+
+Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu, Hongyuan Lu, Fajie Yuan. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
+
+<div class="paper-link-buttons">
+  <a href="https://github.com/westlake-repl/Evolla">GitHub</a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:kNdYIx-mwKoC">Citations</span>
+</div>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Synthetic Biology</div><img src='images/nullsettes_v2.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -160,21 +175,6 @@ Jiayuan Ding †, Jianhui Lin †, Ziyang Miao †, Nils Mechtel †, **Shiyu Ji
   <a href="https://github.com/cellethology/GLM-Nullsette-Benchmark">GitHub</a>
   <a href="https://jasonjiangs.github.io/images/nullsettes_poster.png">Poster</a>
   <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:hC7cP41nSMkC">Citations</span>
-</div>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/evolla.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Decoding the Molecular Language of Proteins with Evolla](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf)
-
-Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu, Hongyuan Lu, Fajie Yuan. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
-
-<div class="paper-link-buttons">
-  <a href="https://github.com/westlake-repl/Evolla">GitHub</a>
-  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:kNdYIx-mwKoC">Citations</span>
 </div>
 </div>
 </div>
