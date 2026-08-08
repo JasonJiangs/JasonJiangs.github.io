@@ -23,7 +23,7 @@ with [Prof. Yanjun Li](https://pharmacy.ufl.edu/profile/li-yanjun/) and [Prof. M
 My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
 in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on those areas: <br>
 
-- <button type="button" class="ra-trigger" data-ra-target="ra-modal-drug" aria-haspopup="dialog">AI-driven drug discovery<span class="ra-trigger__count">2 papers</span></button>: generative modeling and representation learning for molecular prediction, sequence design, and optimization; drug-induced cellular phenotype prediction; and structural data resources for ligand recognition.
+- <button type="button" class="ra-trigger" data-ra-target="ra-modal-drug" aria-haspopup="dialog">AI-driven drug discovery<span class="ra-trigger__count">3 papers</span></button>: generative modeling and representation learning for molecular prediction, sequence design, and optimization; drug-induced cellular phenotype prediction; and structural data resources for ligand recognition.
 - <button type="button" class="ra-trigger" data-ra-target="ra-modal-lm" aria-haspopup="dialog">Foundation models for life sciences<span class="ra-trigger__count">8 papers</span></button>: single-cell foundation models and language models for protein and nucleic acid sequences, spanning model development, evaluation, and applications.
 - <button type="button" class="ra-trigger" data-ra-target="ra-modal-exp" aria-haspopup="dialog">Experiment-driven protein and cellular engineering<span class="ra-trigger__count">7 papers</span></button>: building the computational core of wet-lab campaigns, from sequence–activity landscape modeling to variant prioritization for enzyme and Cas nuclease evolution.
 - Agentic systems, memory, and continual learning: parametric and non-parametric memory, long-horizon adaptation, self-evolving agents, reinforcement learning, and agentic systems for scientific discovery.
@@ -38,7 +38,7 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-drug-title">AI-driven drug discovery</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <!-- <li><strong>Jiang, S.</strong>, Yang, Z., Taghavi, A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y. (2026). SMARTFlexDB: A database of paired apo&#8211;holo RNA structures for analyzing conformational remodeling and small-molecule recognition [Preprint]. <em>bioRxiv</em>. <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">https://aidd.rc.ufl.edu/app/smartflexdb/</a></li> -->
+      <li><strong>Jiang, S.</strong>, Yang, Z., Taghavi, A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y. (2026). SMARTFlexDB: A database of paired apo&#8211;holo RNA structures for analyzing conformational remodeling and small-molecule recognition. In preparation. <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">https://aidd.rc.ufl.edu/app/smartflexdb/</a></li>
       <li><strong>Jiang, S.</strong>&#8224;, Taghavi, A.&#8224;, Wang, T., Sung, K., Meyer, S. M., Springer, N. A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y. (2026). Small molecule approach to RNA targeting binder discovery (SMARTBind) using deep learning without structural input [Preprint]. <em>bioRxiv</em>. Under review at <em>Nature Portfolio</em>. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/</a></li>
       <li>Zheng, X., <strong>Jiang, S.</strong>, Seabra, G., Li, C., &amp; Li, Y. (2026). Apo2Mol: 3D molecule generation via dynamic pocket-aware diffusion models. <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37138">https://ojs.aaai.org/index.php/AAAI/article/view/37138</a></li>
     </ul>
@@ -189,20 +189,18 @@ function toggleAllPublications() {
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
 
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In preparation</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SMARTFlexDB: a database of paired apo-holo RNA structures for analyzing conformational remodeling and small-molecule recognition]()
+SMARTFlexDB: a database of paired apo-holo RNA structures for analyzing conformational remodeling and small-molecule recognition
 
-**Shiyu Jiang**, Zekun Yang, Amirhossein Taghavi, Jinhang Wei, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. 2026. (Under Review)
+**Shiyu Jiang**, Zekun Yang, Amirhossein Taghavi, Jinhang Wei, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. 2026. (In preparation)
 
 <div class="paper-link-buttons">
   <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">Database</a>
 </div>
 </div>
 </div>
--->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/scfm_review.png' alt="sym" width="75%"></div></div>
