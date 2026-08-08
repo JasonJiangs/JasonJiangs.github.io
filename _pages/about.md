@@ -38,7 +38,7 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-drug-title">AI-driven drug discovery</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li><strong>Jiang, S.</strong>, Yang, Z., Taghavi, A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y. (2026). SMARTFlexDB: A database of paired apo&#8211;holo RNA structures for analyzing conformational remodeling and small-molecule recognition. In preparation. <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">https://aidd.rc.ufl.edu/app/smartflexdb/</a></li>
+      <li><strong>Jiang, S.</strong>, Yang, Z., Taghavi, A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y. (2026). SMARTFlexDB: A database of paired apo&#8211;holo RNA structures for analyzing conformational remodeling and small-molecule recognition. In preparation.</li>
       <li><strong>Jiang, S.</strong>&#8224;, Taghavi, A.&#8224;, Wang, T., Sung, K., Meyer, S. M., Springer, N. A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y. (2026). Small molecule approach to RNA targeting binder discovery (SMARTBind) using deep learning without structural input [Preprint]. <em>bioRxiv</em>. Under review at <em>Nature Portfolio</em>. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/</a></li>
       <li>Zheng, X., <strong>Jiang, S.</strong>, Seabra, G., Li, C., &amp; Li, Y. (2026). Apo2Mol: 3D molecule generation via dynamic pocket-aware diffusion models. <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37138">https://ojs.aaai.org/index.php/AAAI/article/view/37138</a></li>
     </ul>
@@ -53,7 +53,7 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-lm-title">Foundation models for life sciences</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li><strong>Jiang, S.</strong>&#8224;, Fang, Z.&#8224;, Zhang, Y., Zhang, X., Kalfon, J., Wang, W., . . . Ding, J. (2026). The landscape of single-cell foundation models: Design principles, applications, and open challenges [Manuscript submitted for publication, under review]. <a href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers">https://github.com/OmicsML/awesome-foundation-model-single-cell-papers</a></li>
+      <li><strong>Jiang, S.</strong>&#8224;, Fang, Z.&#8224;, Zhang, Y., Zhang, X., Kalfon, J., Wang, W., . . . Ding, J. (2026). The landscape of single-cell foundation models: Design principles, applications, and open challenges. In preparation. <a href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers">https://github.com/OmicsML/awesome-foundation-model-single-cell-papers</a></li>
       <li>Ding, J.&#8224;, Lin, J.&#8224;, Miao, Z.&#8224;, Mechtel, N.&#8224;, <strong>Jiang, S.</strong>, Wang, Y., Fang, Z., Martin-Rufino, J. D., Weng, C., Saunders, R., Xu, W., Weissman, J. S., Ouyang, W., Li, M., Tang, J., Lu, Y. R., &amp; Qiu, X. (2026). Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning [Preprint]. <em>arXiv</em>. <a href="https://arxiv.org/abs/2607.19400">https://arxiv.org/abs/2607.19400</a></li>
       <li>Zhou, X.&#8224;, Han, C.&#8224;, Zhang, Y.&#8224;, Du, H.&#8224;, Tian, J.&#8224;, Su, J.&#8225;, Liu, R.&#8225;, Zhuang, K.&#8225;, <strong>Jiang, S.</strong>&#8225;, Gitter, A., . . . Yuan, F. (2026). Decoding the molecular language of proteins with Evolla [Preprint]. <em>bioRxiv</em>. <a href="https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf">https://doi.org/10.1101/2025.01.05.630192</a></li>
       <li><strong>Jiang, S.</strong>, Liu, X., &amp; Wang, J. Z. (2026). Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences. <em>ACS Synthetic Biology</em>. <a href="https://pubs.acs.org/doi/10.1021/acssynbio.6c00024">https://doi.org/10.1021/acssynbio.6c00024</a></li>
@@ -196,19 +196,16 @@ SMARTFlexDB: a database of paired apo-holo RNA structures for analyzing conforma
 
 **Shiyu Jiang**, Zekun Yang, Amirhossein Taghavi, Jinhang Wei, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. 2026. (In preparation)
 
-<div class="paper-link-buttons">
-  <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">Database</a>
-</div>
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/scfm_review.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In preparation</div><img src='images/scfm_review.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The landscape of single-cell foundation models: design principles, applications, and open challenges]()
+The landscape of single-cell foundation models: design principles, applications, and open challenges
 
-**Shiyu Jiang** †, Zhaoyu Fang †, York Zhang, Xuting Zhang, Jérémie Kalfon, Weixu Wang, ..., Fei Wang, Yuying Xie, Jiliang Tang, Raul Rabadan, David van Dijk, Pengtao Xie, Peng He, Emily Fox, Le Song, Fabian J. Theis, Eric Xing, Christina V. Theodoris, Xiaojie Qiu, Jiayuan Ding. 2026. (Under Review)
+**Shiyu Jiang** †, Zhaoyu Fang †, York Zhang, Xuting Zhang, Jérémie Kalfon, Weixu Wang, ..., Fei Wang, Yuying Xie, Jiliang Tang, Raul Rabadan, David van Dijk, Pengtao Xie, Peng He, Emily Fox, Le Song, Fabian J. Theis, Eric Xing, Christina V. Theodoris, Xiaojie Qiu, Jiayuan Ding. 2026. (In preparation)
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers"><img src="https://img.shields.io/github/stars/OmicsML/awesome-foundation-model-single-cell-papers?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
