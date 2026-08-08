@@ -1,0 +1,207 @@
+{
+  "scholar_id": "TchSd_cAAAAJ",
+  "citedby": 335,
+  "updated": "2026-08-02 06:54:37 UTC",
+  "publications": {
+    "TchSd_cAAAAJ:4DMP91E08xMC": {
+      "author_pub_id": "TchSd_cAAAAJ:4DMP91E08xMC",
+      "bib": {
+        "title": "A trimodal protein language model enables advanced protein searches",
+        "pub_year": "2025"
+      },
+      "num_citations": 69
+    },
+    "TchSd_cAAAAJ:_FxGoFyzp5QC": {
+      "author_pub_id": "TchSd_cAAAAJ:_FxGoFyzp5QC",
+      "bib": {
+        "title": "Integrating metal–phenolic networks-mediated separation and machine learning-aided surface-enhanced Raman spectroscopy for accurate nanoplastics quantification and classification",
+        "pub_year": "2024"
+      },
+      "num_citations": 68
+    },
+    "TchSd_cAAAAJ:9ZlFYXVOiuMC": {
+      "author_pub_id": "TchSd_cAAAAJ:9ZlFYXVOiuMC",
+      "bib": {
+        "title": "Democratizing protein language model training, sharing and collaboration",
+        "pub_year": "2025"
+      },
+      "num_citations": 45
+    },
+    "TchSd_cAAAAJ:d1gkVwhDpl0C": {
+      "author_pub_id": "TchSd_cAAAAJ:d1gkVwhDpl0C",
+      "bib": {
+        "title": "Deblur-yolo: Real-time object detection with efficient blind motion deblurring",
+        "pub_year": "2021"
+      },
+      "num_citations": 38
+    },
+    "TchSd_cAAAAJ:hqOjcs7Dif8C": {
+      "author_pub_id": "TchSd_cAAAAJ:hqOjcs7Dif8C",
+      "bib": {
+        "title": "Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies",
+        "pub_year": "2025"
+      },
+      "num_citations": 23
+    },
+    "TchSd_cAAAAJ:kNdYIx-mwKoC": {
+      "author_pub_id": "TchSd_cAAAAJ:kNdYIx-mwKoC",
+      "bib": {
+        "title": "Decoding the Molecular Language of Proteins with Evolla",
+        "pub_year": "2025"
+      },
+      "num_citations": 22
+    },
+    "TchSd_cAAAAJ:hFOr9nPyWt4C": {
+      "author_pub_id": "TchSd_cAAAAJ:hFOr9nPyWt4C",
+      "bib": {
+        "title": "Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics",
+        "pub_year": "2025"
+      },
+      "num_citations": 19
+    },
+    "TchSd_cAAAAJ:KlAtU1dfN6UC": {
+      "author_pub_id": "TchSd_cAAAAJ:KlAtU1dfN6UC",
+      "bib": {
+        "title": "Projectedex: Enhancing generation in explainable ai for prostate cancer",
+        "pub_year": "2025"
+      },
+      "num_citations": 11
+    },
+    "TchSd_cAAAAJ:qUcmZB5y_30C": {
+      "author_pub_id": "TchSd_cAAAAJ:qUcmZB5y_30C",
+      "bib": {
+        "title": "Biocatalytic Synthesis of N-Protected α-Amino Acids through 1, 3-Nitrogen Migration by Nonheme Iron Enzymes",
+        "pub_year": "2025"
+      },
+      "num_citations": 9
+    },
+    "TchSd_cAAAAJ:mVmsd5A6BfQC": {
+      "author_pub_id": "TchSd_cAAAAJ:mVmsd5A6BfQC",
+      "bib": {
+        "title": "Engineering unnatural cells with a 21st amino acid as a living epigenetic sensor",
+        "pub_year": "2025"
+      },
+      "num_citations": 8
+    },
+    "TchSd_cAAAAJ:ufrVoPGSRksC": {
+      "author_pub_id": "TchSd_cAAAAJ:ufrVoPGSRksC",
+      "bib": {
+        "title": "Biosynthesis of Halogenated Tryptophans for Protein Engineering using Genetic Code Expansion",
+        "pub_year": "2024"
+      },
+      "num_citations": 7
+    },
+    "TchSd_cAAAAJ:UeHWp8X0CEIC": {
+      "author_pub_id": "TchSd_cAAAAJ:UeHWp8X0CEIC",
+      "bib": {
+        "title": "The impact of comment history disclosure on online comment posting behaviors",
+        "pub_year": "2023"
+      },
+      "num_citations": 4
+    },
+    "TchSd_cAAAAJ:9yKSN-GCB0IC": {
+      "author_pub_id": "TchSd_cAAAAJ:9yKSN-GCB0IC",
+      "bib": {
+        "title": "An artificial intelligence-based interactive learning platform to assist visually impaired children in learning mathematics",
+        "pub_year": "2023"
+      },
+      "num_citations": 4
+    },
+    "TchSd_cAAAAJ:IWHjjKOFINEC": {
+      "author_pub_id": "TchSd_cAAAAJ:IWHjjKOFINEC",
+      "bib": {
+        "title": "Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models",
+        "pub_year": "2026"
+      },
+      "num_citations": 3
+    },
+    "TchSd_cAAAAJ:qxL8FJ1GzNcC": {
+      "author_pub_id": "TchSd_cAAAAJ:qxL8FJ1GzNcC",
+      "bib": {
+        "title": "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input",
+        "pub_year": "2025"
+      },
+      "num_citations": 2
+    },
+    "TchSd_cAAAAJ:M3ejUd6NZC8C": {
+      "author_pub_id": "TchSd_cAAAAJ:M3ejUd6NZC8C",
+      "bib": {
+        "title": "Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution",
+        "pub_year": "2025"
+      },
+      "num_citations": 1
+    },
+    "TchSd_cAAAAJ:qjMakFHDy7sC": {
+      "author_pub_id": "TchSd_cAAAAJ:qjMakFHDy7sC",
+      "bib": {
+        "title": "Simulating Disease Spread During Disaster Scenarios",
+        "pub_year": "2023"
+      },
+      "num_citations": 1
+    },
+    "TchSd_cAAAAJ:u5HHmVD_uO8C": {
+      "author_pub_id": "TchSd_cAAAAJ:u5HHmVD_uO8C",
+      "bib": {
+        "title": "HNOXPred: a web tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence",
+        "pub_year": "2022"
+      },
+      "num_citations": 1
+    },
+    "TchSd_cAAAAJ:R3hNpaxXUhUC": {
+      "author_pub_id": "TchSd_cAAAAJ:R3hNpaxXUhUC",
+      "bib": {
+        "title": "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning",
+        "pub_year": "2026"
+      },
+      "num_citations": 0
+    },
+    "TchSd_cAAAAJ:TQgYirikUcIC": {
+      "author_pub_id": "TchSd_cAAAAJ:TQgYirikUcIC",
+      "bib": {
+        "title": "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences",
+        "pub_year": "2026"
+      },
+      "num_citations": 0
+    },
+    "TchSd_cAAAAJ:mB3voiENLucC": {
+      "author_pub_id": "TchSd_cAAAAJ:mB3voiENLucC",
+      "bib": {
+        "title": "Sequence Display enables large-scale sequence–activity datasets for rapid protein evolution",
+        "pub_year": "2026"
+      },
+      "num_citations": 0
+    },
+    "TchSd_cAAAAJ:QIV2ME_5wuYC": {
+      "author_pub_id": "TchSd_cAAAAJ:QIV2ME_5wuYC",
+      "bib": {
+        "title": "Sequence Display-Enabled Machine Learning for Protein Evolution",
+        "pub_year": "2025"
+      },
+      "num_citations": 0
+    },
+    "TchSd_cAAAAJ:ULOm3_A8WrAC": {
+      "author_pub_id": "TchSd_cAAAAJ:ULOm3_A8WrAC",
+      "bib": {
+        "title": "Predicting function of evolutionarily implausible DNA sequences",
+        "pub_year": "2025"
+      },
+      "num_citations": 0
+    },
+    "TchSd_cAAAAJ:8k81kl-MbHgC": {
+      "author_pub_id": "TchSd_cAAAAJ:8k81kl-MbHgC",
+      "bib": {
+        "title": "ANALYZING EPIDEMIC SPREAD AND EMOTION CONTAGION WITH AGENT-BASED SIMULATION AND SYSTEM DYNAMIC MODELING",
+        "pub_year": "2023"
+      },
+      "num_citations": 0
+    },
+    "TchSd_cAAAAJ:ZeXyd9-uunAC": {
+      "author_pub_id": "TchSd_cAAAAJ:ZeXyd9-uunAC",
+      "bib": {
+        "title": "linqicheng-xiao/gmx_mmpbsa_py: Version 1.0. 0 (paper release)",
+        "pub_year": ""
+      },
+      "num_citations": 0
+    }
+  }
+}

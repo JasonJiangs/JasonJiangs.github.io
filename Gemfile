@@ -18,6 +18,12 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+# Local build only (GitHub Pages ignores this file when it builds the site).
+# Jekyll 3.9's logger subclass breaks on logger >= 1.6, and webrick left the
+# stdlib in Ruby 3.0, so `jekyll serve` needs it back.
+gem "logger", "~> 1.5.3"
+gem "webrick", "~> 1.8"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"

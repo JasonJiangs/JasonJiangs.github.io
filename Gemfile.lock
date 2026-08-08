@@ -215,6 +215,7 @@ GEM
     listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.5.3)
     mercenary (0.3.6)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -266,9 +267,11 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webrick (1.9.2)
     zeitwerk (2.4.2)
 
 PLATFORMS
+  arm64-darwin-25
   universal-darwin-19
   x86_64-linux
 
@@ -277,6 +280,8 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  logger (~> 1.5.3)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.2.19

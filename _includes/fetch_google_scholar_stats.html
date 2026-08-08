@@ -7,31 +7,80 @@
         {% endif %}
         var citationEles = document.getElementsByClassName('show_paper_citations')
 
+        // Primary source is the google-scholar-stats branch published by the
+        // GitHub Action; the committed snapshot is the fallback for when that
+        // Action has not run (missing secret, Scholar rate-limiting GitHub IPs).
+        var remoteUrl = gsDataBaseUrl + "google-scholar-stats/gs_data.json"
+        var localUrl = "{{ '/assets/gs_data.json' | relative_url }}"
+
         function hideCitationElements() {
             Array.prototype.forEach.call(citationEles, function (element) {
                 element.style.display = 'none';
             });
         }
 
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json")
-            .done(function (data) {
-                var totalCitation = data && data['citedby']
-                var totalCitEl = document.getElementById('total_cit');
-                if (totalCitEl && totalCitation !== undefined) {
-                    totalCitEl.textContent = totalCitation;
+        function scholarUrl(paperId) {
+            var userId = paperId.split(':')[0]
+            if (!userId) return null
+            return 'https://scholar.google.com/citations?view_op=view_citation&hl=en'
+                + '&user=' + encodeURIComponent(userId)
+                + '&citation_for_view=' + encodeURIComponent(paperId)
+        }
+
+        function render(data) {
+            var totalCitation = data && data['citedby']
+            var totalCitEl = document.getElementById('total_cit');
+            if (totalCitEl && totalCitation !== undefined) {
+                totalCitEl.textContent = totalCitation;
+            }
+
+            // Snapshot the live collection first: replacing a <span> with an <a>
+            // mutates the HTMLCollection we are iterating over.
+            Array.prototype.slice.call(citationEles).forEach(function (element) {
+                var paperId = element.getAttribute('data-paper-id') || element.getAttribute('data')
+                var publication = data && data['publications'] && data['publications'][paperId]
+                var count = publication && publication['num_citations']
+
+                // Uncited and unmatched papers show nothing rather than "Cited by 0".
+                if (!count) {
+                    element.style.display = 'none';
+                    return;
                 }
 
-                Array.prototype.forEach.call(citationEles, function (element) {
-                    var paperId = element.getAttribute('data-paper-id') || element.getAttribute('data')
-                    var publication = data && data['publications'] && data['publications'][paperId]
-                    if (!publication || publication['num_citations'] === undefined) {
-                        element.style.display = 'none';
-                        return;
-                    }
+                var href = scholarUrl(paperId)
+                if (!href) {
+                    element.textContent = 'Cited by ' + count;
+                    return;
+                }
 
-                    element.textContent = 'Citations: ' + publication['num_citations'];
-                });
-            })
-            .fail(hideCitationElements);
+                // Rendered as a shields.io social-style badge (see .cite-badge in
+                // main.scss) so it matches the Code Stars badges beside it.
+                var link = document.createElement('a')
+                link.className = 'cite-badge show_paper_citations'
+                link.setAttribute('data-paper-id', paperId)
+                link.href = href
+                link.target = '_blank'
+                link.rel = 'noopener'
+                link.title = 'View on Google Scholar'
+
+                var label = document.createElement('span')
+                label.className = 'cite-badge__label'
+                label.textContent = 'Cited by'
+
+                var value = document.createElement('span')
+                value.className = 'cite-badge__count'
+                value.textContent = count
+
+                link.appendChild(label)
+                link.appendChild(value)
+                element.parentNode.replaceChild(link, element)
+            });
+        }
+
+        $.getJSON(remoteUrl)
+            .done(render)
+            .fail(function () {
+                $.getJSON(localUrl).done(render).fail(hideCitationElements)
+            });
     })
 </script>
