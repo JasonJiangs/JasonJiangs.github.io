@@ -26,7 +26,7 @@ in synthetic biology, drug discovery, and molecular interaction. Specifically, I
 - <button type="button" class="ra-trigger" data-ra-target="ra-modal-drug" aria-haspopup="dialog">AI-driven drug discovery<span class="ra-trigger__count">3 papers</span></button>: generative modeling and representation learning for molecular prediction, sequence design, and optimization; drug-induced cellular phenotype prediction; and structural data resources for ligand recognition.
 - <button type="button" class="ra-trigger" data-ra-target="ra-modal-lm" aria-haspopup="dialog">Foundation models for life sciences<span class="ra-trigger__count">8 papers</span></button>: single-cell foundation models and language models for protein and nucleic acid sequences, spanning model development, evaluation, and applications.
 - <button type="button" class="ra-trigger" data-ra-target="ra-modal-exp" aria-haspopup="dialog">Experiment-driven protein and cellular engineering<span class="ra-trigger__count">7 papers</span></button>: building the computational core of wet-lab campaigns, from sequence–activity landscape modeling to variant prioritization for enzyme and Cas nuclease evolution.
-- Agentic systems, memory, and continual learning: parametric and non-parametric memory, long-horizon adaptation, self-evolving agents, reinforcement learning, and agentic systems for scientific discovery.
+- Agentic systems, memory, and continual learning: parametric and non-parametric memory, reinforcement learning, and agentic systems for scientific discovery.
 
 Before starting my PhD, I was very fortunate to work with and learn from really brilliant, inspiring mentors and collaborators 
 across these fields, you can find them in the experience panel. 
@@ -53,7 +53,7 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-lm-title">Foundation models for life sciences</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li><strong>Jiang, S.</strong>&#8224;, Fang, Z.&#8224;, Zhang, Y., Zhang, X., Kalfon, J., Wang, W., . . . Ding, J. (2026). The landscape of single-cell foundation models: Design principles, applications, and open challenges. In preparation. <a href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers">https://github.com/OmicsML/awesome-foundation-model-single-cell-papers</a></li>
+      <li><strong>Jiang, S.</strong>&#8224;, Fang, Z.&#8224;, Zhang, Y., Zhang, X., Kalfon, J., Wang, W., . . . Ding, J. (2026). The landscape of single-cell foundation models: Design principles, applications, and open challenges [Preprint]. <a href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers">https://github.com/OmicsML/awesome-foundation-model-single-cell-papers</a></li>
       <li>Ding, J.&#8224;, Lin, J.&#8224;, Miao, Z.&#8224;, Mechtel, N.&#8224;, <strong>Jiang, S.</strong>, Wang, Y., Fang, Z., Martin-Rufino, J. D., Weng, C., Saunders, R., Xu, W., Weissman, J. S., Ouyang, W., Li, M., Tang, J., Lu, Y. R., &amp; Qiu, X. (2026). Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning [Preprint]. <em>arXiv</em>. <a href="https://arxiv.org/abs/2607.19400">https://arxiv.org/abs/2607.19400</a></li>
       <li>Zhou, X.&#8224;, Han, C.&#8224;, Zhang, Y.&#8224;, Du, H.&#8224;, Tian, J.&#8224;, Su, J.&#8225;, Liu, R.&#8225;, Zhuang, K.&#8225;, <strong>Jiang, S.</strong>&#8225;, Gitter, A., . . . Yuan, F. (2026). Decoding the molecular language of proteins with Evolla [Preprint]. <em>bioRxiv</em>. <a href="https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf">https://doi.org/10.1101/2025.01.05.630192</a></li>
       <li><strong>Jiang, S.</strong>, Liu, X., &amp; Wang, J. Z. (2026). Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences. <em>ACS Synthetic Biology</em>. <a href="https://pubs.acs.org/doi/10.1021/acssynbio.6c00024">https://doi.org/10.1021/acssynbio.6c00024</a></li>
@@ -132,7 +132,7 @@ across these fields, you can find them in the experience panel.
 
 # 📰 News
 <!-- - *2026.08*: One first authored paper "SMARTFlexDB: a database of paired apo-holo RNA structures for analyzing conformational remodeling and small-molecule recognition" is released on ***[bioRxiv]()***. -->
-<!-- - *2026.08*: One first authored paper "The landscape of single-cell foundation models: design principles, applications, and open challenges" is released on ***[arXiv]()***. -->
+- *2026.08*: One first authored paper "The landscape of single-cell foundation models: design principles, applications, and open challenges" is released as a ***[preprint](https://www.preprints.org/manuscript/202608.1166)***.
 - *2026.08*: One co-authored paper "Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs" is accepted by ***[Nature Communications]()***!
 <!-- - *2026.08*: One first authored paper "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is accepted by ***[Nature Communications]()***! -->
 - *2026.07*: One co-authored paper "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning" is released on [arXiv](https://arxiv.org/abs/2607.19400). Check out our [post](https://x.com/Xiaojie_Qiu/status/2077456094696456192).
@@ -189,23 +189,12 @@ function toggleAllPublications() {
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In preparation</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/scfm_review.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SMARTFlexDB: a database of paired apo-holo RNA structures for analyzing conformational remodeling and small-molecule recognition
+[The landscape of single-cell foundation models: design principles, applications, and open challenges](https://www.preprints.org/manuscript/202608.1166)
 
-**Shiyu Jiang**, Zekun Yang, Amirhossein Taghavi, Jinhang Wei, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. 2026. (In preparation)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In preparation</div><img src='images/scfm_review.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-The landscape of single-cell foundation models: design principles, applications, and open challenges
-
-**Shiyu Jiang** †, Zhaoyu Fang †, York Zhang, Xuting Zhang, Jérémie Kalfon, Weixu Wang, ..., Fei Wang, Yuying Xie, Jiliang Tang, Raul Rabadan, David van Dijk, Pengtao Xie, Peng He, Emily Fox, Le Song, Fabian J. Theis, Eric Xing, Christina V. Theodoris, Xiaojie Qiu, Jiayuan Ding. 2026. (In preparation)
+**Shiyu Jiang** †, Zhaoyu Fang †, York Zhang, Xuting Zhang, Jérémie Kalfon, Weixu Wang, ..., Fei Wang, Yuying Xie, Jiliang Tang, Raul Rabadan, David van Dijk, Pengtao Xie, Peng He, Emily Fox, Le Song, Fabian J. Theis, Eric Xing, Christina V. Theodoris, Xiaojie Qiu, Jiayuan Ding. Preprint, 2026.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers"><img src="https://img.shields.io/github/stars/OmicsML/awesome-foundation-model-single-cell-papers?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
