@@ -194,7 +194,7 @@ function toggleAllPublications() {
 
 [The landscape of single-cell foundation models: design principles, applications, and open challenges](https://www.preprints.org/manuscript/202608.1166)
 
-**Shiyu Jiang** †, Zhaoyu Fang †, York Zhang, Xuting Zhang, Jérémie Kalfon, Weixu Wang, ..., Fei Wang, Yuying Xie, Jiliang Tang, Raul Rabadan, David van Dijk, Pengtao Xie, Peng He, Emily Fox, Le Song, Fabian J. Theis, Eric Xing, Christina V. Theodoris, Xiaojie Qiu, Jiayuan Ding. Preprint, 2026.
+**Shiyu Jiang** †, Zhaoyu Fang †, Yujie Zhang, Xuting Zhang, Jérémie Kalfon, Weixu Wang, Xi Fu, Aakash Patel, Syed Rizvi, Yuancheng Ryan Lu, Siyu He, Yixin Wang, Kejun Ying, Peter Pao-Huang, Yifan Lu, Weize Xu, Mengchen Wang, Ziyang Miao, Jianhui Lin, Jimmy Ding, Zitong Jerry Wang, Wei Ouyang, Tianlong Chen, Guoxian Yu, Min Li, Jiayi Ma, Fei Wang, Yuying Xie, Jiliang Tang, Raul Rabadan, David van Dijk, Pengtao Xie, Peng He, Emily B. Fox, Le Song, Fabian J. Theis, Eric Xing, Christina V. Theodoris, Xiaojie Qiu, Jiayuan Ding. Preprint, 2026.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers"><img src="https://img.shields.io/github/stars/OmicsML/awesome-foundation-model-single-cell-papers?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
