@@ -1,0 +1,14 @@
+# Optional captions for the photos in /images/misc/.
+# Photos show up on /miscellaneous/ automatically without any entry here —
+# add an entry only when you want a caption under a photo.
+#
+# `file` must match the filename in images/misc/ exactly (case-sensitive).
+# Photos are ordered by filename, so prefix them (01_, 02_, ...) to control the order.
+#
+# Example:
+#
+# - file: 01_yosemite.jpg
+#   caption: "Half Dome, Yosemite — summer 2025"
+#
+# - file: 02_soccer.jpg
+#   caption: "Weekend league in Gainesville"

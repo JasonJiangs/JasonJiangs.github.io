@@ -1,0 +1,149 @@
+<script>
+/*
+ * In-page navigation.
+ *
+ * Internal page links swap the article body instead of making the browser load a
+ * whole new document, so moving between the homepage, Blog and Miscellaneous has
+ * no reload flash. The address bar, document title, back/forward and scroll
+ * position all behave exactly as they would with real navigations.
+ *
+ * Every unusual case falls back to a normal browser navigation: modified clicks,
+ * new-tab links, cross-origin URLs, non-page targets (the CV pdf), failed
+ * requests, or a response whose markup does not match this layout. Nothing here
+ * is required for the site to work — remove the include and links behave normally.
+ */
+(function () {
+  var CONTENT = '.page__content';
+
+  if (!window.history || !window.history.pushState || !window.fetch ||
+      !window.DOMParser || !window.CustomEvent || !document.querySelector(CONTENT)) {
+    return;
+  }
+
+  var cache = {};            // static site, so a fetched page stays valid for the session
+  var pending = 0;           // guards against a slow request landing after a newer click
+  var currentPath = location.pathname;
+
+  function isSwappable(url) {
+    if (url.origin !== location.origin) { return false; }
+    // Only real pages. Keeps the CV pdf and any other asset on the browser.
+    return /(\/|\.html)$/.test(url.pathname);
+  }
+
+  // Scripts inserted through innerHTML never execute, so recreate them.
+  function runScripts(container) {
+    var scripts = container.querySelectorAll('script');
+    for (var i = 0; i < scripts.length; i++) {
+      var old = scripts[i];
+      var fresh = document.createElement('script');
+      for (var j = 0; j < old.attributes.length; j++) {
+        fresh.setAttribute(old.attributes[j].name, old.attributes[j].value);
+      }
+      fresh.text = old.textContent;
+      old.parentNode.replaceChild(fresh, old);
+    }
+  }
+
+  function afterSwap(container, hash, restore) {
+    // A modal or photo viewer left open on the previous page took its markup with
+    // it, but the scroll lock lives on <body> and would survive the swap.
+    document.body.classList.remove('misc-lightbox-open');
+    document.body.classList.remove('ra-modal-open');
+
+    runScripts(container);
+
+    if (typeof window.renderScholarStats === 'function') { window.renderScholarStats(); }
+    if (window.MathJax && window.MathJax.Hub) {
+      window.MathJax.Hub.Queue(['Typeset', window.MathJax.Hub, container]);
+    }
+
+    var anchor = hash ? document.getElementById(hash.slice(1)) : null;
+    if (typeof restore === 'number') { window.scrollTo(0, restore); }
+    else if (anchor) { anchor.scrollIntoView(); }
+    else { window.scrollTo(0, 0); }
+
+    document.dispatchEvent(new CustomEvent('inpagenav:loaded'));
+  }
+
+  function swap(html, hash, restore) {
+    var doc = new DOMParser().parseFromString(html, 'text/html');
+    var fresh = doc.querySelector(CONTENT);
+    var target = document.querySelector(CONTENT);
+    if (!fresh || !target) { return false; }
+
+    target.innerHTML = fresh.innerHTML;
+    if (doc.title) { document.title = doc.title; }
+
+    target.style.transition = '';
+    target.style.opacity = '0';
+    void target.offsetHeight;                    // flush styles so the fade actually runs
+    target.style.transition = 'opacity 0.18s ease';
+    target.style.opacity = '1';
+
+    afterSwap(target, hash, restore);
+    return true;
+  }
+
+  function go(url, push) {
+    var href = url.href;
+    var token = ++pending;
+    var restore = (!push && history.state && typeof history.state.scroll === 'number')
+      ? history.state.scroll
+      : null;
+
+    // Remember where we were, so Back returns to that spot rather than the top.
+    if (push) {
+      history.replaceState({ inpagenav: true, scroll: window.pageYOffset }, '', location.href);
+    }
+
+    function apply(html) {
+      if (token !== pending) { return; }
+      if (!swap(html, url.hash, restore)) { location.assign(href); return; }
+      currentPath = url.pathname;
+      if (push) { history.pushState({ inpagenav: true }, '', href); }
+    }
+
+    if (cache[url.pathname]) { apply(cache[url.pathname]); return; }
+
+    fetch(href, { credentials: 'same-origin' })
+      .then(function (res) {
+        if (!res.ok) { throw new Error(res.status); }
+        return res.text();
+      })
+      .then(function (html) {
+        cache[url.pathname] = html;
+        apply(html);
+      })
+      .catch(function () { location.assign(href); });
+  }
+
+  document.addEventListener('click', function (e) {
+    if (e.defaultPrevented || e.button !== 0 ||
+        e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) { return; }
+
+    var link = e.target.closest ? e.target.closest('a[href]') : null;
+    if (!link) { return; }
+    if (link.hasAttribute('download') || link.hasAttribute('data-no-inpagenav')) { return; }
+    if (link.target && link.target !== '_self') { return; }
+
+    var url;
+    try { url = new URL(link.href, location.href); } catch (err) { return; }
+
+    if (!isSwappable(url)) { return; }
+    if (url.pathname === currentPath) { return; }   // same document: let the hash jump happen natively
+
+    e.preventDefault();
+    go(url, true);
+  });
+
+  window.addEventListener('popstate', function () {
+    var url = new URL(location.href);
+    if (url.pathname === currentPath) {             // hash move inside the current document
+      var anchor = url.hash ? document.getElementById(url.hash.slice(1)) : null;
+      if (anchor) { anchor.scrollIntoView(); } else { window.scrollTo(0, 0); }
+      return;
+    }
+    go(url, false);
+  });
+})();
+</script>

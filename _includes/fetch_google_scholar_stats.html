@@ -1,86 +1,104 @@
 <script>
-    $(document).ready(function () {
-        {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
-        {% endif %}
-        var citationEles = document.getElementsByClassName('show_paper_citations')
+(function () {
+    {% if site.google_scholar_stats_use_cdn %}
+    var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+    {% else %}
+    var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+    {% endif %}
 
-        // Primary source is the google-scholar-stats branch published by the
-        // GitHub Action; the committed snapshot is the fallback for when that
-        // Action has not run (missing secret, Scholar rate-limiting GitHub IPs).
-        var remoteUrl = gsDataBaseUrl + "google-scholar-stats/gs_data.json"
-        var localUrl = "{{ '/assets/gs_data.json' | relative_url }}"
+    // Primary source is the google-scholar-stats branch published by the
+    // GitHub Action; the committed snapshot is the fallback for when that
+    // Action has not run (missing secret, Scholar rate-limiting GitHub IPs).
+    var remoteUrl = gsDataBaseUrl + "google-scholar-stats/gs_data.json"
+    var localUrl = "{{ '/assets/gs_data.json' | relative_url }}"
 
-        function hideCitationElements() {
-            Array.prototype.forEach.call(citationEles, function (element) {
+    // Fetched once per session and replayed on later visits, so navigating back
+    // to the homepage through the in-page router costs no extra request.
+    var cachedData = null
+
+    function citationEls() {
+        return document.getElementsByClassName('show_paper_citations')
+    }
+
+    function hideCitationElements() {
+        Array.prototype.forEach.call(citationEls(), function (element) {
+            element.style.display = 'none';
+        });
+    }
+
+    function scholarUrl(paperId) {
+        var userId = paperId.split(':')[0]
+        if (!userId) return null
+        return 'https://scholar.google.com/citations?view_op=view_citation&hl=en'
+            + '&user=' + encodeURIComponent(userId)
+            + '&citation_for_view=' + encodeURIComponent(paperId)
+    }
+
+    function render(data) {
+        cachedData = data
+
+        var totalCitation = data && data['citedby']
+        var totalCitEl = document.getElementById('total_cit');
+        if (totalCitEl && totalCitation !== undefined) {
+            totalCitEl.textContent = totalCitation;
+        }
+
+        // Snapshot the live collection first: replacing a <span> with an <a>
+        // mutates the HTMLCollection we are iterating over.
+        Array.prototype.slice.call(citationEls()).forEach(function (element) {
+            var paperId = element.getAttribute('data-paper-id') || element.getAttribute('data')
+            var publication = data && data['publications'] && data['publications'][paperId]
+            var count = publication && publication['num_citations']
+
+            // Uncited and unmatched papers show nothing rather than "Cited by 0".
+            if (!count) {
                 element.style.display = 'none';
-            });
-        }
-
-        function scholarUrl(paperId) {
-            var userId = paperId.split(':')[0]
-            if (!userId) return null
-            return 'https://scholar.google.com/citations?view_op=view_citation&hl=en'
-                + '&user=' + encodeURIComponent(userId)
-                + '&citation_for_view=' + encodeURIComponent(paperId)
-        }
-
-        function render(data) {
-            var totalCitation = data && data['citedby']
-            var totalCitEl = document.getElementById('total_cit');
-            if (totalCitEl && totalCitation !== undefined) {
-                totalCitEl.textContent = totalCitation;
+                return;
             }
 
-            // Snapshot the live collection first: replacing a <span> with an <a>
-            // mutates the HTMLCollection we are iterating over.
-            Array.prototype.slice.call(citationEles).forEach(function (element) {
-                var paperId = element.getAttribute('data-paper-id') || element.getAttribute('data')
-                var publication = data && data['publications'] && data['publications'][paperId]
-                var count = publication && publication['num_citations']
+            var href = scholarUrl(paperId)
+            if (!href) {
+                element.textContent = 'Cited by ' + count;
+                return;
+            }
 
-                // Uncited and unmatched papers show nothing rather than "Cited by 0".
-                if (!count) {
-                    element.style.display = 'none';
-                    return;
-                }
+            // Rendered as a shields.io social-style badge (see .cite-badge in
+            // main.scss) so it matches the Code Stars badges beside it.
+            var link = document.createElement('a')
+            link.className = 'cite-badge show_paper_citations'
+            link.setAttribute('data-paper-id', paperId)
+            link.href = href
+            link.target = '_blank'
+            link.rel = 'noopener'
+            link.title = 'View on Google Scholar'
 
-                var href = scholarUrl(paperId)
-                if (!href) {
-                    element.textContent = 'Cited by ' + count;
-                    return;
-                }
+            var label = document.createElement('span')
+            label.className = 'cite-badge__label'
+            label.textContent = 'Cited by'
 
-                // Rendered as a shields.io social-style badge (see .cite-badge in
-                // main.scss) so it matches the Code Stars badges beside it.
-                var link = document.createElement('a')
-                link.className = 'cite-badge show_paper_citations'
-                link.setAttribute('data-paper-id', paperId)
-                link.href = href
-                link.target = '_blank'
-                link.rel = 'noopener'
-                link.title = 'View on Google Scholar'
+            var value = document.createElement('span')
+            value.className = 'cite-badge__count'
+            value.textContent = count
 
-                var label = document.createElement('span')
-                label.className = 'cite-badge__label'
-                label.textContent = 'Cited by'
+            link.appendChild(label)
+            link.appendChild(value)
+            element.parentNode.replaceChild(link, element)
+        });
+    }
 
-                var value = document.createElement('span')
-                value.className = 'cite-badge__count'
-                value.textContent = count
-
-                link.appendChild(label)
-                link.appendChild(value)
-                element.parentNode.replaceChild(link, element)
-            });
-        }
+    // Re-runnable: the in-page router calls this again after swapping in content
+    // that was rendered server-side without the citation badges.
+    window.renderScholarStats = function () {
+        if (!citationEls().length && !document.getElementById('total_cit')) { return }
+        if (cachedData) { render(cachedData); return }
 
         $.getJSON(remoteUrl)
             .done(render)
             .fail(function () {
                 $.getJSON(localUrl).done(render).fail(hideCitationElements)
-            });
-    })
+            })
+    }
+
+    $(document).ready(window.renderScholarStats)
+})();
 </script>

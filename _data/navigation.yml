@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Blog"
-    url: "/blog/"
-
   - title: "CV"
     url: "/files/CV Shiyu Jiang online.pdf"
 
@@ -34,4 +31,4 @@ main:
     url: "/#-service"
 
   - title: "Miscellaneous"
-    url: "/#-miscellaneous"
+    url: "/miscellaneous/"

@@ -87,6 +87,11 @@ across these fields, you can find them in the experience panel.
 
 <script>
 (function () {
+  // These handlers are delegated on `document`, so they keep working across
+  // in-page navigations. Bind them once; this script re-runs on every visit.
+  if (window.__raModalBound) { return; }
+  window.__raModalBound = true;
+
   var openModal = null;
   var lastTrigger = null;
 
@@ -638,9 +643,3 @@ document.addEventListener('DOMContentLoaded', function() {
 # 📝 Service
 - **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics, PLoS Computational Biology;
 - **Conference reviewer**: AAAI 2026 2027, NeurIPS 2026;
-
-
-# 🌎 Miscellaneous
-Outside of work, you’ll often find me at gym, playing soccer, road cycling, or go hiking. 
-I also enjoy playing table tennis and the piano occasionally.
-
