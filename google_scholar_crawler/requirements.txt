@@ -1,2 +1,5 @@
-jsonpickle==1.4.2
-scholarly==1.5.1
+# Intentionally empty: main.py is stdlib-only.
+#
+# It previously pinned scholarly==1.5.1 / jsonpickle==1.4.2 (both 2020-era),
+# which no longer parse Google Scholar's markup and fail to install on
+# current runners.
