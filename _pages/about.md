@@ -38,11 +38,11 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-drug-title">AI-driven drug discovery</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li><strong>Jiang, S.</strong>, Yang, Z., Taghavi, A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y. (2026). SMARTFlexDB: A database of paired apo&#8211;holo RNA structures for analyzing conformational remodeling and small-molecule recognition. In preparation.</li>
-      <li><strong>Jiang, S.</strong>&#8224;, Taghavi, A.&#8224;, Wang, T., Sung, K., Meyer, S. M., Springer, N. A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y. (2026). Small molecule approach to RNA targeting binder discovery (SMARTBind) using deep learning without structural input [Preprint]. <em>bioRxiv</em>. Under review at <em>Nature Portfolio</em>. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/</a></li>
-      <li>Zheng, X., <strong>Jiang, S.</strong>, Seabra, G., Li, C., &amp; Li, Y. (2026). Apo2Mol: 3D molecule generation via dynamic pocket-aware diffusion models. <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37138">https://ojs.aaai.org/index.php/AAAI/article/view/37138</a></li>
+      <li><strong>Jiang, S.</strong>, Wei, J., Taghavi, A., Seabra, G., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y.&#42; (2026). SMARTFlexDB: A paired apo&#8211;holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition. Under review. <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">https://aidd.rc.ufl.edu/app/smartflexdb/</a></li>
+      <li><strong>Jiang, S.</strong>&#8224;, Taghavi, A.&#8224;, Wang, T., Sung, K., Meyer, S. M., Springer, N. A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y.&#42; (2026). Small molecule approach to RNA targeting binder discovery (SMARTBind) using deep learning without structural input. <em>Nature Communications</em>. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/</a></li>
+      <li>Zheng, X., <strong>Jiang, S.</strong>, Seabra, G., Li, C., &amp; Li, Y.&#42; (2026). Apo2Mol: 3D molecule generation via dynamic pocket-aware diffusion models. <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37138">https://ojs.aaai.org/index.php/AAAI/article/view/37138</a></li>
     </ul>
-    <p class="ra-modal__footnote">&#8224; Equal contribution.</p>
+    <p class="ra-modal__footnote">&#8224; Equal contribution. &#42; Corresponding author.</p>
   </div>
 </div>
 
@@ -53,16 +53,16 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-lm-title">Foundation models for life sciences</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li><strong>Jiang, S.</strong>&#8224;, Fang, Z.&#8224;, Zhang, Y., Zhang, X., Kalfon, J., Wang, W., . . . Ding, J. (2026). The landscape of single-cell foundation models: Design principles, applications, and open challenges [Preprint]. <a href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers">https://github.com/OmicsML/awesome-foundation-model-single-cell-papers</a></li>
-      <li>Ding, J.&#8224;, Lin, J.&#8224;, Miao, Z.&#8224;, Mechtel, N.&#8224;, <strong>Jiang, S.</strong>, Wang, Y., Fang, Z., Martin-Rufino, J. D., Weng, C., Saunders, R., Xu, W., Weissman, J. S., Ouyang, W., Li, M., Tang, J., Lu, Y. R., &amp; Qiu, X. (2026). Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning [Preprint]. <em>arXiv</em>. <a href="https://arxiv.org/abs/2607.19400">https://arxiv.org/abs/2607.19400</a></li>
-      <li>Zhou, X.&#8224;, Han, C.&#8224;, Zhang, Y.&#8224;, Du, H.&#8224;, Tian, J.&#8224;, Su, J.&#8225;, Liu, R.&#8225;, Zhuang, K.&#8225;, <strong>Jiang, S.</strong>&#8225;, Gitter, A., . . . Yuan, F. (2026). Decoding the molecular language of proteins with Evolla [Preprint]. <em>bioRxiv</em>. <a href="https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf">https://doi.org/10.1101/2025.01.05.630192</a></li>
-      <li><strong>Jiang, S.</strong>, Liu, X., &amp; Wang, J. Z. (2026). Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences. <em>ACS Synthetic Biology</em>. <a href="https://pubs.acs.org/doi/10.1021/acssynbio.6c00024">https://doi.org/10.1021/acssynbio.6c00024</a></li>
-      <li>Su, J.&#8224;, He, Y.&#8224;, You, S.&#8224;, <strong>Jiang, S.</strong>, Zhou, X., Zhang, X., Wang, Y., Su, X., Tolstoy, I., Chang, X., Lu, H., &amp; Yuan, F. (2025). A tri-modal protein language model enables advanced protein searches. <em>Nature Biotechnology</em>. <a href="https://www.nature.com/articles/s41587-025-02836-0">https://doi.org/10.1038/s41587-025-02836-0</a></li>
-      <li>Su, J., Li, Z., Tao, T., Han, C., He, Y., Dai, F., Yuan, Q., Gao, Y., Si, T., Zhang, X., Zhou, Y., Shan, J., Zhou, X., Chang, X., <strong>Jiang, S.</strong>, Ma, D., The OPMC, Steinegger, M., Ovchinnikov, S., &amp; Yuan, F. (2025). SaprotHub: Democratizing protein language model training, sharing and collaboration for the biology community. <em>Nature Biotechnology</em>. <a href="https://www.nature.com/articles/s41587-025-02859-7">https://doi.org/10.1038/s41587-025-02859-7</a></li>
-      <li>Ding, J.&#8224;, Lin, J.&#8224;, <strong>Jiang, S.</strong>&#8224;, Wang, Y., Mao, Z., Fang, Z., Tang, J., Li, M., &amp; Qiu, X. (2025). Tabula: A tabular self-supervised foundation model for single-cell transcriptomics. <em>Advances in Neural Information Processing Systems</em>. <a href="https://openreview.net/forum?id=Vk2sfKAdeu">https://openreview.net/forum?id=Vk2sfKAdeu</a></li>
-      <li><strong>Jiang, S.</strong>, Liu, X., &amp; Wang, J. Z. (2025). Predicting function of evolutionarily implausible DNA sequences. <em>ICML 2025 Generative AI and Biology Workshop</em>. <a href="https://icml.cc/virtual/2025/51254">https://icml.cc/virtual/2025/51254</a></li>
+      <li><strong>Jiang, S.</strong>&#8224;, Fang, Z.&#8224;, Zhang, Y., Zhang, X., Kalfon, J., Wang, W., . . . Ding, J.&#42; (2026). The landscape of single-cell foundation models: Design principles, applications, and open challenges [Preprint]. <a href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers">https://github.com/OmicsML/awesome-foundation-model-single-cell-papers</a></li>
+      <li>Ding, J.&#8224;, Lin, J.&#8224;, Miao, Z.&#8224;, Mechtel, N.&#8224;, <strong>Jiang, S.</strong>, Wang, Y., Fang, Z., Martin-Rufino, J. D., Weng, C., Saunders, R., Xu, W., Weissman, J. S., Ouyang, W., Li, M., Tang, J., Lu, Y. R., &amp; Qiu, X.&#42; (2026). Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning [Preprint]. <em>arXiv</em>. <a href="https://arxiv.org/abs/2607.19400">https://arxiv.org/abs/2607.19400</a></li>
+      <li>Zhou, X.&#8224;, Han, C.&#8224;, Zhang, Y.&#8224;, Du, H.&#8224;, Tian, J.&#8224;, Su, J.&#8225;, Liu, R.&#8225;, Zhuang, K.&#8225;, <strong>Jiang, S.</strong>&#8225;, Gitter, A., . . . Yuan, F.&#42; (2026). Decoding the molecular language of proteins with Evolla [Preprint]. <em>bioRxiv</em>. <a href="https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf">https://doi.org/10.1101/2025.01.05.630192</a></li>
+      <li><strong>Jiang, S.</strong>, Liu, X., &amp; Wang, J. Z.&#42; (2026). Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences. <em>ACS Synthetic Biology</em>. <a href="https://pubs.acs.org/doi/10.1021/acssynbio.6c00024">https://doi.org/10.1021/acssynbio.6c00024</a></li>
+      <li>Su, J.&#8224;, He, Y.&#8224;, You, S.&#8224;, <strong>Jiang, S.</strong>, Zhou, X., Zhang, X., Wang, Y., Su, X., Tolstoy, I., Chang, X., Lu, H., &amp; Yuan, F.&#42; (2025). A tri-modal protein language model enables advanced protein searches. <em>Nature Biotechnology</em>. <a href="https://www.nature.com/articles/s41587-025-02836-0">https://doi.org/10.1038/s41587-025-02836-0</a></li>
+      <li>Su, J., Li, Z., Tao, T., Han, C., He, Y., Dai, F., Yuan, Q., Gao, Y., Si, T., Zhang, X., Zhou, Y., Shan, J., Zhou, X., Chang, X., <strong>Jiang, S.</strong>, Ma, D., The OPMC, Steinegger, M., Ovchinnikov, S., &amp; Yuan, F.&#42; (2025). SaprotHub: Democratizing protein language model training, sharing and collaboration for the biology community. <em>Nature Biotechnology</em>. <a href="https://www.nature.com/articles/s41587-025-02859-7">https://doi.org/10.1038/s41587-025-02859-7</a></li>
+      <li>Ding, J.&#8224;, Lin, J.&#8224;, <strong>Jiang, S.</strong>&#8224;, Wang, Y., Mao, Z., Fang, Z., Tang, J., Li, M., &amp; Qiu, X.&#42; (2025). Tabula: A tabular self-supervised foundation model for single-cell transcriptomics. <em>Advances in Neural Information Processing Systems</em>. <a href="https://openreview.net/forum?id=Vk2sfKAdeu">https://openreview.net/forum?id=Vk2sfKAdeu</a></li>
+      <li><strong>Jiang, S.</strong>, Liu, X., &amp; Wang, J. Z.&#42; (2025). Predicting function of evolutionarily implausible DNA sequences. <em>ICML 2025 Generative AI and Biology Workshop</em>. <a href="https://icml.cc/virtual/2025/51254">https://icml.cc/virtual/2025/51254</a></li>
     </ul>
-    <p class="ra-modal__footnote">&#8224; Equal contribution. &#8225; Equal secondary contribution.</p>
+    <p class="ra-modal__footnote">&#8224; Equal contribution. &#8225; Equal secondary contribution. &#42; Corresponding author.</p>
   </div>
 </div>
 
@@ -73,15 +73,15 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-exp-title">Experiment-driven protein and cellular engineering</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li>Cheng, L.&#8224;, Zheng, X.&#8224;, Ding, H.&#8224;, <strong>Jiang, S.</strong>, Hu, Y., Wang, C., Li, C.-L., Tian, Z., Leeuwon, R. J., Rui, J., Ye, H., Yuan, T., Liu, Y., Yang, K., Zhou, B., Huang, X., &amp; Xiao, H. (2026). Sequence Display generates large-scale sequence&#8211;activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs. <em>Nature Communications</em>. Accepted in principle.</li>
-      <li>Cheng, L.&#8224;, Zheng, X.&#8224;, <strong>Jiang, S.</strong>&#8224;, Hu, Y., Liu, Y., Yang, K., Rui, J., Ding, H., Zhang, M., Yuan, T., Ye, H., Li, C., Yang, K. K., Huang, X., &amp; Xiao, H. (2026). Sequence Display: Generating large-scale sequence&#8211;activity datasets to advance universal protein evolution. <em>Nature Biotechnology</em>. <a href="https://www.nature.com/articles/s41587-026-03087-3">https://doi.org/10.1038/s41587-026-03087-3</a></li>
-      <li>Yuan, T., Zhang, M., Cheng, L., Zheng, X., <strong>Jiang, S.</strong>, Huang, X., &amp; Xiao, H. (2025). Biocatalytic synthesis of N-protected &#945;-amino acids through 1,3-nitrogen migration by nonheme iron enzymes. <em>Journal of the American Chemical Society</em>, 147(48), 44041&#8211;44047. <a href="https://pubs.acs.org/doi/10.1021/jacs.5c11008">https://doi.org/10.1021/jacs.5c11008</a></li>
-      <li>Hu, Y., Wang, Yixian, Cheng, L., Wang, C., Liu, Y., Wang, Yufei, Chen, Y., Yang, S., Guo, Y., <strong>Jiang, S.</strong>, Yang, K., &amp; Xiao, H. (2025). Engineering unnatural cells with a 21st amino acid as a living epigenetic sensor. <em>Nature Communications</em>, 16, 9388. <a href="https://www.nature.com/articles/s41467-025-64448-1">https://doi.org/10.1038/s41467-025-64448-1</a></li>
-      <li>Hu, Y.&#8224;, Cheng, L.&#8224;, Liu, Y., Liu, R., <strong>Jiang, S.</strong>, Yuan, T., Wang, Y., Ye, H., &amp; Xiao, H. (2025). Biosynthesis of unnatural cyclodipeptides through genetic code expansion and cyclodipeptide synthase evolution. <em>Journal of the American Chemical Society</em>. <a href="https://pubs.acs.org/doi/10.1021/jacs.5c08627">https://doi.org/10.1021/jacs.5c08627</a></li>
-      <li>Guo, Y.&#8224;, Cheng, L.&#8224;, Hu, Y., Zhang, M., Liu, R., Wang, Y., <strong>Jiang, S.</strong>, &amp; Xiao, H. (2024). Biosynthesis of halogenated tryptophans for protein engineering using genetic code expansion. <em>ChemBioChem</em>, 25(20), e202400366. <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202400366">https://doi.org/10.1002/cbic.202400366</a></li>
-      <li>Ye, H., <strong>Jiang, S.</strong>, Yan, Y., Zhao, B., Grant, E. R., Kitts, D. D., Yada, R. Y., Pratap-Singh, A., Baldelli, A., &amp; Yang, T. (2024). Integrating metal&#8211;phenolic networks-mediated separation and machine learning-aided surface-enhanced Raman spectroscopy for accurate nanoplastics quantification and classification. <em>ACS Nano</em>. <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316">https://doi.org/10.1021/acsnano.4c08316</a></li>
+      <li>Cheng, L.&#8224;, Zheng, X.&#8224;, Ding, H.&#8224;, <strong>Jiang, S.</strong>, Hu, Y., Wang, C., Li, C.-L., Tian, Z., Leeuwon, R. J., Rui, J., Ye, H., Yuan, T., Liu, Y., Yang, K., Zhou, B., Huang, X., &amp; Xiao, H.&#42; (2026). Sequence Display generates large-scale sequence&#8211;activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs. <em>Nature Communications</em>. Accepted in principle.</li>
+      <li>Cheng, L.&#8224;, Zheng, X.&#8224;, <strong>Jiang, S.</strong>&#8224;, Hu, Y., Liu, Y., Yang, K., Rui, J., Ding, H., Zhang, M., Yuan, T., Ye, H., Li, C., Yang, K. K., Huang, X., &amp; Xiao, H.&#42; (2026). Sequence Display: Generating large-scale sequence&#8211;activity datasets to advance universal protein evolution. <em>Nature Biotechnology</em>. <a href="https://www.nature.com/articles/s41587-026-03087-3">https://doi.org/10.1038/s41587-026-03087-3</a></li>
+      <li>Yuan, T., Zhang, M., Cheng, L., Zheng, X., <strong>Jiang, S.</strong>, Huang, X., &amp; Xiao, H.&#42; (2025). Biocatalytic synthesis of N-protected &#945;-amino acids through 1,3-nitrogen migration by nonheme iron enzymes. <em>Journal of the American Chemical Society</em>, 147(48), 44041&#8211;44047. <a href="https://pubs.acs.org/doi/10.1021/jacs.5c11008">https://doi.org/10.1021/jacs.5c11008</a></li>
+      <li>Hu, Y., Wang, Yixian, Cheng, L., Wang, C., Liu, Y., Wang, Yufei, Chen, Y., Yang, S., Guo, Y., <strong>Jiang, S.</strong>, Yang, K., &amp; Xiao, H.&#42; (2025). Engineering unnatural cells with a 21st amino acid as a living epigenetic sensor. <em>Nature Communications</em>, 16, 9388. <a href="https://www.nature.com/articles/s41467-025-64448-1">https://doi.org/10.1038/s41467-025-64448-1</a></li>
+      <li>Hu, Y.&#8224;, Cheng, L.&#8224;, Liu, Y., Liu, R., <strong>Jiang, S.</strong>, Yuan, T., Wang, Y., Ye, H., &amp; Xiao, H.&#42; (2025). Biosynthesis of unnatural cyclodipeptides through genetic code expansion and cyclodipeptide synthase evolution. <em>Journal of the American Chemical Society</em>. <a href="https://pubs.acs.org/doi/10.1021/jacs.5c08627">https://doi.org/10.1021/jacs.5c08627</a></li>
+      <li>Guo, Y.&#8224;, Cheng, L.&#8224;, Hu, Y., Zhang, M., Liu, R., Wang, Y., <strong>Jiang, S.</strong>, &amp; Xiao, H.&#42; (2024). Biosynthesis of halogenated tryptophans for protein engineering using genetic code expansion. <em>ChemBioChem</em>, 25(20), e202400366. <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202400366">https://doi.org/10.1002/cbic.202400366</a></li>
+      <li>Ye, H., <strong>Jiang, S.</strong>, Yan, Y., Zhao, B., Grant, E. R., Kitts, D. D., Yada, R. Y., Pratap-Singh, A., Baldelli, A., &amp; Yang, T.&#42; (2024). Integrating metal&#8211;phenolic networks-mediated separation and machine learning-aided surface-enhanced Raman spectroscopy for accurate nanoplastics quantification and classification. <em>ACS Nano</em>. <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316">https://doi.org/10.1021/acsnano.4c08316</a></li>
     </ul>
-    <p class="ra-modal__footnote">&#8224; Equal contribution.</p>
+    <p class="ra-modal__footnote">&#8224; Equal contribution. &#42; Corresponding author.</p>
   </div>
 </div>
 
@@ -137,9 +137,9 @@ across these fields, you can find them in the experience panel.
 
 # 📰 News
 <!-- - *2026.08*: One first authored paper "SMARTFlexDB: a database of paired apo-holo RNA structures for analyzing conformational remodeling and small-molecule recognition" is released on ***[bioRxiv]()***. -->
+<!-- - *2026.09*: One first authored paper "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is accepted by ***[Nature Communications]()***! -->
 - *2026.08*: One first authored paper "The landscape of single-cell foundation models: design principles, applications, and open challenges" is released as a ***[preprint](https://www.preprints.org/manuscript/202608.1166)***.
 - *2026.08*: One co-authored paper "Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs" is accepted by ***[Nature Communications]()***!
-<!-- - *2026.08*: One first authored paper "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is accepted by ***[Nature Communications]()***! -->
 - *2026.07*: One co-authored paper "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning" is released on [arXiv](https://arxiv.org/abs/2607.19400). Check out our [post](https://x.com/Xiaojie_Qiu/status/2077456094696456192).
 - *2026.05*: One first authored paper "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" is accepted by ***[ACS Synthetic Biology](https://pubs.acs.org/doi/10.1021/acssynbio.6c00024)***!
 - *2026.05*: Our sequence display paper is featured as a research highlight in ***[Nature Methods](https://www.nature.com/articles/s41592-026-03106-w)*** and [Rice News](https://news.rice.edu/news/2026/scientists-uncover-new-method-generate-protein-datasets-training-ai)!
@@ -194,12 +194,41 @@ function toggleAllPublications() {
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition]()
+
+**Shiyu Jiang**, Jinhang Wei, Amirhossein Taghavi, Gustavo Seabra, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li &#42;. 2026. (Under Review)
+
+<div class="paper-link-buttons">
+  <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">Web server</a>
+</div>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/)
+
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Kisu Sung, Samantha M. Meyer, Noah A. Springer, Jinhang Wei, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney &#42;, Yanjun Li &#42;. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
+
+<div class="paper-link-buttons">
+  <a class="star-badge" href="https://github.com/AIDD-LiLab/SMARTBind"><img src="https://img.shields.io/github/stars/AIDD-LiLab/SMARTBind?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qxL8FJ1GzNcC">Citations</span>
+</div>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/scfm_review.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The landscape of single-cell foundation models: design principles, applications, and open challenges](https://www.preprints.org/manuscript/202608.1166)
 
-**Shiyu Jiang** †, Zhaoyu Fang †, Yujie Zhang, Xuting Zhang, Jérémie Kalfon, Weixu Wang, Xi Fu, Aakash Patel, Syed Rizvi, Yuancheng Ryan Lu, Siyu He, Yixin Wang, Kejun Ying, Peter Pao-Huang, Yifan Lu, Weize Xu, Mengchen Wang, Ziyang Miao, Jianhui Lin, Jimmy Ding, Zitong Jerry Wang, Wei Ouyang, Tianlong Chen, Guoxian Yu, Min Li, Jiayi Ma, Fei Wang, Yuying Xie, Jiliang Tang, Raul Rabadan, David van Dijk, Pengtao Xie, Peng He, Emily B. Fox, Le Song, Fabian J. Theis, Eric Xing, Christina V. Theodoris, Xiaojie Qiu, Jiayuan Ding. Preprint, 2026.
+**Shiyu Jiang** †, Zhaoyu Fang †, Yujie Zhang, Xuting Zhang, Jérémie Kalfon, Weixu Wang, Xi Fu, Aakash Patel, Syed Rizvi, Yuancheng Ryan Lu, Siyu He, Yixin Wang, Kejun Ying, Peter Pao-Huang, Yifan Lu, Weize Xu, Mengchen Wang, Ziyang Miao, Jianhui Lin, Jimmy Ding, Zitong Jerry Wang, Wei Ouyang, Tianlong Chen, Guoxian Yu, Min Li, Jiayi Ma, Fei Wang, Yuying Xie, Jiliang Tang, Raul Rabadan, David van Dijk, Pengtao Xie, Peng He, Emily B. Fox, Le Song, Fabian J. Theis, Eric Xing, Christina V. Theodoris &#42;, Xiaojie Qiu &#42;, Jiayuan Ding &#42;. Preprint, 2026. (Under review)
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/OmicsML/awesome-foundation-model-single-cell-papers"><img src="https://img.shields.io/github/stars/OmicsML/awesome-foundation-model-single-cell-papers?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -213,7 +242,7 @@ function toggleAllPublications() {
 
 [Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning](https://arxiv.org/abs/2607.19400)
 
-Jiayuan Ding †, Jianhui Lin †, Ziyang Miao †, Nils Mechtel †, **Shiyu Jiang**, Yixin Wang, Zhaoyu Fang, Jorge D. Martin-Rufino, Chen Weng, Reuben Saunders, Weize Xu, Jonathan S. Weissman, Wei Ouyang, Min Li, Jiliang Tang, Yuancheng Ryan Lu, Xiaojie Qiu. *arXiv*, 2026. (Under Review at ***Nature Portfolio***)
+Jiayuan Ding †, Jianhui Lin †, Ziyang Miao †, Nils Mechtel †, **Shiyu Jiang**, Yixin Wang, Zhaoyu Fang, Jorge D. Martin-Rufino, Chen Weng, Reuben Saunders, Weize Xu, Jonathan S. Weissman, Min Li &#42;, Jiliang Tang &#42;, Wei Ouyang &#42;, Yuancheng Ryan Lu &#42;, Xiaojie Qiu &#42;. *arXiv*, 2026. (Under Review at ***Nature Portfolio***)
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/aristoteleo/tabula"><img src="https://img.shields.io/github/stars/aristoteleo/tabula?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -229,26 +258,11 @@ Jiayuan Ding †, Jianhui Lin †, Ziyang Miao †, Nils Mechtel †, **Shiyu Ji
 
 [Decoding the Molecular Language of Proteins with Evolla](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v4.full.pdf)
 
-Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu, Hongyuan Lu, Fajie Yuan. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
+Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †, Jin Su ‡, Renju Liu ‡, Kai Zhuang ‡, **Shiyu Jiang** ‡, Anthony Gitter, ..., Zongze Zhao, Yang Liu &#42;, Hongyuan Lu &#42;, Fajie Yuan &#42;. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/westlake-repl/Evolla"><img src="https://img.shields.io/github/stars/westlake-repl/Evolla?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
   <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:kNdYIx-mwKoC">Citations</span>
-</div>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/)
-
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Kisu Sung, Samantha M. Meyer, Noah A. Springer, Jinhang Wei, Jessica L. Childs-Disney, Chenglong Li, Mattew D. Disney, Yanjun Li. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
-
-<div class="paper-link-buttons">
-  <a class="star-badge" href="https://github.com/AIDD-LiLab/SMARTBind"><img src="https://img.shields.io/github/stars/AIDD-LiLab/SMARTBind?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
-  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qxL8FJ1GzNcC">Citations</span>
 </div>
 </div>
 </div>
@@ -259,7 +273,7 @@ Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †
 
 [Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs]()
 
-Linqi Cheng †, Xinzhe Zheng †, Haoxue Ding †, **Shiyu Jiang**, Yu Hu, Chenhang Wang, Chen-Long Li, Zuotong Tian, Rain Jay Leeuwon, Jinyan Rui, Haoxin Ye, Teng Yuan, Yijie Liu, Kaiqiang Yang, Boyang Zhou, Xiongyi Huang, Han Xiao. *Nature Communications*, 2026. (Accepted in principle)
+Linqi Cheng †, Xinzhe Zheng †, Haoxue Ding †, **Shiyu Jiang**, Yu Hu, Chenhang Wang, Chen-Long Li, Zuotong Tian, Rain Jay Leeuwon, Jinyan Rui, Haoxin Ye, Teng Yuan, Yijie Liu, Kaiqiang Yang, Boyang Zhou, Xiongyi Huang &#42;, Han Xiao &#42;. *Nature Communications*, 2026. (Accepted in principle)
 
 </div>
 </div>
@@ -270,7 +284,7 @@ Linqi Cheng †, Xinzhe Zheng †, Haoxue Ding †, **Shiyu Jiang**, Yu Hu, Chen
 
 [Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences](https://pubs.acs.org/doi/10.1021/acssynbio.6c00024)
 
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ACS Synthetic Biology*, 2026.
+**Shiyu Jiang** &#42;, Xuyin Liu, Jerry Zitong Wang &#42;. *ACS Synthetic Biology*, 2026.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/cellethology/GLM-Nullsette-Benchmark"><img src="https://img.shields.io/github/stars/cellethology/GLM-Nullsette-Benchmark?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -286,7 +300,7 @@ Linqi Cheng †, Xinzhe Zheng †, Haoxue Ding †, **Shiyu Jiang**, Yu Hu, Chen
 
 [Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution](https://www.nature.com/articles/s41587-026-03087-3)
 
-Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang, Han Xiao. *Nature Biotechnology*, 2026.
+Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui J, Ding H, Zhang M, Yuan T, Ye H, Li C, Kevin K. Yang, Xiongyi Huang &#42;, Han Xiao &#42;. *Nature Biotechnology*, 2026.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/SophieSarceau/SequenceDisplay-ML"><img src="https://img.shields.io/github/stars/SophieSarceau/SequenceDisplay-ML?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -307,7 +321,7 @@ Linqi Cheng †, Xinzhe Zheng †, **Shiyu Jiang** †, Hu Y, Liu Y, Yang K, Rui
 
 [Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/37138)
 
-Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (poster)*, 2026.
+Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li &#42;. *AAAI (poster)*, 2026.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/AIDD-LiLab/Apo2Mol"><img src="https://img.shields.io/github/stars/AIDD-LiLab/Apo2Mol?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -327,7 +341,7 @@ Xinzhe Zheng, **Shiyu Jiang**, Gustavo Seabra, Chenglong Li, Yanjun Li. *AAAI (p
 
 [Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics](https://openreview.net/forum?id=Vk2sfKAdeu)
 
-Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang, Min Li, Xiaojie Qiu. *NeurIPS* (poster), 2025.
+Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, Zhaoyu Fang, Jiliang Tang &#42;, Min Li &#42;, Xiaojie Qiu &#42;. *NeurIPS* (poster), 2025.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/aristoteleo/tabula"><img src="https://img.shields.io/github/stars/aristoteleo/tabula?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -341,7 +355,7 @@ Jiayuan Ding †, Jianhui Lin †, **Shiyu Jiang** †, Yixin Wang, Ziyang Mao, 
 
 [Biosynthesis of Unnatural Cyclodipeptides through Genetic Code Expansion and Cyclodipeptide Synthase Evolution](https://pubs.acs.org/doi/10.1021/jacs.5c08627)
 
-Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. *Journal of the American Chemical Society*, 2025.
+Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H &#42;. *Journal of the American Chemical Society*, 2025.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/linqicheng-xiao/gmx_mmpbsa_py"><img src="https://img.shields.io/github/stars/linqicheng-xiao/gmx_mmpbsa_py?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -355,7 +369,7 @@ Hu Y †, Cheng L †, Liu Y, Liu R, **Jiang S**, Yuan T, Wang Y, Ye H, Xiao H. 
 
 [A tri-modal protein language model enables advanced protein searches](https://www.nature.com/articles/s41587-025-02836-0)
 
-Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang**, Xibin Zhou, Xuting Zhang, Yuxuan Wang, Xining Su, Igor Tolstoy, Xing Chang, Hongyuan Lu, Fajie Yuan. *Nature Biotechnology*, 2025.
+Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang**, Xibin Zhou, Xuting Zhang, Yuxuan Wang, Xining Su, Igor Tolstoy, Xing Chang, Hongyuan Lu, Fajie Yuan &#42;. *Nature Biotechnology*, 2025.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/westlake-repl/ProTrek"><img src="https://img.shields.io/github/stars/westlake-repl/ProTrek?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -370,7 +384,7 @@ Jin Su †, Yan He †, Shiyang You †, **Shiyu Jiang**, Xibin Zhou, Xuting Zha
 
 [SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community](https://www.nature.com/articles/s41587-025-02859-7)
 
-Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan, Yuan Gao, Tong Si, Xuting Zhang, Yuyang Zhou, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025.
+Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan, Yuan Gao, Tong Si, Xuting Zhang, Yuyang Zhou, Junjie Shan, Xibin Zhou, Xing Chang, **Shiyu Jiang**, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan &#42;. *Nature Biotechnology*, 2025.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file"><img src="https://img.shields.io/github/stars/westlake-repl/SaprotHub?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -386,7 +400,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 
 [Predicting function of evolutionarily implausible DNA sequences](https://icml.cc/virtual/2025/51254)
 
-**Shiyu Jiang**, Xuyin Liu, Jerry Zitong Wang. *ICML 2025 Generative AI and Biology Workshop*, 2025.
+**Shiyu Jiang** &#42;, Xuyin Liu, Jerry Zitong Wang &#42;. *ICML 2025 Generative AI and Biology Workshop*, 2025.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/cellethology/GLM-Nullsette-Benchmark"><img src="https://img.shields.io/github/stars/cellethology/GLM-Nullsette-Benchmark?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -405,7 +419,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, Fengyuan Dai, Qingyan Yuan,
 
 [Integrating Metal–Phenolic Networks-Mediated Separation and Machine Learning-Aided Surface-Enhanced Raman Spectroscopy for Accurate Nanoplastics Quantification and Classification](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c08316)
 
-Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Rickey Y Yada, Anubhav Pratap-Singh, Alberto Baldelli, Tianxi Yang. *ACS Nano*, 2024.
+Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Rickey Y Yada, Anubhav Pratap-Singh, Alberto Baldelli, Tianxi Yang &#42;. *ACS Nano*, 2024.
 
 <div class="paper-link-buttons">
   <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:_FxGoFyzp5QC">Citations</span>
@@ -424,7 +438,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 [Simulating Disease Spread During Disaster Scenarios](https://direct.mit.edu/isal/proceedings/isal/35/123/116938)
 
-**Shiyu Jiang**, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
+**Shiyu Jiang** &#42;, Heejoong Kim, Fabio Henrique Tanaka, Claus Aranha &#42;, Anna Bogdanova, Kimia Ghobadi, Anton Dahbura. *The International Conference on Artificial Life*, 2023.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/caranha/Koudou/tree/ALIFE_2023"><img src="https://img.shields.io/github/stars/caranha/Koudou?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -443,7 +457,7 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 [HNOXPred: a web tool for the prediction of gas-sensing H-NOX proteins from amino acid sequence](https://academic.oup.com/bioinformatics/article/38/19/4643/6673135)
 
-**Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong. *Bioinformatics*, 2022.
+**Shiyu Jiang**, Hemn Barzan Abdalla, Chuyun Bi, Yi Zhu, Xuechen Tian, Yixin Yang, Aloysius Wong &#42;. *Bioinformatics*, 2022.
 
 <div class="paper-link-buttons">
   <a class="star-badge" href="https://github.com/JasonJiangs/HNOX_Pred"><img src="https://img.shields.io/github/stars/JasonJiangs/HNOX_Pred?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
@@ -467,52 +481,48 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
     <li class="timeline-item-edu">
         <div class="timeline-icon">
-            <img src="images/WLU_logo.png" alt="WLU Logo">
-        </div>
-        <div class="timeline-content-edu">
-            <p class="date">2024.08 - 2025.06</p>
-            <h4 class="title">Research Associate</h4>
-            <p class="date">Development and evaluation of protein/genomic language model | Advisor: <a href="https://fajieyuan.github.io/" target="_blank">Prof. Fajie Yuan</a> & <a href="https://www.cellethology.org/" target="_blank">Dr. Zitong Jerry Wang</a></p>
-            <p class="school"><a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Engineering & Center for Interdisciplinary Studies, School of Science</p>
-        </div>
-    </li>
-
-    <li class="timeline-item-edu">
-        <div class="timeline-icon">
             <img src="images/rice_logo.png" alt="RiceU Logo">
         </div>
         <div class="timeline-content-edu">
-            <p class="date">2023 - 2025</p>
+            <p class="date">2023 - 2026</p>
             <h4 class="title">Remote Research Assistant</h4>
             <p class="date">Protein language model driven protein evolution with sequence display | Advisor: <a href="https://xiao.rice.edu/" target="_blank">Prof. Han Xiao</a></p>
             <p class="school"><a href="https://chemistry.rice.edu/" target="_blank">Rice University</a>, Department of Chemistry</p>
         </div>
     </li>
-
     <li class="timeline-item-edu">
         <div class="timeline-icon">
             <img src="images/UF_logo.png" alt="UF Logo">
         </div>
         <div class="timeline-content-edu">
-            <p class="date">2023 - 2025</p>
+            <p class="date">2023 - 2026</p>
             <h4 class="title">Remote Research Assistant</h4>
-            <p class="date">RNA-small molecule drug discovery and protein-molecule generation | Advisor: <a href="https://yanjun-li.com/" target="_blank">Prof. Yanjun Li</a> & <a href="https://disney.scripps.ufl.edu/" target="_blank">Prof. Matthew D. Disney</a></p>
+            <p class="date">RNA-small molecule drug discovery and protein-molecular generation | Advisor: <a href="https://yanjun-li.com/" target="_blank">Prof. Yanjun Li</a> & <a href="https://disney.scripps.ufl.edu/" target="_blank">Prof. Matthew D. Disney</a></p>
             <p class="school"><a href="https://pharmacy.ufl.edu/" target="_blank">University of Florida</a>, College of Pharmacy & <a href="https://wertheim.scripps.ufl.edu/" target="_blank">UF Scripps Institute</a>, Department of Chemistry</p>
         </div>
     </li>
-
     <li class="timeline-item-edu">
         <div class="timeline-icon">
             <img src="images/STF_logo.png" alt="Stanford Logo">
         </div>
         <div class="timeline-content-edu">
-            <p class="date">2023 - 2025</p>
+            <p class="date">2023 - 2026</p>
             <h4 class="title">Remote Research Assistant</h4>
-            <p class="date">Foundation model for single-cell transcriptomics | Advisor: <a href="https://www.devo-evo.com/" target="_blank">Prof. Xiaojie Qiu</a></p>
+            <p class="date">Foundation model for single-cell multi-omics and perturbational biology | Advisor: <a href="https://www.devo-evo.com/" target="_blank">Prof. Xiaojie Qiu</a></p>
             <p class="school"><a href="https://med.stanford.edu/genetics.html?tab=proxy" target="_blank">Stanford University</a>, Department of Genetics</p>
         </div>
     </li>
-
+    <li class="timeline-item-edu">
+        <div class="timeline-icon">
+            <img src="images/WLU_logo.png" alt="WLU Logo">
+        </div>
+        <div class="timeline-content-edu">
+            <p class="date">2024.08 - 2025.06</p>
+            <h4 class="title">Research Associate</h4>
+            <p class="date">Development and evaluation of protein language model and genomic language model | Advisor: <a href="https://fajieyuan.github.io/" target="_blank">Prof. Fajie Yuan</a> & <a href="https://www.cellethology.org/" target="_blank">Dr. Zitong Jerry Wang</a></p>
+            <p class="school"><a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, School of Engineering & Center for Interdisciplinary Studies, School of Science</p>
+        </div>
+    </li>
     <li class="timeline-item-edu">
         <div class="timeline-icon">
             <img src="images/UVA_logo.png" alt="UVA Logo">
@@ -520,11 +530,10 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
         <div class="timeline-content-edu">
             <p class="date">2024.01 - 2024.07</p>
             <h4 class="title">Lab Specialist</h4>
-            <p class="date">ChIP-Seq peak calling tool | Advisor: <a href="https://zanglab.github.io/index.htm" target="_blank">Prof. Chongzhi Zang</a></p>
+            <p class="date">ChIP-Seq peak calling tool development | Advisor: <a href="https://zanglab.github.io/index.htm" target="_blank">Prof. Chongzhi Zang</a></p>
             <p class="school"><a href="https://med.virginia.edu/genome-sciences/" target="_blank">University of Virginia</a>, Department of Genome Sciences</p>
         </div>
     </li>
-
     <li class="timeline-item-edu">
         <div class="timeline-icon">
             <img src="images/AlibabaCloud_logo.png" alt="Alibaba Cloud Logo">
@@ -535,7 +544,6 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
             <p class="school"><a href="https://www.alibabacloud.com/en?_p_lc=5" target="_blank">Alibaba Cloud</a> </p>
         </div>
     </li>
-
     <li class="timeline-item-edu">
         <div class="timeline-icon">
             <img src="images/WKU_logo.png" alt="WKU Logo">

@@ -12,7 +12,8 @@ author_profile: true
   </p>
   <p>
     I once drove from Los Angeles all the way to Florida on a cross-country road trip across the US.
-    I have also climbed Mount Siguniang (四姑娘山) and Aotaina Snow Mountain (奥太娜雪山) in China,
+    I have also climbed <a href="https://en.wikipedia.org/wiki/Mount_Siguniang" target="_blank" rel="noopener">Mount Siguniang (四姑娘山)</a> and
+          <a href="https://en.wikipedia.org/wiki/Heishui_County" target="_blank" rel="noopener">Aotaina Snow Mountain (奥太娜雪山)</a> in China,
     and I hope to climb many more in the future.
   </p>
   <p>
