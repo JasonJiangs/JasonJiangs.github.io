@@ -111,6 +111,9 @@ h1:before, .anchor:before {
 .paper-link-buttons {
     display: flex;
     flex-wrap: wrap;
+    // Without this the default `stretch` inflates the shields.io anchors to the
+    // tallest item in the row, leaving the 20px image floating at the top.
+    align-items: center;
     gap: .45rem;
     margin-top: .85rem;
 
@@ -119,15 +122,20 @@ h1:before, .anchor:before {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        min-height: 2rem;
-        padding: .35rem .75rem;
+        box-sizing: border-box;
+        // 20px matches the shields.io badges and the cite badge, so every chip
+        // in the row shares one baseline and one height.
+        height: 20px;
+        min-height: 0;
+        padding: 0 .5rem;
         border: 1px solid #d0d7de;
         border-radius: 4px;
         background: #fff;
         color: #00369f;
-        font-size: .85em;
+        font-size: .8em;
         font-weight: 600;
-        line-height: 1.2;
+        line-height: 1;
+        white-space: nowrap;
         text-decoration: none;
         box-shadow: 0 1px 2px rgba(0, 0, 0, .04);
     }
@@ -464,7 +472,7 @@ $line-width: 3px;
 
 .timeline-content-edu .date { font-weight: 500; color: #555; font-size: .9em; margin-bottom: 5px; }
 .timeline-content-edu .title { font-weight: bold; font-size: 1em; margin: 0; }
-.timeline-content-edu .school { font-weight: 400; margin: 5px 0 0 0; color: #3498db; }
+.timeline-content-edu .school { font-weight: 400; font-size: .9em; margin: 5px 0 0 0; color: #3498db; }
 .timeline-content-edu a { text-decoration: none; color: #3498db; }
 .timeline-content-edu a:hover { text-decoration: underline; }
 
