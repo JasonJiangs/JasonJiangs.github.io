@@ -1,3 +1,13 @@
 _site/
+.bundle/
+.gems/
 push.sh
 .DS_Store
+
+# Editor / IDE
+.idea/
+
+# Local working directories (not part of the published site)
+research/
+tools/
+.github/slides_feedback.md
