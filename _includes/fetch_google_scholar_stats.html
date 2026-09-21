@@ -12,6 +12,15 @@
     var remoteUrl = gsDataBaseUrl + "google-scholar-stats/gs_data.json"
     var localUrl = "{{ '/assets/gs_data.json' | relative_url }}"
 
+    // jsDelivr serves this file with `max-age=604800`, so a returning visitor's
+    // browser keeps the old counts for a week and a normal refresh never hits
+    // the network. The bucket changes hourly: fresh enough to track the twice-
+    // daily crawler, stable enough that the CDN edge and the browser can still
+    // cache within the hour.
+    function noStale(url) {
+        return url + (url.indexOf('?') === -1 ? '?' : '&') + 't=' + Math.floor(Date.now() / 3600000)
+    }
+
     // Fetched once per session and replayed on later visits, so navigating back
     // to the homepage through the in-page router costs no extra request.
     var cachedData = null
@@ -92,10 +101,10 @@
         if (!citationEls().length && !document.getElementById('total_cit')) { return }
         if (cachedData) { render(cachedData); return }
 
-        $.getJSON(remoteUrl)
+        $.getJSON(noStale(remoteUrl))
             .done(render)
             .fail(function () {
-                $.getJSON(localUrl).done(render).fail(hideCitationElements)
+                $.getJSON(noStale(localUrl)).done(render).fail(hideCitationElements)
             })
     }
 
