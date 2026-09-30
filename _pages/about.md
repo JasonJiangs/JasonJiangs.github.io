@@ -134,7 +134,7 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2026.09*: One first authored paper "SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition" is accepted by ***[Nucleic Acids Research]()***!
+- *2026.09*: One first authored paper "SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition" is accepted by ***[Nucleic Acids Research]()***! Check out our [website](https://aidd.rc.ufl.edu/app/smartflexdb/).
 - *2026.08*: One first authored paper "The landscape of single-cell foundation models: design principles, applications, and open challenges" is released as a ***[preprint](https://www.preprints.org/manuscript/202608.1166)***.
 - *2026.08*: One co-authored paper "Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs" is accepted by ***[Nature Communications]()***!
 - *2026.07*: One co-authored paper "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning" is released on ***[arXiv](https://arxiv.org/abs/2607.19400)***. Check out our [post](https://x.com/Xiaojie_Qiu/status/2077456094696456192).
