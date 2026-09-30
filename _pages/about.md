@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-Hi! my name is Shiyu Jiang. I am currently a PhD student in computer science at the University of Florida working 
+Hi! My name is Shiyu Jiang. I am currently a PhD student in computer science at the University of Florida working 
 with [Prof. Yanjun Li](https://pharmacy.ufl.edu/profile/li-yanjun/) and [Prof. Matthew Disney](https://wertheim.scripps.ufl.edu/profile/disney-matthew/#page).
 My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
 in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on those areas: <br>
@@ -38,8 +38,8 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-drug-title">AI-driven drug discovery</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li><strong>Jiang, S.</strong>, Wei, J., Taghavi, A., Seabra, G., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y.&#42; (2026). SMARTFlexDB: A paired apo&#8211;holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition. Under review. <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">https://aidd.rc.ufl.edu/app/smartflexdb/</a></li>
-      <li><strong>Jiang, S.</strong>&#8224;, Taghavi, A.&#8224;, Wang, T., Sung, K., Meyer, S. M., Springer, N. A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D.&#42;, &amp; Li, Y.&#42; (2026). Small molecule approach to RNA targeting binder discovery (SMARTBind) using deep learning without structural input. <em>bioRxiv</em>. Under review. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/</a></li>
+      <li><strong>Jiang, S.</strong>, Wei, J., Taghavi, A., Seabra, G., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y.&#42; (2026). SMARTFlexDB: A paired apo&#8211;holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition. <em>Nucleic Acids Research</em>. <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">https://aidd.rc.ufl.edu/app/smartflexdb/</a></li>
+      <li><strong>Jiang, S.</strong>&#8224;, Taghavi, A.&#8224;, Wang, T., Sung, K., Meyer, S. M., Springer, N. A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D.&#42;, &amp; Li, Y.&#42; (2026). Small molecule approach to RNA targeting binder discovery (SMARTBind) using deep learning without structural input. <em>bioRxiv</em>. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/</a></li>
       <li>Zheng, X., <strong>Jiang, S.</strong>, Seabra, G., Li, C., &amp; Li, Y.&#42; (2026). Apo2Mol: 3D molecule generation via dynamic pocket-aware diffusion models. <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37138">https://ojs.aaai.org/index.php/AAAI/article/view/37138</a></li>
     </ul>
     <p class="ra-modal__footnote">&#8224; Equal contribution. &#42; Corresponding author.</p>
@@ -87,8 +87,6 @@ across these fields, you can find them in the experience panel.
 
 <script>
 (function () {
-  // These handlers are delegated on `document`, so they keep working across
-  // in-page navigations. Bind them once; this script re-runs on every visit.
   if (window.__raModalBound) { return; }
   window.__raModalBound = true;
 
@@ -136,8 +134,7 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-<!-- - *2026.08*: One first authored paper "SMARTFlexDB: a database of paired apo-holo RNA structures for analyzing conformational remodeling and small-molecule recognition" is released on ***[bioRxiv]()***. -->
-<!-- - *2026.09*: One first authored paper "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is accepted by ***[Nature Communications]()***! -->
+- *2026.09*: One first authored paper "SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition" is accepted by ***[Nucleic Acids Research]()***!
 - *2026.08*: One first authored paper "The landscape of single-cell foundation models: design principles, applications, and open challenges" is released as a ***[preprint](https://www.preprints.org/manuscript/202608.1166)***.
 - *2026.08*: One co-authored paper "Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs" is accepted by ***[Nature Communications]()***!
 - *2026.07*: One co-authored paper "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning" is released on ***[arXiv](https://arxiv.org/abs/2607.19400)***. Check out our [post](https://x.com/Xiaojie_Qiu/status/2077456094696456192).
@@ -194,12 +191,12 @@ function toggleAllPublications() {
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition]()
 
-**Shiyu Jiang**, Jinhang Wei, Amirhossein Taghavi, Gustavo Seabra, Jessica L. Childs-Disney, Chenglong Li, Matthew D. Disney, Yanjun Li &#42;. 2026. (Under Review)
+**Shiyu Jiang**, Jinhang Wei, Amirhossein Taghavi, Gustavo Seabra, Jessica L. Childs-Disney, Chenglong Li, Matthew D. Disney, Yanjun Li &#42;. *Nucleic Acids Research*, 2026.
 
 <div class="paper-link-buttons">
   <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">Web server</a>
@@ -554,4 +551,4 @@ Haoxin Ye, **Shiyu Jiang**, Yan Yan, Bin Zhao, Edward R Grant, David D Kitts, Ri
 
 # 📝 Service
 - **Journal reviewer**: IEEE Transactions on Computational Biology and Bioinformatics, PLoS Computational Biology;
-- **Conference reviewer**: AAAI 2026 2027, NeurIPS 2026;
+- **Conference reviewer**: AAAI 2026 2027, NeurIPS 2026, ICLR 2027;
