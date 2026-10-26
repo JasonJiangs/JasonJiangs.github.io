@@ -38,8 +38,8 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-drug-title">AI-driven drug discovery</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li><strong>Jiang, S.</strong>, Wei, J., Taghavi, A., Seabra, G., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y.&#42; (2026). SMARTFlexDB: A paired apo&#8211;holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition. <em>Nucleic Acids Research</em>. <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">https://aidd.rc.ufl.edu/app/smartflexdb/</a></li>
       <li><strong>Jiang, S.</strong>&#8224;, Taghavi, A.&#8224;, Wang, T., Sung, K., Meyer, S. M., Springer, N. A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D.&#42;, &amp; Li, Y.&#42; (2026). Small molecule approach to RNA targeting binder discovery (SMARTBind) using deep learning without structural input. <em>bioRxiv</em>. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/</a></li>
+      <li><strong>Jiang, S.</strong>, Wei, J., Taghavi, A., Seabra, G., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y.&#42; (2026). SMARTFlexDB: A paired apo&#8211;holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition. <em>Nucleic Acids Research</em>. <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1029/9001949">https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1029/9001949</a></li>
       <li>Zheng, X., <strong>Jiang, S.</strong>, Seabra, G., Li, C., &amp; Li, Y.&#42; (2026). Apo2Mol: 3D molecule generation via dynamic pocket-aware diffusion models. <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37138">https://ojs.aaai.org/index.php/AAAI/article/view/37138</a></li>
     </ul>
     <p class="ra-modal__footnote">&#8224; Equal contribution. &#42; Corresponding author.</p>
@@ -134,7 +134,6 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
-- *2026.09*: One first authored paper "SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition" is accepted by ***[Nucleic Acids Research]()***! Check out our [website](https://aidd.rc.ufl.edu/app/smartflexdb/).
 - *2026.08*: One first authored paper "The landscape of single-cell foundation models: design principles, applications, and open challenges" is released as a ***[preprint](https://www.preprints.org/manuscript/202608.1166)***.
 - *2026.08*: One co-authored paper "Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs" is accepted by ***[Nature Communications]()***!
 - *2026.07*: One co-authored paper "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning" is released on ***[arXiv](https://arxiv.org/abs/2607.19400)***. Check out our [post](https://x.com/Xiaojie_Qiu/status/2077456094696456192).
@@ -194,7 +193,7 @@ function toggleAllPublications() {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition]()
+[SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1029/9001949)
 
 **Shiyu Jiang**, Jinhang Wei, Amirhossein Taghavi, Gustavo Seabra, Jessica L. Childs-Disney, Chenglong Li, Matthew D. Disney, Yanjun Li &#42;. *Nucleic Acids Research*, 2026.
 
