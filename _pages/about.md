@@ -73,7 +73,7 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-exp-title">Experiment-driven protein and cellular engineering</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li>Cheng, L.&#8224;, Zheng, X.&#8224;, Ding, H.&#8224;, <strong>Jiang, S.</strong>, Hu, Y., Wang, C., Li, C.-L., Tian, Z., Leeuwon, R. J., Rui, J., Ye, H., Yuan, T., Liu, Y., Yang, K., Zhou, B., Huang, X.&#42;, &amp; Xiao, H.&#42; (2026). Sequence Display generates large-scale sequence&#8211;activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs. <em>Nature Communications</em>. Accepted in principle.</li>
+      <li>Cheng, L.&#8224;, Zheng, X.&#8224;, Ding, H.&#8224;, <strong>Jiang, S.</strong>, Hu, Y., Wang, C., Li, C.-L., Tian, Z., Leeuwon, R. J., Rui, J., Ye, H., Yuan, T., Liu, Y., Yang, K., Zhou, B., Huang, X.&#42;, &amp; Xiao, H.&#42; (2026). Sequence Display generates large-scale sequence&#8211;activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs. <em>Nature Communications</em>. <a href="https://www.nature.com/articles/s41467-026-79035-1">https://www.nature.com/articles/s41467-026-79035-1</a></li>
       <li>Cheng, L.&#8224;, Zheng, X.&#8224;, <strong>Jiang, S.</strong>&#8224;, Hu, Y., Liu, Y., Yang, K., Rui, J., Ding, H., Zhang, M., Yuan, T., Lu, Q., Ye, H., Li, C.-L., Guo, Y., Tian, Z., Qin, A., Zhou, B., Yang, K. K., Huang, X.&#42;, &amp; Xiao, H.&#42; (2026). Sequence Display: Generating large-scale sequence&#8211;activity datasets to advance universal protein evolution. <em>Nature Biotechnology</em>. <a href="https://www.nature.com/articles/s41587-026-03087-3">https://doi.org/10.1038/s41587-026-03087-3</a></li>
       <li>Yuan, T., Zhang, M., Cheng, L., Zheng, X., <strong>Jiang, S.</strong>, Huang, X., &amp; Xiao, H.&#42; (2025). Biocatalytic synthesis of N-protected &#945;-amino acids through 1,3-nitrogen migration by nonheme iron enzymes. <em>Journal of the American Chemical Society</em>, 147(48), 44041&#8211;44047. <a href="https://pubs.acs.org/doi/10.1021/jacs.5c11008">https://doi.org/10.1021/jacs.5c11008</a></li>
       <li>Hu, Y., Wang, Yixian, Cheng, L., Wang, C., Liu, Y., Wang, Yufei, Chen, Y., Yang, S., Guo, Y., <strong>Jiang, S.</strong>, Yang, K., &amp; Xiao, H.&#42; (2025). Engineering unnatural cells with a 21st amino acid as a living epigenetic sensor. <em>Nature Communications</em>, 16, 9388. <a href="https://www.nature.com/articles/s41467-025-64448-1">https://doi.org/10.1038/s41467-025-64448-1</a></li>
@@ -134,11 +134,11 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
+- *2026.10*: One co-authored paper "Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs" is on ***[Nature Communications](https://www.nature.com/articles/s41467-026-79035-1)***!
 - *2026.09*: One first authored paper "SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition" is accepted by ***[Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1029/9001949)***! Check out our [website](https://aidd.rc.ufl.edu/app/smartflexdb/).
 - *2026.08*: One first authored paper "The landscape of single-cell foundation models: design principles, applications, and open challenges" is released as a ***[preprint](https://www.preprints.org/manuscript/202608.1166)***.
-- *2026.08*: One co-authored paper "Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs" is accepted by ***[Nature Communications]()***!
 - *2026.07*: One co-authored paper "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning" is released on ***[arXiv](https://arxiv.org/abs/2607.19400)***. Check out our [post](https://x.com/Xiaojie_Qiu/status/2077456094696456192).
-- *2026.05*: One first authored paper "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" is accepted by ***[ACS Synthetic Biology](https://pubs.acs.org/doi/10.1021/acssynbio.6c00024)***!
+- *2026.06*: One first authored paper "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" is on ***[ACS Synthetic Biology](https://pubs.acs.org/doi/10.1021/acssynbio.6c00024)***!
 - *2026.05*: Our sequence display paper is featured as a research highlight in ***[Nature Methods](https://www.nature.com/articles/s41592-026-03106-w)*** and [Rice News](https://news.rice.edu/news/2026/scientists-uncover-new-method-generate-protein-datasets-training-ai)!
 - *2026.02*: One co-first authored paper "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-026-03087-3)***!
 
@@ -268,7 +268,7 @@ Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/SD_v2.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs]()
+[Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs](https://www.nature.com/articles/s41467-026-79035-1)
 
 Linqi Cheng †, Xinzhe Zheng †, Haoxue Ding †, **Shiyu Jiang**, Yu Hu, Chenhang Wang, Chen-Long Li, Zuotong Tian, Rain Jay Leeuwon, Jinyan Rui, Haoxin Ye, Teng Yuan, Yijie Liu, Kaiqiang Yang, Boyang Zhou, Xiongyi Huang &#42;, Han Xiao &#42;. *Nature Communications*, 2026. (Accepted in principle)
 
