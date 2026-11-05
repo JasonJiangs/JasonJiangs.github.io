@@ -140,7 +140,7 @@ across these fields, you can find them in the experience panel.
 - *2026.07*: One co-authored paper "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning" is released on ***[arXiv](https://arxiv.org/abs/2607.19400)***. Check out our [post](https://x.com/Xiaojie_Qiu/status/2077456094696456192).
 - *2026.06*: One first authored paper "Evaluating DNA function understanding in genomic language models using evolutionarily implausible sequences" is on ***[ACS Synthetic Biology](https://pubs.acs.org/doi/10.1021/acssynbio.6c00024)***!
 - *2026.05*: Our sequence display paper is featured as a research highlight in ***[Nature Methods](https://www.nature.com/articles/s41592-026-03106-w)*** and [Rice News](https://news.rice.edu/news/2026/scientists-uncover-new-method-generate-protein-datasets-training-ai)!
-- *2026.02*: One co-first authored paper "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is accepted by ***[Nature Biotechnology](https://www.nature.com/articles/s41587-026-03087-3)***!
+- *2026.04*: One co-first authored paper "Sequence Display: Generating Large-Scale Sequence–Activity Datasets to Advance Universal Protein Evolution" is on ***[Nature Biotechnology](https://www.nature.com/articles/s41587-026-03087-3)***!
 
 <details>
 <summary><strong>Earlier News (Click to Expand)</strong></summary>
@@ -188,21 +188,7 @@ function toggleAllPublications() {
 </script>
 
 <details open data-publications>
-<summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1029/9001949)
-
-**Shiyu Jiang**, Jinhang Wei, Amirhossein Taghavi, Gustavo Seabra, Jessica L. Childs-Disney, Chenglong Li, Matthew D. Disney, Yanjun Li &#42;. *Nucleic Acids Research*, 2026.
-
-<div class="paper-link-buttons">
-  <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">Web server</a>
-</div>
-</div>
-</div>
+<summary><span style="font-size: 1.3em; font-weight: bold; !important">In preprint &amp; Under review</span></summary>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
@@ -264,13 +250,32 @@ Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †
 </div>
 </div>
 
+</details>
+
+<details open data-publications>
+<summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1029/9001949)
+
+**Shiyu Jiang**, Jinhang Wei, Amirhossein Taghavi, Gustavo Seabra, Jessica L. Childs-Disney, Chenglong Li, Matthew D. Disney, Yanjun Li &#42;. *Nucleic Acids Research*, 2026.
+
+<div class="paper-link-buttons">
+  <a href="https://aidd.rc.ufl.edu/app/smartflexdb/">Web server</a>
+</div>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/SD_v2.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs](https://www.nature.com/articles/s41467-026-79035-1)
 
-Linqi Cheng †, Xinzhe Zheng †, Haoxue Ding †, **Shiyu Jiang**, Yu Hu, Chenhang Wang, Chen-Long Li, Zuotong Tian, Rain Jay Leeuwon, Jinyan Rui, Haoxin Ye, Teng Yuan, Yijie Liu, Kaiqiang Yang, Boyang Zhou, Xiongyi Huang &#42;, Han Xiao &#42;. *Nature Communications*, 2026. (Accepted in principle)
+Linqi Cheng †, Xinzhe Zheng †, Haoxue Ding †, **Shiyu Jiang**, Yu Hu, Chenhang Wang, Chen-Long Li, Zuotong Tian, Rain Jay Leeuwon, Jinyan Rui, Haoxin Ye, Teng Yuan, Yijie Liu, Kaiqiang Yang, Boyang Zhou, Xiongyi Huang &#42;, Han Xiao &#42;. *Nature Communications*, 2026.
 
 </div>
 </div>
