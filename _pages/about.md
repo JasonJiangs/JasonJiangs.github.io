@@ -18,10 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-Hi! My name is Shiyu Jiang. I am currently a PhD student in computer science at the University of Florida working 
-with [Prof. Yanjun Li](https://pharmacy.ufl.edu/profile/li-yanjun/) and [Prof. Matthew Disney](https://wertheim.scripps.ufl.edu/profile/disney-matthew/#page).
-My research lies at the intersection of AI and biology, where I design computational approaches to accelerate discoveries 
-in synthetic biology, drug discovery, and molecular interaction. Specifically, I primarily focus on those areas: <br>
+Hi! I'm Shiyu Jiang, a PhD student in Computer Science at the University of Florida. I work with
+[Prof. Yanjun Li](https://pharmacy.ufl.edu/profile/li-yanjun/) and [Prof. Matthew Disney](https://wertheim.scripps.ufl.edu/profile/disney-matthew/#page)
+in the [Department of Medicinal Chemistry](https://mc.pharmacy.ufl.edu/) and the [RNA Genomic Medicine Center](https://rna.scripps.ufl.edu/).
+My research lies at the intersection of AI and biology, where I design and apply predictive and generative approaches to accelerate research
+in synthetic biology, drug discovery, and molecular interactions. Specifically, I focus on the following areas: <br>
 
 - <button type="button" class="ra-trigger" data-ra-target="ra-modal-drug" aria-haspopup="dialog">AI-driven drug discovery<span class="ra-trigger__count">3 papers</span></button>: generative modeling and representation learning for molecular prediction, sequence design, and optimization; drug-induced cellular phenotype prediction; and structural data resources for ligand recognition.
 - <button type="button" class="ra-trigger" data-ra-target="ra-modal-lm" aria-haspopup="dialog">Foundation models for life sciences<span class="ra-trigger__count">8 papers</span></button>: single-cell foundation models and language models for protein and nucleic acid sequences, spanning model development, evaluation, and applications.
