@@ -39,7 +39,7 @@ across these fields, you can find them in the experience panel.
     <h3 class="ra-modal__title" id="ra-modal-drug-title">AI-driven drug discovery</h3>
     <p class="ra-modal__note">Related work, most recent first.</p>
     <ul class="ra-reflist">
-      <li><strong>Jiang, S.</strong>&#8224;, Taghavi, A.&#8224;, Wang, T., Sung, K., Meyer, S. M., Springer, N. A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D.&#42;, &amp; Li, Y.&#42; (2026). Small molecule approach to RNA targeting binder discovery (SMARTBind) using deep learning without structural input. <em>bioRxiv</em>. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/</a></li>
+      <li><strong>Jiang, S.</strong>&#8224;, Taghavi, A.&#8224;, Wang, T., Sung, K., Meyer, S. M., Springer, N. A., Wei, J., Childs-Disney, J. L., Li, C., Disney, M. D.&#42;, &amp; Li, Y.&#42; (2026). Small molecule approach to RNA targeting binder discovery (SMARTBind) using deep learning without structural input. <em>Nature Communications</em>. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/</a></li>
       <li><strong>Jiang, S.</strong>, Wei, J., Taghavi, A., Seabra, G., Childs-Disney, J. L., Li, C., Disney, M. D., &amp; Li, Y.&#42; (2026). SMARTFlexDB: A paired apo&#8211;holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition. <em>Nucleic Acids Research</em>. <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1029/9001949">https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1029/9001949</a></li>
       <li>Zheng, X., <strong>Jiang, S.</strong>, Seabra, G., Li, C., &amp; Li, Y.&#42; (2026). Apo2Mol: 3D molecule generation via dynamic pocket-aware diffusion models. <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37138">https://ojs.aaai.org/index.php/AAAI/article/view/37138</a></li>
     </ul>
@@ -135,6 +135,7 @@ across these fields, you can find them in the experience panel.
 - *2018 - 2022*, Bachelor of Science, Computer Science. Wenzhou-Kean University. *Wenzhou, China*
 
 # 📰 News
+- *2026.11*: One first-authored paper "Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input" is accepted by ***Nature Communications***!
 - *2026.10*: One co-authored paper "Sequence Display generates large-scale sequence-activity datasets for reprogramming SlugCas9 toward difficult-to-access PAMs" is on ***[Nature Communications](https://www.nature.com/articles/s41467-026-79035-1)***!
 - *2026.09*: One first authored paper "SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition" is accepted by ***[Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1029/9001949)***! Check out our [website](https://aidd.rc.ufl.edu/app/smartflexdb/).
 - *2026.08*: One first authored paper "The landscape of single-cell foundation models: design principles, applications, and open challenges" is released as a ***[preprint](https://www.preprints.org/manuscript/202608.1166)***.
@@ -192,21 +193,6 @@ function toggleAllPublications() {
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">In preprint &amp; Under review</span></summary>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/)
-
-**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Kisu Sung, Samantha M. Meyer, Noah A. Springer, Jinhang Wei, Jessica L. Childs-Disney, Chenglong Li, Matthew D. Disney &#42;, Yanjun Li &#42;. *bioRxiv*, 2026. (Under Review at ***Nature Portfolio***)
-
-<div class="paper-link-buttons">
-  <a class="star-badge" href="https://github.com/AIDD-LiLab/SMARTBind"><img src="https://img.shields.io/github/stars/AIDD-LiLab/SMARTBind?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
-  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qxL8FJ1GzNcC">Citations</span>
-</div>
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/scfm_review.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -255,6 +241,21 @@ Xibin Zhou †, Chenchen Han †, Yinqi Zhang †, Huan Du †, Jiayuan Tian †
 
 <details open data-publications>
 <summary><span style="font-size: 1.3em; font-weight: bold; !important">2026</span></summary>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/smartbind.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep Learning Without Structural Input](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485756/)
+
+**Shiyu Jiang** †, Amirhossein Taghavi †, Tenghui Wang, Kisu Sung, Samantha M. Meyer, Noah A. Springer, Jinhang Wei, Jessica L. Childs-Disney, Chenglong Li, Matthew D. Disney &#42;, Yanjun Li &#42;. *Nature Communications*, 2026. (Accepted in principle)
+
+<div class="paper-link-buttons">
+  <a class="star-badge" href="https://github.com/AIDD-LiLab/SMARTBind"><img src="https://img.shields.io/github/stars/AIDD-LiLab/SMARTBind?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+  <span class="citation-button show_paper_citations" data-paper-id="TchSd_cAAAAJ:qxL8FJ1GzNcC">Citations</span>
+</div>
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research</div><img src='images/smartflexdb.png' alt="sym" width="75%"></div></div>
